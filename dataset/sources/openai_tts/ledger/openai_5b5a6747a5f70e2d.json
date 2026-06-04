@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5b5a6747a5f70e2d",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_003",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "Please call us back at 555-0192, extension 4406, between 9 and 5 Eastern.",
+ "est_chars": 73,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 480044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608181
+}

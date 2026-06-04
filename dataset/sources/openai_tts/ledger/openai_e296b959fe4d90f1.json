@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e296b959fe4d90f1",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8882fda1bc41",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Port is a strong wine with a smoky taste.",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 172844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607241
+}

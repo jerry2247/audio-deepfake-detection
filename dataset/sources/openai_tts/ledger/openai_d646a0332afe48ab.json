@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d646a0332afe48ab",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_130917415b23",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The club is always looking for new players to compete in local leagues.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608248
+}

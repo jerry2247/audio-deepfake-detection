@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0572e0178932898a",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_26d216763935",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "in order for agriculture to continue to thrive there must be a streamlined process to bring seasonal temporary labor when necessary",
+ "est_chars": 131,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 364364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

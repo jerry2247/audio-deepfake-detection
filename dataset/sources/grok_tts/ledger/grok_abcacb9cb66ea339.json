@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_abcacb9cb66ea339",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_31439184da88",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "what europe needs is a closer integration in intelligence and law enforcement.",
+ "est_chars": 78,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608411
+}

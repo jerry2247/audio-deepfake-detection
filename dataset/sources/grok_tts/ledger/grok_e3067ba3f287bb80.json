@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e3067ba3f287bb80",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_be329a6072fb",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Fouls, on the other hand, can occur only while the ball is in play.</whisper>",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 209804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ac1631eeb5a3e6a5",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b3dc51eb45be",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Portuguese governor building and current administrative buildings is located here.",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 214604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608460
+}

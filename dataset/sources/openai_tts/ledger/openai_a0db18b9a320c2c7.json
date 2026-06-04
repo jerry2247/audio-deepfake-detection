@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a0db18b9a320c2c7",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_8235e17a8b6c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "They were quick to adopt quilted cotton armor based upon that used by their native opponents, and commonly combined this with the use of a simple metal war hat.",
+ "est_chars": 160,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 451244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7602827ad0d17e1b",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_afd41e36afbc",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So here we've looked at basically these, we correlated the data we generated for this protein across these four visits and we see that, you know, the protein is pretty, uh, the measurement is pretty stable over time.",
+ "est_chars": 216,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 629324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608415
+}

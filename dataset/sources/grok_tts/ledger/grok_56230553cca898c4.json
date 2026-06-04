@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_56230553cca898c4",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "singing",
+ "language": "en",
+ "text_id": "cur_sng_001",
+ "register": "singing",
+ "speed": "",
+ "instructions": "",
+ "text": "<singing>Row, row, row your boat, gently down the stream, merrily merrily merrily merrily, life is but a dream.</singing>",
+ "est_chars": 121,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 297164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608210
+}

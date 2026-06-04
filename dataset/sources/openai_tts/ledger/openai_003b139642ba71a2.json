@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_003b139642ba71a2",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_c0fd46532aed",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "With this comes a question of what specific summary statistics do we need to visualize? We will explore that in the coming slides.",
+ "est_chars": 130,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 451244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608200
+}

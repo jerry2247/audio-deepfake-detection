@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fa5c690b0082cd3b",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_0b23a6d16d3c",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it allows for the mutual recognition of protection measures which are based on civil law rather than criminal law. i would like to ask my colleagues to support this proposal.",
+ "est_chars": 174,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 510284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608264
+}

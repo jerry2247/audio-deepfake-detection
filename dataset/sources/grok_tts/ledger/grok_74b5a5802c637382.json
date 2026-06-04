@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_74b5a5802c637382",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_22ae12cb2b9c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Similarly, in some instances a small invading population can threaten much larger native populations",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 313484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608295
+}

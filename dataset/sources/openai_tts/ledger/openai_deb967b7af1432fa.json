@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_deb967b7af1432fa",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_07a82220ed82",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "His father taught him the basic technique which separates him from others.",
+ "est_chars": 74,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 220844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608191
+}

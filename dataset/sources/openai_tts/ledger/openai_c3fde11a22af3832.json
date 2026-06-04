@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c3fde11a22af3832",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_8f991be347ea",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "After Mumbai it also break all records of Bhojpuri box office in Bihar.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 388844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1ceae44628b913ef",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_abd6541103d8",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It doesn't matter when I put this on. This foundation looks beautiful on my mature skin. It never settles into fine lines and wrinkles.",
+ "est_chars": 135,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 375884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608360
+}

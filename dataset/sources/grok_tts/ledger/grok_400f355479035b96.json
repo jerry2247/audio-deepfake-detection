@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_400f355479035b96",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_004790c5bc9b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we need to delete the words in full' twice in this text to avoid misunderstanding as there may be a minor technical correction of the figures.",
+ "est_chars": 142,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 348044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608449
+}

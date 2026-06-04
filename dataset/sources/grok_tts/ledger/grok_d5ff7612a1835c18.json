@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d5ff7612a1835c18",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8a4f3b6f6fb9",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It does not certify the content of the document for which it was issued.",
+ "est_chars": 72,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 180044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608314
+}

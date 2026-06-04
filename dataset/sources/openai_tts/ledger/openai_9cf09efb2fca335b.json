@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9cf09efb2fca335b",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_6a4352cd9ada",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "And if you are in a team, it is across all the actions that are taken across the team.",
+ "est_chars": 86,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 388844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_20d04a946675b4b9",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d9993bfa8159",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Literally like ask yourself. So zero in on it in your body and ask it. What do you need? And listen for the first answer that pops in your mind.",
+ "est_chars": 144,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 411404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608429
+}

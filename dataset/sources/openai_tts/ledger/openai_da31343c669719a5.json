@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_da31343c669719a5",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "cur_num_005",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "Take Interstate 95 South for 12.4 miles, then exit 23B toward Route 1.",
+ "est_chars": 70,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 331244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

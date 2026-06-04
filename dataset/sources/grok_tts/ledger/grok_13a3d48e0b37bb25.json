@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_13a3d48e0b37bb25",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_87eee242d87c",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "now i want you all to listen in while i talk on this telephone",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 166604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608318
+}

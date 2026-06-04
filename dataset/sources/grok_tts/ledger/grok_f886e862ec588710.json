@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f886e862ec588710",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5880c3e50c6b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Her parents were Jewish immigrants, her father, Joseph, a German fur trader.",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 262604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608516
+}

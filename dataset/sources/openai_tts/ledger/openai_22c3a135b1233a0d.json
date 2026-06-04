@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_22c3a135b1233a0d",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_63230e3bd01d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It was an incredible app that they did. It was beautiful, slick, well done. Uhm, and so they put it up and it went live in the App Store, went immediately to number one that year. Uhm, did an incredible job.",
+ "est_chars": 207,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 669644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608203
+}

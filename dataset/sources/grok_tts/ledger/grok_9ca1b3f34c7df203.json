@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9ca1b3f34c7df203",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_a3aeba2ddc3b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "romania has made very good efforts very good achievements and progress in the last years but now it seems to waiver and i would really encourage the romania",
+ "est_chars": 156,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 412364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608468
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_718b2f3c1d1ab239",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_15fe3455c46a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "madam president the european union is based on common values. among them is that of respect for all nations and minorities and equal treatment for all eu residents regardless of their origin native language or religion.",
+ "est_chars": 219,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 618764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608368
+}

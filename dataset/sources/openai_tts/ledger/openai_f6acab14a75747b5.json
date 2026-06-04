@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f6acab14a75747b5",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_7d2bc681563b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "not later the and three months after the final report and the draft criteria the commission shall cons the european union equal labor board on draft proposal on this issue as i told",
+ "est_chars": 181,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 676844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608206
+}

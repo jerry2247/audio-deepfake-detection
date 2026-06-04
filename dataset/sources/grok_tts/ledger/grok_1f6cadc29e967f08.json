@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1f6cadc29e967f08",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_deac252b9301",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "My assignment has been completed and submitted.",
+ "est_chars": 47,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 141644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_407409c297635148",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_007",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "And the crowd goes absolutely wild as she crosses the finish line!",
+ "est_chars": 66,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 206444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0d88e979ec4cdb4c",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "support",
+ "language": "en",
+ "text_id": "cur_que_005",
+ "register": "question",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "Is it supposed to make that clicking noise when I turn the key?",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 163244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

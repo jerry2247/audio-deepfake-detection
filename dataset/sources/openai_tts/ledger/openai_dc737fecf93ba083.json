@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_dc737fecf93ba083",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "cur_dis_007",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "We should probably, I don't know, maybe ask someone who actually, like, knows tax law?",
+ "est_chars": 86,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 343244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

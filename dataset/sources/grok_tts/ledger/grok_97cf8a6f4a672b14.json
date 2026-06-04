@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_97cf8a6f4a672b14",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d32afd310128",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "This feature is very useful while writing repeated text in large documents. So we don't need to type the entire text repeatedly. We can simply copy and paste.",
+ "est_chars": 158,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 479564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608271
+}

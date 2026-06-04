@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f9a02ae9d21aa68b",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_4397232881df",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "i must say that i am appalled by the homophobia that i have heard.",
+ "est_chars": 66,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 206444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608261
+}

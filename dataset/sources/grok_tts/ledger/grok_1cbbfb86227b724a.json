@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1cbbfb86227b724a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_4c6dc648c52e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uh, you know, the process started in 2007, 2006, uh, and then the first Constituent Assembly was elected in May 2008.",
+ "est_chars": 117,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 535244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608399
+}

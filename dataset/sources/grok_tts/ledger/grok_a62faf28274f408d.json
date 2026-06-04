@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a62faf28274f408d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_4d8eccd43064",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Other specific countries or both in specific countries and also at the international level in terms of debate and lesson sharing.",
+ "est_chars": 129,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 288044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608363
+}

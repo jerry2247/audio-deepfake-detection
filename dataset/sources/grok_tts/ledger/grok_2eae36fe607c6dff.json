@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2eae36fe607c6dff",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_b731cd685e91",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Microphone, University of California, Berkeley, USATHE orbiter's mission was to take pictures from orbit, explore Mars atmosphere and relay information and images from the netlanders",
+ "est_chars": 182,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 522764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608440
+}

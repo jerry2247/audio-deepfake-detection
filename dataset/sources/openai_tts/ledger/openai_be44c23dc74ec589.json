@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_be44c23dc74ec589",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_037870d3cb8d",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Because \"Little Big Mom\" deals with leprosy, it has never been released in Japan.",
+ "est_chars": 81,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 283244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

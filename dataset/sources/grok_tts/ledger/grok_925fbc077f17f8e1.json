@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_925fbc077f17f8e1",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6aa3a361ffd7",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "is the industry investors and therefore i'm quite happy that both",
+ "est_chars": 65,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 224204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608512
+}

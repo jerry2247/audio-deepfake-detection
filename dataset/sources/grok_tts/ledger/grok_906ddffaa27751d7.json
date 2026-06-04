@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_906ddffaa27751d7",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8bbf0590191f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Despite this, Helena's abiding love for Demetrius remains consistent throughout the play.",
+ "est_chars": 89,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 241484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

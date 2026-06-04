@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_84933e65c6fe66f3",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ec54fa554417",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "In exchange for freeing her, Kaguya promises to grant Kagura her eternal freedom.",
+ "est_chars": 81,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608423
+}

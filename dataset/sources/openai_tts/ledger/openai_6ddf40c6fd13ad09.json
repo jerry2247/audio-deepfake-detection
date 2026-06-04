@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6ddf40c6fd13ad09",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_1bf5f2bb0b72",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i agree with that and that's why so if the judge makes an error they should wave their quantum meruit",
+ "est_chars": 101,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 312044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608254
+}

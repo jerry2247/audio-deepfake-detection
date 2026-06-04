@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e212fe0994f8506c",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a0a1c140a0b3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "I would have done certain things differently or I would have suggested the politicians to do certain things differently. So I'm sure there is something to learn from the Pali process and it's a real pleasure talking to you.",
+ "est_chars": 223,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 539084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608352
+}

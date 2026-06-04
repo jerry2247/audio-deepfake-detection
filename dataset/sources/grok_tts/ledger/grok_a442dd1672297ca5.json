@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a442dd1672297ca5",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_3f067260c7e6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "but look how small this repeater unit is it's smaller easier to make amplifier but made possible by developing the transistor the tiny piece of sound amplifying equipment that requires no warmup time and has an almost indefinite lifespan",
+ "est_chars": 237,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 780044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608313
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e8a734e7890cf4e4",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_78f4e8b413e0",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "He also lived for some time in Amsterdam.",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 223244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_af73f3239fc8bd84",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_a65878e536cb",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Among other nutrients lost are dietary fiber and small amounts of fatty acids.</whisper>",
+ "est_chars": 97,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 255884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608312
+}

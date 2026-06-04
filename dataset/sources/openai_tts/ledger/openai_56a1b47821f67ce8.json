@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_56a1b47821f67ce8",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_8fd2eefd0ff4",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thirdly the attractiveness of eu assistance is also important.",
+ "est_chars": 62,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 199244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608183
+}

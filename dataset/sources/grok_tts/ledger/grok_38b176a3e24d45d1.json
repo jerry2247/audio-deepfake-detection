@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_38b176a3e24d45d1",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_2ef12c26072c",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "therefore it's high time that you come forward with a proposal for review with an operational separation of the audit and non audit services under a direct eu supervision.",
+ "est_chars": 171,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 474764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608464
+}

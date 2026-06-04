@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7127f10e641e3ffd",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_001",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Watch out! The ladder is slipping! Grab the other side!",
+ "est_chars": 55,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 172844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

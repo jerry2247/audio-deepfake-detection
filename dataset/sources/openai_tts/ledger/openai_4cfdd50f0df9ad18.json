@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_4cfdd50f0df9ad18",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_06567ab98263",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "And the team in Katmandu said, hey, we have a problem. We don't have access to mine shirts.",
+ "est_chars": 91,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 360044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

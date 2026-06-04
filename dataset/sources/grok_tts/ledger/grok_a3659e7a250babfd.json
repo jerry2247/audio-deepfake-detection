@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a3659e7a250babfd",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5a1e8383aea3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He is studying for his university degree at Athabasca University.",
+ "est_chars": 65,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 199244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608523
+}

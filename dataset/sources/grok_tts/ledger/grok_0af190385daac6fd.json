@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0af190385daac6fd",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_7823e26e7e77",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "a european democracy needs more open and inclusive institutions. we need bold decisions in order to overcome mistrust and apathy.",
+ "est_chars": 129,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 397004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608351
+}

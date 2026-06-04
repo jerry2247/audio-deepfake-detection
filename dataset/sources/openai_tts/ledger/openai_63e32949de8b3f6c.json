@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_63e32949de8b3f6c",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "cur_dis_001",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "So, um, I was thinking—well, actually, never mind, it's—okay no, hear me out.",
+ "est_chars": 77,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 252044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608182
+}

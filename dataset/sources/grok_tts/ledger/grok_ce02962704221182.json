@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ce02962704221182",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_9e1ec008e04e",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "There are various teas which have additives or different processing than \"pure\" varieties.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 237644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608433
+}

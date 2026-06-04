@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b989ef62662baea4",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_6ec357b82ed7",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "In the fall the leaves turn many shades of orange and yellow.",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 177164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608379
+}

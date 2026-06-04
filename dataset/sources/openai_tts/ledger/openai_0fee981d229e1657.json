@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0fee981d229e1657",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_8a0bd411601b",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Red-Eye swung back and forth on the branch farther down.",
+ "est_chars": 56,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 216044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608221
+}

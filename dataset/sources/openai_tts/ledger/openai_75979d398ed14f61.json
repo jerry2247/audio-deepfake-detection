@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_75979d398ed14f61",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_cf0ab320fabd",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thank you mr president let me first of all thank all the members of parliament that have made interventions",
+ "est_chars": 107,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 300044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a9c09165c79c7764",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_b93c388bfcaa",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Badminton is my favorite type of racket sports.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 168044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608238
+}

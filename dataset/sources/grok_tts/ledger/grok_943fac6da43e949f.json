@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_943fac6da43e949f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_e29941192eda",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "For students who want to graduate early, the university offers a three-year degree option.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 229004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608491
+}

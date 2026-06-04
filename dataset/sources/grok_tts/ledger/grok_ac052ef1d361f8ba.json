@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ac052ef1d361f8ba",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_cc69ea9cf3cb",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Its territory included some of the most industrialized regions of the former Austria-Hungary",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608296
+}

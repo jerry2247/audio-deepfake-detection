@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d86de3a51ae34d69",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f8136a79a41b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It is situated to the north-west of the town centre.",
+ "est_chars": 52,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 133004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608470
+}

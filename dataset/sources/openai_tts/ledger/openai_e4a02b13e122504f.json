@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e4a02b13e122504f",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_15691778d8e5",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "His two eldest sons were killed in action in the Second World War.",
+ "est_chars": 66,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 268844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608252
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8c0824eb6e7b8f98",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_9af7f58a31e5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "now at that point in time when i got that letter i will be honest with you that was the first time i actually seriously considered throwing in the towel",
+ "est_chars": 152,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 434444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608210
+}

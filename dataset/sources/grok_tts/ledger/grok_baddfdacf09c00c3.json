@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_baddfdacf09c00c3",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_4ab66edd8fdb",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we are convinced that it's very useful for the quality of the funding programmes. it is based on a new focus on results and milestones that have to be achieved.",
+ "est_chars": 160,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 419084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608389
+}

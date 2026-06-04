@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b69b69a5cae364ae",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_60284aafaa14",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "I believe that chaos offers some useful ways of thinking about the world beyond science, but metaphors don't always work.",
+ "est_chars": 121,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 350444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608238
+}

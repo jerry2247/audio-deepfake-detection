@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_337c5a8e9fa93217",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_011",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "<pitch_high>And then the little mouse said, not me!</pitch_high> [pause] <pitch_low>But the old bear knew better.</pitch_low>",
+ "est_chars": 125,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 244364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608418
+}

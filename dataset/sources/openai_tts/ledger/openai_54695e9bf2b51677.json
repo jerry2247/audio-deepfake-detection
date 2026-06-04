@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_54695e9bf2b51677",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_75a383481c27",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "it's making people feel a little sicker she said she's seen more patients this year then at the same time last year",
+ "est_chars": 115,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 415244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608223
+}

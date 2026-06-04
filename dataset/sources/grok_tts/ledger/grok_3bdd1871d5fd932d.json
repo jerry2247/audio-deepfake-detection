@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3bdd1871d5fd932d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5393a9f7f096",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He wanted Nelson's disrespect witnessed.",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 133004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608328
+}

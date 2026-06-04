@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_215001f4a4b5b21e",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_22ae12cb2b9c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Similarly, in some instances a small invading population can threaten much larger native populations",
+ "est_chars": 100,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 403244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608237
+}

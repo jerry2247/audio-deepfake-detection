@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9c523b519f976a31",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_50b1d194a9a2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Let it burn, it gives us warmth and comfort.",
+ "est_chars": 44,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 163244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608185
+}

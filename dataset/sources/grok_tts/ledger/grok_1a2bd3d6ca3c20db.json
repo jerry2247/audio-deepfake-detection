@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1a2bd3d6ca3c20db",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_009",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "The CEO of NASA met with UNESCO and the WHO about the 2030 initiative.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 233804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608337
+}

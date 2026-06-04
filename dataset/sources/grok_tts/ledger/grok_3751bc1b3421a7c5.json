@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3751bc1b3421a7c5",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_bcb0afe6987e",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He wife Hannah was known for holding church socials at the Casady home.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 200204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608210
+}

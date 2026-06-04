@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_057528127fc42ae0",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_39754f9f8d3f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Warriors possess no additional abilities.",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 194444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607241
+}

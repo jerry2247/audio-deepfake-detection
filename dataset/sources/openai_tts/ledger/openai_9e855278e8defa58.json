@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9e855278e8defa58",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_77400db811a5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "the total cost of a burial with the plot for a municipal cemetery is ten thousand to twelve thousand",
+ "est_chars": 100,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 338444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608236
+}

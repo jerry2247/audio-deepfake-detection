@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e84ee8fa7b08596b",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_11f14be83a45",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Who is the blonde girl with the red skirt?",
+ "est_chars": 42,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 153644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_07f72d35ea1b2a33",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_016",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "Model X-200 ships in SKU batches of 144, with lead times of 6 to 8 weeks.",
+ "est_chars": 73,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 322124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608333
+}

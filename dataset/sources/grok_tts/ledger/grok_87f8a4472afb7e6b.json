@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_87f8a4472afb7e6b",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8fb7c52c2cd1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The episode \"Father's Day\" depicts two younger versions of Jackie also played by Coduri.",
+ "est_chars": 88,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 262604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608417
+}

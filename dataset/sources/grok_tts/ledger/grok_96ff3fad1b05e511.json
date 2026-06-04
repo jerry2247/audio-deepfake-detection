@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_96ff3fad1b05e511",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_25cfe8cd8652",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Bacon, pancakes and maple syrup is a hearty start to any day.",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 264044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608435
+}

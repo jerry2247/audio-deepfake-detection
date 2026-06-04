@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7b67575952b668c5",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_lng_002",
+ "register": "longform",
+ "speed": "",
+ "instructions": "",
+ "text": "Okay, welcome back everyone. Before the break we were talking about habit formation, and I want to pick up on something you said about morning routines, because I think people underestimate how much friction matters. When my alarm goes off, if my running shoes are not literally next to the bed, the probability that I go for that run drops by half. It sounds ridiculous, but the research backs this up: tiny obstacles compound. So my question for you is, when you work with clients who say they have no willpower, where do you actually start? Do you start with the environment, or do you start with the story they tell themselves about who they are?",
+ "est_chars": 650,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 1845644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608198
+}

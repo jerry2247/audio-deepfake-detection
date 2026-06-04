@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_36395d3951008864",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_de7bf230d194",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "At Pisa, Varchi studied to become a notary.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 144524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608279
+}

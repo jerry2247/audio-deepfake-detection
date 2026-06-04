@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fe9972ebcbf82b49",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f1f090d499a3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Phil, will you take a stance on this matter?",
+ "est_chars": 44,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 147404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608358
+}

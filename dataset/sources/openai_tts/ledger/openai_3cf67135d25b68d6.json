@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3cf67135d25b68d6",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b5d472f1e755",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Salvatore hides in a meat factory that he owns.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608219
+}

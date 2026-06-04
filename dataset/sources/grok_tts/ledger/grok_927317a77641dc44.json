@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_927317a77641dc44",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_db70acd211c4",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He played three One Day Internationals but no Test matches for the West Indies.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 209804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608390
+}

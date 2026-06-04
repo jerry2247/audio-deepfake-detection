@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_31b268168b93c2c7",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_004",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "[yawn] What time is it? [pause] You're kidding. We've been driving for eleven hours?",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 307724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608506
+}

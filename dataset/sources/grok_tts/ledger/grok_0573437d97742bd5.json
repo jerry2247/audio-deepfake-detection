@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0573437d97742bd5",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d709e709de7e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "But at eight years old I did get saved. I did get saved at eight years old.",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 196364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608322
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fab331b884f3a7a5",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_31c45b9bdc8b",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "so we didn't have you had they they produced these records basically alongside of their summary judgment motion",
+ "est_chars": 111,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 393644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608184
+}

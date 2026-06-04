@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6c8d46fc50602fbc",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_f25b46a15517",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "After the Civil War, cattlemen moved into the area.",
+ "est_chars": 51,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 186044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

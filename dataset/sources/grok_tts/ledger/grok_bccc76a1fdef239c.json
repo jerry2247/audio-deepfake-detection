@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_bccc76a1fdef239c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_aada317e5b48",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "twenty you are attacking the principle of proportionality and the principle of representation by depriving a lot of polish citizens of their voices.",
+ "est_chars": 148,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 419084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

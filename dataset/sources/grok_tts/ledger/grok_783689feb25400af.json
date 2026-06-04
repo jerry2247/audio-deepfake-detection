@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_783689feb25400af",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_c46b3e71dbe4",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "however when it comes to cooperation among the eu countries in bringing to justice those who committed crimes against humanity there is still a lack of understanding.",
+ "est_chars": 166,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 418124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608364
+}

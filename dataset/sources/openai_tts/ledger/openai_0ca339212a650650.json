@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0ca339212a650650",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_740b7f056b30",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "And there's a great website called Class Central. I have the URL there on the page. If you want to",
+ "est_chars": 98,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 384044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608215
+}

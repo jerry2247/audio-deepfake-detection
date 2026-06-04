@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8d1465d37c4af29e",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_af07957744f2",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "and as well is wrong to blame others they want to destroy the euro no one wants to destroy the euro here",
+ "est_chars": 104,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 436844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

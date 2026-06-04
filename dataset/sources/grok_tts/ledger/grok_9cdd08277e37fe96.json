@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9cdd08277e37fe96",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_b36098aa5bc6",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "if bafin does not do its job germany will lose its reputation in the financial world and investors will lose confidence.",
+ "est_chars": 120,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 386444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608433
+}

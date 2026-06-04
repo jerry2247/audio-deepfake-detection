@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d4ba160b272b7e28",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_018",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "I can't feel my hands. Why can't I feel my hands? Call someone, please.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608233
+}

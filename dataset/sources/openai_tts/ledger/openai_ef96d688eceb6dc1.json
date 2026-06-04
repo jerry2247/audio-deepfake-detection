@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ef96d688eceb6dc1",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_16e40a7e3358",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Yes, you see that 9000C? Right, the Juki Corporation, still made in China. Still made in China, if you could see that tiny.",
+ "est_chars": 123,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 432044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

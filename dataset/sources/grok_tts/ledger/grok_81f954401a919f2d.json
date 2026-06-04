@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_81f954401a919f2d",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6c0dee4c7d56",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i just wanna say there is kind of a feeling in the community",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 147404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608396
+}

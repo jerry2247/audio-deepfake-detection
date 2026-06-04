@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1163c8994f4cb75e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_347353c1383e",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Wasn't there a command line client for ordering pizza somewhere?",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608350
+}

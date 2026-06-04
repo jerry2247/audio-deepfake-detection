@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_95e1b7d88c0ab09a",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1d1c4dd4c9a0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "An uncredited Jim Hutton appears briefly as the principal of a competing school.",
+ "est_chars": 80,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 244844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608263
+}

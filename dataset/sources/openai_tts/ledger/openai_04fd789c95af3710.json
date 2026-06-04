@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_04fd789c95af3710",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_emo_014",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Every single morning I wake up and for two seconds I forget what happened.",
+ "est_chars": 74,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 220844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608264
+}

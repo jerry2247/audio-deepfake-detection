@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_489ac54ca2a6a47f",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c3782aef8bc0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Chicago Bulls formerly practiced at the Berto Center in Deerfield.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 193484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608228
+}

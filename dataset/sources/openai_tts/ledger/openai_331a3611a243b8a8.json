@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_331a3611a243b8a8",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_921421b71c7f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "As kings died, others came along and new temples were constructed in their honor.",
+ "est_chars": 81,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 333644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608226
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_58a78087838ed7cd",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_que_012",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "Remember to water the plants while I'm gone. The ferns need it every other day.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 230924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608307
+}

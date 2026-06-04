@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0bd1a44bd3e9160d",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_d5ae46be6098",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Plants are usually monoicous, and sexual reproduction is by antheridia and archegonia.</whisper>",
+ "est_chars": 105,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 296204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608476
+}

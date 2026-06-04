@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b88c8ffcafd8a9c5",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "cur_dis_008",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "And then he goes—you're not gonna believe this—he goes, 'that was never in the budget.'",
+ "est_chars": 87,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 355244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608208
+}

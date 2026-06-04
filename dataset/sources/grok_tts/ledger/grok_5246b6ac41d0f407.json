@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5246b6ac41d0f407",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_5cb39658c4f9",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Turkey is dismantling the incentive system.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 169244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608294
+}

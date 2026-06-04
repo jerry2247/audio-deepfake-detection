@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_876c58dbc5264cb9",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_6cd679da4ae9",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Its territory is now in western Croatia.",
+ "est_chars": 40,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 172844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607241
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d2e263bb54e2e338",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1c0ac8074b29",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The life of that bungee jumper dangles on a string, in the truest sense of the word.",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 231884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608520
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_513e4a2e524a60d5",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_1fecac493522",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "So I think I can see how this movie is gonna go. If you like these kind of videos, make sure to like, subscribe and comment down below what other kind of content you wanna see on this channel. Now let's get into this shit show.",
+ "est_chars": 227,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 691244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

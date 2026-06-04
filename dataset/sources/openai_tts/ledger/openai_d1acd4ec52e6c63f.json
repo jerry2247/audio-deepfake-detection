@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d1acd4ec52e6c63f",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5fda30e36a70",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "your question is fully justified. this is exactly the question i am asking the danish presidency because the danish presidency is leading these talks and it must know for what reasons those countries are objecting.",
+ "est_chars": 214,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 600044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608209
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0b7e6949bb2636f1",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_371a1e1daf33",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the fact that young people are ready to do that and that we enable them to do it and to develop their capacities reflects a good european attitude.",
+ "est_chars": 147,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 412364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

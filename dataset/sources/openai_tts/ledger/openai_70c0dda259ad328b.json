@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_70c0dda259ad328b",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_b17e020dd04b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "In contrast to all these ant species, and despite their enormous diversity of prey, doryless ants rarely consume termites.Ants are not the only invertebrates that perform raids",
+ "est_chars": 176,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 518444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608244
+}

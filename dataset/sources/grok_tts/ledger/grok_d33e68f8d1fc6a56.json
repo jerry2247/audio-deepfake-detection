@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d33e68f8d1fc6a56",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_59f4df01aa7f",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Is producing an area around it where this flux of relic neutrinos from the cosmos.",
+ "est_chars": 82,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 211982,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608358
+}

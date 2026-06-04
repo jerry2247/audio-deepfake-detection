@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fc25bae572ccc199",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5681cea8f724",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "then we as a parliament could take our responsibility and quickly vote through these measures because they will need to take effect on one january.",
+ "est_chars": 147,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 477644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608253
+}

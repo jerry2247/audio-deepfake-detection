@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f66962c10d968504",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_326d9bc371bf",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the credibility that we need before a jury when we're going into a trial trying to guide the jury through six and a half weeks of testimony",
+ "est_chars": 139,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 373004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608302
+}

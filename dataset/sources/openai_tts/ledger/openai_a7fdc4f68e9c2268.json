@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a7fdc4f68e9c2268",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_21106fa9627e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "let's start indeed on the positive notes the european economy is",
+ "est_chars": 64,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608218
+}

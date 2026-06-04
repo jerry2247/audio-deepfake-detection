@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_03759d595040bc59",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_740b7f056b30",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And there's a great website called Class Central. I have the URL there on the page. If you want to",
+ "est_chars": 98,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 279884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608346
+}

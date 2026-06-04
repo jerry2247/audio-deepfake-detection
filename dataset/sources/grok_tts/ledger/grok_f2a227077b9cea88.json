@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f2a227077b9cea88",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_5963cf0aeced",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "In fact, at the time, Kimmel was not aware of Washington's eight-action policy.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 312044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

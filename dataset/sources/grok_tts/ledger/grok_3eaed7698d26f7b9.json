@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3eaed7698d26f7b9",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_d66be9cf5072",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "It is also funded through the National Lottery, Creative Scotland and Northern Ireland Screen.",
+ "est_chars": 94,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 321644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608289
+}

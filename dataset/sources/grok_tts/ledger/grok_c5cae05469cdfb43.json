@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c5cae05469cdfb43",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_77400db811a5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the total cost of a burial with the plot for a municipal cemetery is ten thousand to twelve thousand",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 279884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608403
+}

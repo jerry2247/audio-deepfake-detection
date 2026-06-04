@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_75b3e4ccad0030d0",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_b731cd685e91",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Microphone, University of California, Berkeley, USATHE orbiter's mission was to take pictures from orbit, explore Mars atmosphere and relay information and images from the netlanders",
+ "est_chars": 182,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 650444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608234
+}

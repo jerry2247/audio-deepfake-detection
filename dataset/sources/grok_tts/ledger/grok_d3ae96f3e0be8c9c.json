@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d3ae96f3e0be8c9c",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_e95636b2e41b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Tadpoles are eaten by fish, beetles, dragonfly larvae and birds.",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 236684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608436
+}

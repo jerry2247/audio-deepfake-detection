@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a51f776a65f97e6f",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_d3a8054741ca",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "All values of that type have the same combination of field types.",
+ "est_chars": 65,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 234044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608481
+}

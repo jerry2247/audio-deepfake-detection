@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1d1e1eb8b2df9d7a",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_e80ae1674c84",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And that's why we said that contact of course needed to do zero coming into this with the way that the map VO went down. It just seems like their map pool overall is a little too small coming into these best threes.",
+ "est_chars": 215,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 734444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d4536479480e72fe",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_4d85ecf95786",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Goll killed his mother by mistake with a bone.",
+ "est_chars": 46,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 139724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608504
+}

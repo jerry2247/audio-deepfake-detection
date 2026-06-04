@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f436c76a0853fc5a",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_d11ac5352e33",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The people who enjoys majority support of the MPTCs, means if there are 50 MPTCs, anyone who gets a support of 26 MPTCs will be called as a chairman.",
+ "est_chars": 149,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 595244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608218
+}

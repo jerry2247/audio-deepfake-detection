@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a9bc4e72af207524",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6f63ebb10117",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "there many aspects of the behavior of materials on mars that are different to earth",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 220364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608407
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_61029339ea96d350",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_52a729d38336",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "At this conference, ministers from all WTO members launched the Doha Development Agenda",
+ "est_chars": 87,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 321644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

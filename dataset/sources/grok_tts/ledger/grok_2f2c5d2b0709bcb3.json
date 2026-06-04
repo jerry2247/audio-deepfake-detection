@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2f2c5d2b0709bcb3",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0e99deb455e2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The British later intervened and demanded compensation from the United States for the occupation.",
+ "est_chars": 97,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608426
+}

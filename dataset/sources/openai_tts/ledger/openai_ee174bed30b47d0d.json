@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ee174bed30b47d0d",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_4f5440d17a4f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Lanterns decorate the stage with the names of festival sponsors.",
+ "est_chars": 64,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 216044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608229
+}

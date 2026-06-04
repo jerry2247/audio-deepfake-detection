@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_684555153aaab5fb",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_93b007fad641",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "now the issue where we differ and the certain observation comes to the point where we are today in fact we all know",
+ "est_chars": 115,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 338444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608326
+}

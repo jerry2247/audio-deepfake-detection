@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8c7438a6a3a31ce0",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_61ac80454ed5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "an affidavit which authenticated those exhibits and they were provided to the court",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 199244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608226
+}

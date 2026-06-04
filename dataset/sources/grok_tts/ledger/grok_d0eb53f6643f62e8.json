@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d0eb53f6643f62e8",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_2dcbe2912ec2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The nearest railway is at Labytnangi on the opposite side of the river Ob.</whisper>",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 284684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608303
+}

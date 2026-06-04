@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e3fe81b856c2c323",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_de7bf230d194",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "At Pisa, Varchi studied to become a notary.",
+ "est_chars": 43,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 148844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

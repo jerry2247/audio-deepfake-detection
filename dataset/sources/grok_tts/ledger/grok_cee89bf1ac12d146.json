@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cee89bf1ac12d146",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f2a2580801b5",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Everhard's adult film career began in Canada, performing for web sites.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 226124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608500
+}

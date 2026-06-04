@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b19c1939c8e3197e",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "cur_twi_007",
+ "register": "dense",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Eleven benevolent elephants delivered twelve developmental anniversaries.",
+ "est_chars": 73,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 283244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608488
+}

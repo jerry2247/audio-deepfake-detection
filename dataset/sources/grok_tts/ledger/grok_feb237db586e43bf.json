@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_feb237db586e43bf",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_933a0a04ba7c",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Dodds has also produced many academic credentials and academic publications.",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608523
+}

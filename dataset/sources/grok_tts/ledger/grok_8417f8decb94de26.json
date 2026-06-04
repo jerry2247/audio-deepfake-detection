@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8417f8decb94de26",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_4b602cd45109",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "I still wanted to try out a haunted house here in Austin. There's actually two that I know of. I think there are probably more. This haunted house that we're going to is called House of Torment.",
+ "est_chars": 194,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 485324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608516
+}

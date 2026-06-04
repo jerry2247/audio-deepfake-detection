@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6ee42860b5d07d86",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_f8b1fc63a7db",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Successive atoms become smaller because they are filling orbits of",
+ "est_chars": 66,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 183884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7c20ec950d60febc",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_af07957744f2",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "and as well is wrong to blame others they want to destroy the euro no one wants to destroy the euro here",
+ "est_chars": 104,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 298124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608318
+}

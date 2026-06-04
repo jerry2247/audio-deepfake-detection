@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b345c954b4a8e716",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_526fe8b0e47d",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thank you mrs president i visited lebanon a few weeks ago where i also met with syria and refugees none of them expressed a week",
+ "est_chars": 128,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 506444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608267
+}

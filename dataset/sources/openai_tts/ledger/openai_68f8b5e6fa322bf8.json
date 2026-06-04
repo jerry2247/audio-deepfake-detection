@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_68f8b5e6fa322bf8",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_002",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Goal! An absolute screamer from thirty yards out! Unbelievable!",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 285644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608217
+}

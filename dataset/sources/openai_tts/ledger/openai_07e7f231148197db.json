@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_07e7f231148197db",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_d485b30de2dc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The flowers are white with yellowish dots.",
+ "est_chars": 42,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 175244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607241
+}

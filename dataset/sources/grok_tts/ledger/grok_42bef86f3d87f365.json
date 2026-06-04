@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_42bef86f3d87f365",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_e80ae1674c84",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "And that's why we said that contact of course needed to do zero coming into this with the way that the map VO went down. It just seems like their map pool overall is a little too small coming into these best threes.",
+ "est_chars": 215,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 428352,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608271
+}

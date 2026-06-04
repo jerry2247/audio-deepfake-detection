@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7c982d470d2bc5c5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_967fe425ccb0",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we need to stop talking only about the energy targets we have to speak about how to implement these.",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 259724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608341
+}

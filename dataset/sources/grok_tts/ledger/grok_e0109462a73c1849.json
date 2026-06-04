@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e0109462a73c1849",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_c7cc2b3f3036",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "and he told at that time georgia today about stage tomorrow ukraine tomorrow sorry about it's after tomorrow at next step poland now we are one step",
+ "est_chars": 148,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 493004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608403
+}

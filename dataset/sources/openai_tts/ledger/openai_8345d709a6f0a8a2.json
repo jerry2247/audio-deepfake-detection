@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8345d709a6f0a8a2",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_639a2847a3a2",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "This is their first engine to combust liquid oxygen and liquid methane propellants. In September 2014—in a choice labeled",
+ "est_chars": 121,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 448844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608186
+}

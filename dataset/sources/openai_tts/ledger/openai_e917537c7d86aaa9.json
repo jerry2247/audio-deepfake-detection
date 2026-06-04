@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e917537c7d86aaa9",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_16738efe0049",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "In the flashes of lightning they see the fire of the artillery.",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 194444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608241
+}

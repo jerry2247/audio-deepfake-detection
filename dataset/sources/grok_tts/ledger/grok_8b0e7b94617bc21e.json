@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8b0e7b94617bc21e",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_66f1839ffbf6",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "yet it is their ideology that leads them to ignore their own evidence.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 205004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608498
+}

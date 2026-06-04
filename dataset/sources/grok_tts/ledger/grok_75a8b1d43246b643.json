@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_75a8b1d43246b643",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_5765a74c825f",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "The zeal and completeness with which he elaborates what I've called a mammoth handbook of how to make a Matisse.",
+ "est_chars": 112,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 211244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_feb02773d582f1bc",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_6f1398a3a39f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Suicide, then, also must be rejected: without man, the absurd cannot exist.",
+ "est_chars": 75,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 254444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

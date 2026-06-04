@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f20c394cc1f00324",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_799867e146e1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so really looking for ways to open up the park and make it much more userfriendly and to cater to a whole range of audiences",
+ "est_chars": 124,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 334604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608328
+}

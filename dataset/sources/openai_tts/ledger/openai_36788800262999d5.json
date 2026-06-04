@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_36788800262999d5",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6d2876e771c2",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the floor now to mr tan two minutes mr president since the abolition of the nepalese monarchy and the election of a mais led government in kaman do nepal and china have inevitably grown much closer it's no",
+ "est_chars": 205,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 744044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

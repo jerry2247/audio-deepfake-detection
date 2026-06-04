@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c543b3b00cd45f72",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_2a6bd0d869b3",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the report states very clearly that the current concept for the determination of non preferential origin of goods should be maintained.",
+ "est_chars": 135,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 384524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608430
+}

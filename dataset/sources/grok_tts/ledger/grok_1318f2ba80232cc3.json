@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1318f2ba80232cc3",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_88d600e27a6d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The New Mexico House of Representatives passed a resolution in honor of Tombor, a longtime resident of that state, that declared that Pluto will always be considered a planet while in New Mexican skies and that March 13, 2007, was Pluto Planet Day",
+ "est_chars": 247,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 741644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608289
+}

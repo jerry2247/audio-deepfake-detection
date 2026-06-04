@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2be1437c9e1f6d66",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_8135f691b55f",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The tenant always paid his rent on time.",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 146444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608458
+}

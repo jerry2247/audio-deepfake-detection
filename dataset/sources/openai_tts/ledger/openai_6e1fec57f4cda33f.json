@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6e1fec57f4cda33f",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2dafe1c2312f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "She lived with her aunt after her mother died.",
+ "est_chars": 46,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 172844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608234
+}

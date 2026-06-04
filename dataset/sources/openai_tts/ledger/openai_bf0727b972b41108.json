@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bf0727b972b41108",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_c3782aef8bc0",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The Chicago Bulls formerly practiced at the Berto Center in Deerfield.",
+ "est_chars": 70,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608189
+}

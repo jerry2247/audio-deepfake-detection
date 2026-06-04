@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e476c38df33060c9",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_5e70f3891da3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "madam speaker last week despite the best efforts of the democratic majority and about forty four republicans we were unable to override the president's veto of a health insurance for the children of poor and working families",
+ "est_chars": 224,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 739244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608212
+}

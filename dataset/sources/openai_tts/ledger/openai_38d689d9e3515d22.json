@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_38d689d9e3515d22",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_dc49428f4850",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The resulting textures are a little different but mostly for the initiated taster.",
+ "est_chars": 82,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608237
+}

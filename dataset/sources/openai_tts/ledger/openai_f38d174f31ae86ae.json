@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f38d174f31ae86ae",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_e3dd9a1e6ce3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "But if you recog- if I'm saying these words and you're like, oh my GM does-",
+ "est_chars": 75,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 259244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

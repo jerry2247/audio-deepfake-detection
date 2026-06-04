@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_231dbf8de1706601",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_fab22fad9429",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The album features an array of performers with never before available performances on record.",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 264524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608315
+}

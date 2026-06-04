@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4a6a98645aeb8c0b",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_3b8d8da8a413",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Baha'u'llah, the Bab, and backquote Abdul Baha wrote many prayers for general use, and some for specific occasions, including for unity, detachment, spiritual upliftment, and healing among others",
+ "est_chars": 195,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 618764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608414
+}

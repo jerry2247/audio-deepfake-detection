@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a711590ede07fd19",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2a9045b64384",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "One week later she was released after successfully appealing her arrest.",
+ "est_chars": 72,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 183884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608343
+}

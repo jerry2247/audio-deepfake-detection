@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_23b578849e0d4f91",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_que_007",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "Could you pass me the smaller screwdriver? No, the other one. The Phillips.",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 236684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608501
+}

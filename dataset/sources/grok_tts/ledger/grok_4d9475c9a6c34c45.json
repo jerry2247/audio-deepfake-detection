@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4d9475c9a6c34c45",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_48e091449546",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the belmont center business association honored mahoney at his final meeting with him as the bank president on march 19th",
+ "est_chars": 121,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 347084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608454
+}

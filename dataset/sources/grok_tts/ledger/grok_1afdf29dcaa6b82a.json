@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1afdf29dcaa6b82a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_53ba72ef1d8c",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "what about the pto's response itself to those statements we're looking at judicial estoppel or prosection history estoppel",
+ "est_chars": 122,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 337484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608484
+}

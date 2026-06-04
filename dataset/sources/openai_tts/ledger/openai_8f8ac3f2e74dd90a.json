@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8f8ac3f2e74dd90a",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_6fa5ba06e5db",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "But instead I'm going to show you how to do this, uh, by hand. So we've got two equations. We have a y equals, let's see, m.",
+ "est_chars": 124,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 496844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608218
+}

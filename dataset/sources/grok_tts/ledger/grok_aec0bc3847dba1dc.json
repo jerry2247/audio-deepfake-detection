@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_aec0bc3847dba1dc",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_907001910bd1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The three groups are not believed to form a clade.",
+ "est_chars": 50,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 118604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608234
+}

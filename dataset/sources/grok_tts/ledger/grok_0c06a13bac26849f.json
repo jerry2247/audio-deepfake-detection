@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0c06a13bac26849f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_b2d5e904f88a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the public outreach approach taken by epa does not and cannot take the place of a panel",
+ "est_chars": 87,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 281804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608489
+}

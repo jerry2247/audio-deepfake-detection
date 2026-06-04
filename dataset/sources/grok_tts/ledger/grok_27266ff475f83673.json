@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_27266ff475f83673",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_34389fa9fb63",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "we maintain many of the deltas all the trees on concord avenue were bought and purchased by the garden club",
+ "est_chars": 107,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 287564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608493
+}

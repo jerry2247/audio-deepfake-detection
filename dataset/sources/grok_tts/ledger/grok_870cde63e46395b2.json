@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_870cde63e46395b2",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1da65050653b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Many notable problem and study composers are also International Judges, including Genrikh Kasparyan.",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 325004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608503
+}

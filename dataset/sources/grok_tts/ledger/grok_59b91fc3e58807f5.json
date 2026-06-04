@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_59b91fc3e58807f5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_135adf072055",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "what epa has done is to make sure that the small businesses are not burdened by the kinds of regulations that don't make sense",
+ "est_chars": 126,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 353804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608270
+}

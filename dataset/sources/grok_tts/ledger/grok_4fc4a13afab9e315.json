@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4fc4a13afab9e315",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d3142d4fff96",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the eu will not be able to finance their green dream if the financial world cannot rely on the bafin.",
+ "est_chars": 101,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 287564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608524
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3b62a6c51530c490",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_57b85dfce51a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "commercial practices the commission will also address the issue of commercial practices whereby travel services providers who market their services online offer additional services in an unclear or ambiguous manner such as hiding the option of not booking any further services and the commission",
+ "est_chars": 295,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 820844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608236
+}

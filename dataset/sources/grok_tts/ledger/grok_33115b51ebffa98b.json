@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_33115b51ebffa98b",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_fb97411b1098",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The west town line is the border of Fulton County, New York.",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 207644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608328
+}

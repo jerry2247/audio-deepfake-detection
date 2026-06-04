@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f34060db380e13a4",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_77c68a833a41",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "especially when we are talking about our neighbourhood in africa. this is really also about our security. without development in these regions we will also be in trouble.",
+ "est_chars": 170,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 480044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

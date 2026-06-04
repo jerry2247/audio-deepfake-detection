@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4222d20dc248c10d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a197d03cd98b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uh, such a joke. They own DC, but they have only a few DC shows. Rest in peace.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 301964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608222
+}

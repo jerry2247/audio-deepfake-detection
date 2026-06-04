@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1c95dad2ab9edf6f",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_d485b30de2dc",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The flowers are white with yellowish dots.",
+ "est_chars": 42,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 204044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608198
+}

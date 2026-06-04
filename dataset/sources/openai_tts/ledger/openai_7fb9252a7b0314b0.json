@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7fb9252a7b0314b0",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_880271595af5",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "ever since then to better have been under the control of beijing the traditional the traditional but tobe",
+ "est_chars": 105,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 352844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608245
+}

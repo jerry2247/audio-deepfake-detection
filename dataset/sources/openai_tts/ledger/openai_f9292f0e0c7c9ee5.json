@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f9292f0e0c7c9ee5",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_beb06595d648",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Wilson and Nguyen state that the students realize there is little or no direct link between the subjects they are doing and their perceived future in the labor market",
+ "est_chars": 166,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 463244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608231
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ac3216a5596a61d1",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_6a4352cd9ada",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And if you are in a team, it is across all the actions that are taken across the team.",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 216524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608286
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d321577fa3051abc",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "soft",
+ "language": "en",
+ "text_id": "cur_whi_005",
+ "register": "whisper",
+ "speed": "",
+ "instructions": "",
+ "text": "<soft>Look to your left. Slowly. Is that who I think it is?</soft>",
+ "est_chars": 66,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 205004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608249
+}

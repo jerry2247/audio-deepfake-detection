@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0b6adf4a6b77e541",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3050a47e6168",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It was subsequently purchased by Joseph Medill Patterson and Robert McCormick.",
+ "est_chars": 78,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 256844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608221
+}

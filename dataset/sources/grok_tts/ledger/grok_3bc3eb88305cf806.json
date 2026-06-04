@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3bc3eb88305cf806",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1385a9dd7d66",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Hold your nose to keep the smell from disabling your motor functions.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 166604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608452
+}

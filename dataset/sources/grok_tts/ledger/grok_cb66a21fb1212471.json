@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cb66a21fb1212471",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_c2dbac123118",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Many hospitals around the country reported shortages of beds and supplemental oxygen.</whisper>",
+ "est_chars": 104,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 435404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608301
+}

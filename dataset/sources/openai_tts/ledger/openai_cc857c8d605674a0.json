@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cc857c8d605674a0",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_1ef950116326",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "the future of education depends on us making sure that all individuals without discrimination have access to education.",
+ "est_chars": 119,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 355244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

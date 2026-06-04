@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b3f5793faea52cf6",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_018",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "Dosage is 200 milligrams twice daily for 10 days, with food, not exceeding 1.2 grams per day.",
+ "est_chars": 93,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 331244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608252
+}

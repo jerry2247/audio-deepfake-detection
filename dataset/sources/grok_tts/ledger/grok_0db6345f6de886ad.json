@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0db6345f6de886ad",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_aff62dcbe438",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "but at the same time we should not try to force them all into a straitjacket of one single answer to their problems. the brotherhood of nations belongs in the hearts of men not in supranational institutions.",
+ "est_chars": 207,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 590924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608328
+}

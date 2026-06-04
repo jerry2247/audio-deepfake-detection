@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0e242f1352651100",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5eaf3be9665e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "There can be many different answers to prayer, just as there are many ways to interpret an answer to a question if there in fact comes an answer",
+ "est_chars": 144,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 351884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608294
+}

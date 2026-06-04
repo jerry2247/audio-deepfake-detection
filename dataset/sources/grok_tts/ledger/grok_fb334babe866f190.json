@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fb334babe866f190",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_b2d2ab9e32fe",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we will ask the commission to come up with a legal framework to prevent this and make supply chains bringing products to our markets sustainable.",
+ "est_chars": 145,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 333644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608320
+}

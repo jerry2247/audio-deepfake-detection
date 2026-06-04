@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ce1fa16a240a0c2c",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_e789d8d3e7df",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "sure you have reached been reached of the reports of persecution that has increased thirty-three or more youth being detained and also we have reports of sexual assault in de in detention of violence and it's also a question",
+ "est_chars": 224,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 647564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608289
+}

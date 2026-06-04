@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3d84d10404d46941",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_7b747c68f8da",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So for example here catch expr2 plus message, so the catch returns 0 for okay and then 1",
+ "est_chars": 88,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 349004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608403
+}

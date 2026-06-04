@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_570070c1e204f0b0",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_e7048ed31fa6",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the external observers it might be even a paradox because we are claiming shortage of money shortage of payment and on the other hand we have a surplus but this is the complexity of",
+ "est_chars": 181,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 503564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608433
+}

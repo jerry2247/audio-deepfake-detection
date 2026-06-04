@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9e000ec5e0d8ca7e",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_731d322344d2",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Welcome to another seminar by the Instituto de Astrofísica de Andalucía, in Granada, in Spain.",
+ "est_chars": 94,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 320204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608335
+}

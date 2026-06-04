@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_06ef74fffafed0c2",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_4cf1ba28db82",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "so what we're growing here now includes some of elmer swensen's grapes and some of the university of minnesota grapes but what changed to get back to your original question fifteen years ago was the availability of these new grape varieties that are adapted to this climate yeah",
+ "est_chars": 278,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 772844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608264
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6d91ec321210c01b",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f3d5e9e8b372",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "But there was a sixth day, the sun went on.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 177164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608524
+}

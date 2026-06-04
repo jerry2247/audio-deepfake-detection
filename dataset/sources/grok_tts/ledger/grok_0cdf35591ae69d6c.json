@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0cdf35591ae69d6c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5615eb6c0004",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Six, that teach them about financial management. Good parents don't only send their words to school.",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 259724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608209
+}

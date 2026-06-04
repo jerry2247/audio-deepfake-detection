@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_efbd0a21858d6cb7",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_92c7ecf5ee6a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "the next case called on the docket is five million one hundred and forty thousand one hundred and seventy five white vs beelman river terminals inc",
+ "est_chars": 147,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 482444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608202
+}

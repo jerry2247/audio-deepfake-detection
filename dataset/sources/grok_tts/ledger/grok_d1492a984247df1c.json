@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d1492a984247df1c",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_1ef950116326",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the future of education depends on us making sure that all individuals without discrimination have access to education.",
+ "est_chars": 119,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 357644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608278
+}

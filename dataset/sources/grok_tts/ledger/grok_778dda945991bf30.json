@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_778dda945991bf30",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_639a2847a3a2",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "This is their first engine to combust liquid oxygen and liquid methane propellants. In September 2014—in a choice labeled",
+ "est_chars": 121,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 332352,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608214
+}

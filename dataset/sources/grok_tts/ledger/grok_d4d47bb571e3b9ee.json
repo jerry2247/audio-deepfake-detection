@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d4d47bb571e3b9ee",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "soft",
+ "language": "en",
+ "text_id": "cur_emo_028",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "<soft>Don't you walk away from me while I'm talking to you.</soft>",
+ "est_chars": 66,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 140684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608393
+}

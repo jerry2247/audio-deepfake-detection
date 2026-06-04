@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1d72b102a4b64504",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_028921574644",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "He argued that all big spherical moons, including the Moon, should likewise be considered planets",
+ "est_chars": 97,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 321644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

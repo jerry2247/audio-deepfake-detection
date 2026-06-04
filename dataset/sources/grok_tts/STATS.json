@@ -1,0 +1,18 @@
+{
+  "source": "grok_tts",
+  "clips": 702,
+  "hours": 1.19,
+  "by_label": {
+    "fake": 702
+  },
+  "by_language": {
+    "en": 702
+  },
+  "by_generator": {
+    "grok-tts (resolved server-side)": 702
+  },
+  "skipped": {
+    "invalid:duration": 2
+  },
+  "flagged_not_staged": []
+}

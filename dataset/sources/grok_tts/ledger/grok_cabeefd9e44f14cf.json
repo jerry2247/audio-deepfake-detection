@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cabeefd9e44f14cf",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_7ea68c47f10f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Sometimes this sand will accumulate to build shallow moats around the bottom.",
+ "est_chars": 77,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 197324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608508
+}

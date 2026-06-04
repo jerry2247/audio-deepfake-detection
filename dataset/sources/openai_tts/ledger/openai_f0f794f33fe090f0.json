@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f0f794f33fe090f0",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_6ec357b82ed7",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "In the fall the leaves turn many shades of orange and yellow.",
+ "est_chars": 61,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 261644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

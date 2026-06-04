@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3f07509e31a6c3ef",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_cc929c118fc2",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "I continue to focus on this one contradiction that I have.",
+ "est_chars": 58,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 132968,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608341
+}

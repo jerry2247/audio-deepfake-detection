@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_04bc400d1ac3e181",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_e002a4d73dc6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i would do it exactly the same way and that is because these panels are designed to address issues relative to our rulemaking that sets a standard or establishes a requirement on a business sector a small business entity",
+ "est_chars": 220,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 715244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608233
+}

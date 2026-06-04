@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ea40d4d6e289cb6e",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_061c6e9856e3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "be your balance or hanging on tight or what's the secret well like you're turning to one side and want to turn to the other side and hold on really tight to the rope",
+ "est_chars": 165,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 520844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

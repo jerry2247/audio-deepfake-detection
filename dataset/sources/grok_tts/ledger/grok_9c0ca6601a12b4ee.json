@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9c0ca6601a12b4ee",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_81429f1e3417",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>I think there will be all sorts of consequences, Dalyell declared.</whisper>",
+ "est_chars": 85,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 243404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608481
+}

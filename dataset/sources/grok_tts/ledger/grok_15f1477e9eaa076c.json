@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_15f1477e9eaa076c",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_ea9f6de646d4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So let us look at the procedure, so before I go that in TCL pretty much like all the programming is developed as procedures.",
+ "est_chars": 124,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 380684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608321
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b78ddc76220b30cc",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_e9d7299fcbf2",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Elizabeth was about the same age as Maria.",
+ "est_chars": 42,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 148844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

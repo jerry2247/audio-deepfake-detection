@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_807212bde1770978",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_766bc89402f2",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "You also participate in the dance troupe, is that right?",
+ "est_chars": 56,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 132044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608241
+}

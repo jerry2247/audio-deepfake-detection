@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_95ee46823aae3668",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_d50f3a07557e",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Now scene four here is our top view, our bird's eye view. So if I click back through, I've got scene ones looking this way.",
+ "est_chars": 123,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 293214,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608332
+}

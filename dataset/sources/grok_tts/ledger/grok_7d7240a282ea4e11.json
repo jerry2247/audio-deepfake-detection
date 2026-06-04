@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7d7240a282ea4e11",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_bb9e6cce04bb",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "nothing to do with it but we do respect international law and would mrs copper not agree",
+ "est_chars": 88,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 237644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608482
+}

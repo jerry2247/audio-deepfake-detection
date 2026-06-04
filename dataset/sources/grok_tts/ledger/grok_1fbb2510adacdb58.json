@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1fbb2510adacdb58",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_aa913235e9b9",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The cringe levels were almost unbearable.</whisper>",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 126284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608412
+}

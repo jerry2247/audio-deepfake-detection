@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b189850f5583503c",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_d0abff6ec19e",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Once Claudio opens himself up to the, to the possibility, once he listens to Don John just even saying, come with me, I'll take you to.",
+ "est_chars": 135,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 314628,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608426
+}

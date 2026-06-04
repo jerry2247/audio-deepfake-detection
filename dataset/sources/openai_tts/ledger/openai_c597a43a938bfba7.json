@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c597a43a938bfba7",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_ef6f17969f01",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "would give you at least a long term measure of fiscal sustainability",
+ "est_chars": 68,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 264044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608188
+}

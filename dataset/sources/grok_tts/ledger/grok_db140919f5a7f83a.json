@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_db140919f5a7f83a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5f21aafad877",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Teaching units at this University were originally called \"department\".",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 197324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608196
+}

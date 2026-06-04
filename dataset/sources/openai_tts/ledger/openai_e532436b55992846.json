@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e532436b55992846",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_fec9968fea1e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The busy flag should not be used for any data handling, but to check for ongoing traffic.",
+ "est_chars": 89,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 273644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608206
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_06a3c11aea7b4391",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1f6006433db4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Out of a hun- on a hundred point scale, we scored an eight. Uh, yeaah.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 258764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

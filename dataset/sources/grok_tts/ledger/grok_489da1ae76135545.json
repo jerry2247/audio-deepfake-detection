@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_489da1ae76135545",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_3d115f6ecbf9",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "is convinced that further promotion of the idea of common purchasing of energy raw materials by member states is needed in the context of growing competition for resources and existing producer monopolies'.",
+ "est_chars": 206,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 551564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608399
+}

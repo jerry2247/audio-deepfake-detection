@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_bda9796d984fec54",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f59607149375",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Malcolm was born and was brought up in Newport, where he still lives.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 187724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608351
+}

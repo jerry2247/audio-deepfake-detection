@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a98a76f259a543cd",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_a9a2d4abfc5e",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "maybe he would have ended up with the same numbers but it it should have been done that way is what you're and evidence should have been presented and it's their burden of proof on that issue",
+ "est_chars": 191,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 544844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608200
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_75a795f69730bf45",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_f74d2005e4aa",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "We totally can do it. I think the students would love it. Uh, first gen, let's, hey, if you're serious, Katie, uh, first gen week is the week of November 8th. There's something during that week, as we can tell you.",
+ "est_chars": 214,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 662444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608231
+}

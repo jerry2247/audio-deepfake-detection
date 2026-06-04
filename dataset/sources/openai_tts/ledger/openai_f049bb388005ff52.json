@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f049bb388005ff52",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c2dbac123118",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Many hospitals around the country reported shortages of beds and supplemental oxygen.",
+ "est_chars": 85,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 259244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608181
+}

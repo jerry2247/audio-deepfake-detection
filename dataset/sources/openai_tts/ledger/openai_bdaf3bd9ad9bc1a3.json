@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bdaf3bd9ad9bc1a3",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_8bbf0590191f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Despite this, Helena's abiding love for Demetrius remains consistent throughout the play.",
+ "est_chars": 89,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 328844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

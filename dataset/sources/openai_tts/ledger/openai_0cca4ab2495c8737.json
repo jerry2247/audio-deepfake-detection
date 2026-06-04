@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0cca4ab2495c8737",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_da058af81313",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Uh, Matt, your leader at Red Hat, now part of IBM, continues to operate, uh, in the Red Hat spirit, uh, innovating out in the open, people are wearing their Red Hat, uh,",
+ "est_chars": 169,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 708044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608236
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e7e9d5f73f684d89",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_a3aeba2ddc3b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "romania has made very good efforts very good achievements and progress in the last years but now it seems to waiver and i would really encourage the romania",
+ "est_chars": 156,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 489644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608263
+}

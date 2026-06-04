@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e565773d05afb503",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_60284aafaa14",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "I believe that chaos offers some useful ways of thinking about the world beyond science, but metaphors don't always work.",
+ "est_chars": 121,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 308684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608246
+}

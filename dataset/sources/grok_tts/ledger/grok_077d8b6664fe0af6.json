@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_077d8b6664fe0af6",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6379970d93be",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so for any rock that we look at on mars we might look at it do six or seven experiments based on a combination of the results that came from mars but also the results that came from earth",
+ "est_chars": 187,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 535244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608407
+}

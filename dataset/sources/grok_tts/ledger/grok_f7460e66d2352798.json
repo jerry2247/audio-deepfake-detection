@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f7460e66d2352798",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_fd92600c9c9c",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the commission has always appreciated the clear stance of parliament on this matter.",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 203084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608370
+}

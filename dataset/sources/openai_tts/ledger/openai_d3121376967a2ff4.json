@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d3121376967a2ff4",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_768d51598bfc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "In some cases the symbols are \"punning\".",
+ "est_chars": 40,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 180044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

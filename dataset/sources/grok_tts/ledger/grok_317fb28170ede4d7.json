@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_317fb28170ede4d7",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_699bb9f8d702",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "finally other member states do exactly the same thing systematic pool",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 230924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608249
+}

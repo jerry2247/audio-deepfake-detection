@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a542b4f71cb08f3d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_6ca01271b9ba",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>It is religiously accredited by the Adventist Accrediting Association.</whisper>",
+ "est_chars": 89,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 209804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608421
+}

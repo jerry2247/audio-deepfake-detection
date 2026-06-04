@@ -1,0 +1,18 @@
+{
+  "source": "openai_tts",
+  "clips": 408,
+  "hours": 0.82,
+  "by_label": {
+    "fake": 408
+  },
+  "by_language": {
+    "en": 408
+  },
+  "by_generator": {
+    "gpt-4o-mini-tts": 408
+  },
+  "skipped": {
+    "invalid:duration": 2
+  },
+  "flagged_not_staged": []
+}

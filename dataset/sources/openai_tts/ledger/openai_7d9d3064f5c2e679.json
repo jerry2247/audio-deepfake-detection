@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7d9d3064f5c2e679",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "support",
+ "language": "en",
+ "text_id": "cur_num_008",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "Send the report to operations at example dot com by 5 p.m. Friday, copying H.R. and I.T.",
+ "est_chars": 88,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 348044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608266
+}

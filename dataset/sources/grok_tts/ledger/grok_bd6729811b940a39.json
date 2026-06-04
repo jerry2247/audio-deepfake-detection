@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_bd6729811b940a39",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6517f5ce980b",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "it complies in every aspect with rule three hundred and three",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 201164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

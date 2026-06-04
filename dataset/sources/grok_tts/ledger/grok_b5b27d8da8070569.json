@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b5b27d8da8070569",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_f29ce56ab1f7",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Wall alleged that her new husband raped her repeatedly and that she repeatedly miscarried.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 312044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608273
+}

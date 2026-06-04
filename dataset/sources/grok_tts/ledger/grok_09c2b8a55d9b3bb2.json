@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_09c2b8a55d9b3bb2",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "loud",
+ "language": "en",
+ "text_id": "cur_emo_030",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "<loud>Three years of saving, and the engine gives out two days after the warranty ends.</loud>",
+ "est_chars": 94,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 233804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608267
+}

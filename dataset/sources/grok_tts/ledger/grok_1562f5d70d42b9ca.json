@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1562f5d70d42b9ca",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_47e4509ce881",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "but those are some things i'd like to see at our next committee agenda and that had this doing here",
+ "est_chars": 99,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 251084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608383
+}

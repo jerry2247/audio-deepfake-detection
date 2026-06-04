@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fc2a9edfc0e69720",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0e665aed1a01",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Wang Lun and his deputies eventually arrive on the scene and stop the fight.",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 194444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608500
+}

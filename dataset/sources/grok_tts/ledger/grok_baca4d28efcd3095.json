@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_baca4d28efcd3095",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d7ecee2e0d1e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it's both interesting and demanding to meet the various petitioners who come to the committee and talk about their problems.",
+ "est_chars": 124,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 303884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608336
+}

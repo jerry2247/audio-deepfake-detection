@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_68c196de91f52ef1",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_10a59aeb65f5",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "She describes the documentary as her proudest moment away from music.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 225164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608518
+}

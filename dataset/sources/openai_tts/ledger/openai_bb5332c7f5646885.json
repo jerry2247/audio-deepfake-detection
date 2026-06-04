@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bb5332c7f5646885",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_b6bf34609a68",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Concrete, solution,\" said Tony Tyler, IATA's Director General and CEO",
+ "est_chars": 69,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 336044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

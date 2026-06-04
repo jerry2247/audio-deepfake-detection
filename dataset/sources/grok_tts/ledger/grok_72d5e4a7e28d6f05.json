@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_72d5e4a7e28d6f05",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c13be16aac44",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The designer for the refurbishment was Sheppard Robson.",
+ "est_chars": 55,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 154124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608296
+}

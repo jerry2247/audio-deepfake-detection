@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c86bbcd97ec54e00",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f471e63d8106",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I hope that he understood what I was saying.",
+ "est_chars": 44,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 88844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608235
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_31d105f0b3d39a7b",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_774711c5f29e",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "His speech ended with a standing ovation.",
+ "est_chars": 41,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 130124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608338
+}

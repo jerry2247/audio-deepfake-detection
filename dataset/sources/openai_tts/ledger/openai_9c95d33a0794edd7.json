@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9c95d33a0794edd7",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_4d8eccd43064",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Other specific countries or both in specific countries and also at the international level in terms of debate and lesson sharing.",
+ "est_chars": 129,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 376844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608242
+}

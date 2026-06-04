@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d49337ac92ee1a72",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_c6182b62ab56",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "nearly five hundred people ages two to seventy registered for the third annual becca pizzi 5k road race on april 29th despite the wet weather",
+ "est_chars": 141,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 489644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608229
+}

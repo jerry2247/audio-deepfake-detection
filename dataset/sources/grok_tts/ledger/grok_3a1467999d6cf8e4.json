@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3a1467999d6cf8e4",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_bb63adee5466",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So for me, I think this is an opportunity. And just, sorry, I think my time is up. But just two days back, I noticed that the Aton General of the Federation has released a press release.",
+ "est_chars": 186,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 478604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608319
+}

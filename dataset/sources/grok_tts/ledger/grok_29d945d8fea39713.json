@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_29d945d8fea39713",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_66b1042f202e",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The park, which is Virginia's most visited state park, is nestled in Virginia Beach.",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 324044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608406
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dcc36d53550904ea",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_962e56478d81",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it therefore threatens to give investors an extra reason not to buy europe's securities or transact with its institutions at a time when it can ill afford to drive away economic activity.",
+ "est_chars": 187,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 493964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608509
+}

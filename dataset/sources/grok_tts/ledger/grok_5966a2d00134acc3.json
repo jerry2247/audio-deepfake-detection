@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5966a2d00134acc3",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_68d27e749652",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "New queens are raised and the hive may swarm as soon as the queen cells are capped and before the new virgin queens emerge from their queen cells",
+ "est_chars": 145,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 383564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608391
+}

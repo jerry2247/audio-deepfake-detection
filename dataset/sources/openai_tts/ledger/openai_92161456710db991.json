@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_92161456710db991",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_6379970d93be",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "so for any rock that we look at on mars we might look at it do six or seven experiments based on a combination of the results that came from mars but also the results that came from earth",
+ "est_chars": 187,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 544844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608189
+}

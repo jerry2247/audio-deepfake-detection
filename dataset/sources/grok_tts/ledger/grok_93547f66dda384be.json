@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_93547f66dda384be",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_twi_002",
+ "register": "dense",
+ "speed": "",
+ "instructions": "",
+ "text": "The sixth sick sheikh's sixth sheep is sick, said the Swiss wristwatch specialist.",
+ "est_chars": 82,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 239564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608405
+}

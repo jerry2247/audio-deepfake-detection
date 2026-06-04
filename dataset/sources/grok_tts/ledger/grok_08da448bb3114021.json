@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_08da448bb3114021",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_91416a343f30",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "That you are producing this, uh, uh, clusters in the aluminium in that structure. If we go back to it, so for instance here, uhm, if we go back here, this, uhm,",
+ "est_chars": 160,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 563084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608494
+}

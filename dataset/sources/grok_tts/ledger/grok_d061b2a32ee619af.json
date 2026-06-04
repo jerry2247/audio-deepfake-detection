@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d061b2a32ee619af",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_c0835b37f7e7",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "She also edited an original science fiction anthology series, \"Stellar\".",
+ "est_chars": 72,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 261644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608487
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_50116f076b6800e4",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_adda4bef0130",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It did, however, spawn a mild hit in \"Camera One,\".",
+ "est_chars": 51,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 183884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608509
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e9e3675e78c1e830",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_44fceddcd339",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "one of the most important problems that had to be solved to furnish this service was finding a way of automatically keeping track of how long mrs douglas has conversations lasted the telephone number she called and telephone number",
+ "est_chars": 231,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 686444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608212
+}

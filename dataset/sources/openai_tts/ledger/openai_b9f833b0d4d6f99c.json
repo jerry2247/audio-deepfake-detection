@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b9f833b0d4d6f99c",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_16ef1290fe1a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The strike was started by the faculty and students.",
+ "est_chars": 51,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 187244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608222
+}

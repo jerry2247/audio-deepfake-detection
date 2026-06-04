@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ab861a3ecc1acee8",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "cur_whi_010",
+ "register": "whisper",
+ "speed": "",
+ "instructions": "Whisper very softly, as if telling a secret late at night.",
+ "text": "This museum gives me chills. Beautiful, but something feels off.",
+ "est_chars": 64,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 249644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608182
+}

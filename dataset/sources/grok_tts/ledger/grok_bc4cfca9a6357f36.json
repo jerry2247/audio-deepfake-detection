@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_bc4cfca9a6357f36",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_twi_003",
+ "register": "dense",
+ "speed": "",
+ "instructions": "",
+ "text": "Peter Piper picked a peck of pickled peppers while properly preparing pungent paprika.",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608519
+}

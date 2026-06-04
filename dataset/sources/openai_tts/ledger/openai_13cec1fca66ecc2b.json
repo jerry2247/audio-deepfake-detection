@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_13cec1fca66ecc2b",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_e9e18bfeb7a0",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "but volunteers cannot and must not bear the burden of major global crises.",
+ "est_chars": 74,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 271244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608183
+}

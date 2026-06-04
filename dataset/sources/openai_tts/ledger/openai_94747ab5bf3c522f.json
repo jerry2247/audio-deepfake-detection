@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_94747ab5bf3c522f",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_16a53caf98e7",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The program offers opportunities to participate in federal, state and privately funded research.",
+ "est_chars": 96,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 288044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608193
+}

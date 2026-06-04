@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_514de886f6e821ec",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_1ce5d14b9ee6",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The bed of this river is mostly made up of pebbles and pebbles.",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 226844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608254
+}

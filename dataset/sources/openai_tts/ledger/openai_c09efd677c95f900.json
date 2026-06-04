@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c09efd677c95f900",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_17dac6c8afd2",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Robin van Roon also joined them after a while.",
+ "est_chars": 46,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 228044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608255
+}

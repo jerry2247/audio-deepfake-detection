@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b1c965c00593f529",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1b307ad5e286",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So I was gonna say my solution to that is by having a GM who loves to kickstart campaigns and, and systems. So he has this huge shelf of campaign and system rules. So when we feel like one system just isn't working, we just switch.",
+ "est_chars": 231,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 615884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608475
+}

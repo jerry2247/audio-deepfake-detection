@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_908a8e77414bc33e",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d48cbc72083f",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "what i want to do with this copyright reform is to combine responsibility and freedom and that is the balanced approach.",
+ "est_chars": 120,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 362444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608245
+}

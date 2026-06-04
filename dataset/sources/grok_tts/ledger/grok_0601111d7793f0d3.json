@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0601111d7793f0d3",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_4397232881df",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "i must say that i am appalled by the homophobia that i have heard.",
+ "est_chars": 66,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 178124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608343
+}

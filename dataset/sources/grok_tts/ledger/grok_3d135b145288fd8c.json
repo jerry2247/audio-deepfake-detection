@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3d135b145288fd8c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0e98529b6e74",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Live Oak is an agricultural community located in the fertile Sacramento Valley.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 255884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608223
+}

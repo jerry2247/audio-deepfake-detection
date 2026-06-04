@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2b5680ae2c26f3ec",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6a251299162a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "one very efficient policy that we can all successfully implement is phasing out the global carbon subsidies which exist and we have the pittsburgh g twenty agreement to get rid of all those inefficient subsidies.",
+ "est_chars": 212,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 572684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608293
+}

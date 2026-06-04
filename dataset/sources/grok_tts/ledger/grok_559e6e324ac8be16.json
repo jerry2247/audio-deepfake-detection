@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_559e6e324ac8be16",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_421af521c199",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "One of Jackson's main arguments against the bill was the project's provincial nature.",
+ "est_chars": 85,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 226124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608289
+}

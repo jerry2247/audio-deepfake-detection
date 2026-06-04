@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_82658d196a1d62f2",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "loud",
+ "language": "en",
+ "text_id": "cur_emo_016",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "<loud>They picked me. Out of four hundred applicants, they actually picked me.</loud>",
+ "est_chars": 85,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 200204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608313
+}

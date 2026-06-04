@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f8f5b606d531a3a1",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_fde5e3adb4cc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Canada more than ever welcomed American investments during \"the stagflation\" that hurt both nations.</whisper>",
+ "est_chars": 119,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 301964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608395
+}

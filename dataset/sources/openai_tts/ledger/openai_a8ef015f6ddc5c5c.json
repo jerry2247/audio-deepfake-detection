@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a8ef015f6ddc5c5c",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_7bf86d084bdb",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "When the band realized their roadie's ability, he was offered the position of keyboardist.",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 316844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

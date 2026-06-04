@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e68ad3760f01a9bd",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_2351340646e5",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The heat can also be used for industrial process applications or as an energy input for other uses such as cooling equipment.In many warmer climates, a solar heating system can provide a very high percentage – 50 to 75 percent – of domestic hot water energy.",
+ "est_chars": 258,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 984044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608266
+}

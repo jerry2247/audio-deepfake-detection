@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b3d817f57925a109",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_f596c5756dbb",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So what do you think are the biggest things that people should listen for as they enjoy actual plays?",
+ "est_chars": 101,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608365
+}

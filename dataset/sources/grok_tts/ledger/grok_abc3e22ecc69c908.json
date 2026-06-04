@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_abc3e22ecc69c908",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_9e55bdc846e1",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Rosa is placed in solitary confinement at Bellevue Mental Hospital.",
+ "est_chars": 67,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608370
+}

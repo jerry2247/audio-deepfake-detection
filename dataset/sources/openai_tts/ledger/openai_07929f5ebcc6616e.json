@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_07929f5ebcc6616e",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8306d7c04fda",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "This leads Batman and Gordon to conclude that Dent was Holiday since the beginning.",
+ "est_chars": 83,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 290444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

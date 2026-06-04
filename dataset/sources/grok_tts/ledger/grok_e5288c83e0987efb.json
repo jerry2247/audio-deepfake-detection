@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e5288c83e0987efb",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_5de8e8d6d142",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>He has also been chief economist for Caixin Media Group.</whisper>",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 181004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608386
+}

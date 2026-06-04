@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d1a84dc07fb519f7",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5963cf0aeced",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "In fact, at the time, Kimmel was not aware of Washington's eight-action policy.",
+ "est_chars": 79,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 278444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608207
+}

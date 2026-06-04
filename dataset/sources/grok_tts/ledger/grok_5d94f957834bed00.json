@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5d94f957834bed00",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f59c480259e3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I'm not so much into anatomy, where's the bladder again?",
+ "est_chars": 56,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 146444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608221
+}

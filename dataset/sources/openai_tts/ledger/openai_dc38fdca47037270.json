@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_dc38fdca47037270",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_4be8e0498f58",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "this update will make it easier for law enforcement authorities to track funds transferred by criminals and terrorists.",
+ "est_chars": 119,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 326444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

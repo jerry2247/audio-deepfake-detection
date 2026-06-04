@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_81c5a6477ebb1c4e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_50b1d194a9a2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Let it burn, it gives us warmth and comfort.</whisper>",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 164684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

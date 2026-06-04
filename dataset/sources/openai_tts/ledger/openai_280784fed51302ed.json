@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_280784fed51302ed",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_fb97411b1098",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The west town line is the border of Fulton County, New York.",
+ "est_chars": 60,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 201644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

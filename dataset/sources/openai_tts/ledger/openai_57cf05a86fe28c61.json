@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_57cf05a86fe28c61",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2bcfa4d064fa",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "This was the first donation accepted by the Smithsonian in the field of magic.",
+ "est_chars": 78,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608235
+}

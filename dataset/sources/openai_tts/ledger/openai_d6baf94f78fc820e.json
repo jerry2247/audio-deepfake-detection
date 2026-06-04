@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d6baf94f78fc820e",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_23755a13b9aa",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Mike, I debated asking this question at all because I feel like, uh, there can only really be one answer on, on this, during this discussion, but uhm, do you have a favorite football team?",
+ "est_chars": 188,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 523244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608245
+}

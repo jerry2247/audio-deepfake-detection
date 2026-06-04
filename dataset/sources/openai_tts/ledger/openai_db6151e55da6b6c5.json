@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_db6151e55da6b6c5",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5de8e8d6d142",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He has also been chief economist for Caixin Media Group.",
+ "est_chars": 56,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 160844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

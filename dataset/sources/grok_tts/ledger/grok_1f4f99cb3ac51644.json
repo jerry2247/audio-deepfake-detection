@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1f4f99cb3ac51644",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_f1a6145b53fe",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "I mean, the source code itself is, is to some degree the memory of Linux, and people can always use that as a kind of blueprint. But there's more than that. There's also the, the...",
+ "est_chars": 181,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 409890,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608469
+}

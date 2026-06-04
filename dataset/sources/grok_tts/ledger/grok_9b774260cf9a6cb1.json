@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9b774260cf9a6cb1",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_3d924ae785cb",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i don't think we're you know i don't think you'd be talking more than you know i mean i don't know",
+ "est_chars": 98,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 299084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

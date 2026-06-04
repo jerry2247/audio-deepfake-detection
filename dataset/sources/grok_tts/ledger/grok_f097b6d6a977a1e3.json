@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f097b6d6a977a1e3",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6f8d7302411a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the european union has much to gain for india is a great country and i wish the european union well with those links.",
+ "est_chars": 117,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 343244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608365
+}

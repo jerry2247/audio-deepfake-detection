@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bd0a965ad912c25f",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_f879c40fa1e8",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it should in particular be noted that if the sale process is successful and correctly implemented companies acquiring the shipyard assets will not have to repay the illegal subsidies even if they choose to continue shipbuilding.",
+ "est_chars": 228,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 717644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608208
+}

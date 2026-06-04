@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_08a56be06560cbc3",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_005",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "How dare you stand there and lie to my face after everything we've been through.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 199244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608367
+}

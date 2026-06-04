@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1c1d69f5f39b2307",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_595afa145276",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Fedric was unable to find his lucky marble.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 125324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608503
+}

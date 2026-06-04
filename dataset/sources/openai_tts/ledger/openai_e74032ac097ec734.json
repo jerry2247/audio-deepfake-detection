@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e74032ac097ec734",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_8357345bdf69",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Gonna just see Peach, maybe get one extra moon, if we're lucky. Ah, good to be back.",
+ "est_chars": 84,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 360044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

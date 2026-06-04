@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ca8ed14615f50399",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_19b95d84e90c",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we are concerned about the independence of the judiciary a key element of every democracy.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 249164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608412
+}

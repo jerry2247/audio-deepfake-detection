@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d1c8576a827f73b3",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_6f76c23f805b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "At most, they thought that another meteorite had descended.",
+ "est_chars": 59,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 160844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608229
+}

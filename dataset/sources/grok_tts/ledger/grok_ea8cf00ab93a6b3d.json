@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ea8cf00ab93a6b3d",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_16ad01d06e39",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "We saw that with BT3. Hopefully we'll see that in BT4. Yeaah, it is slightly on the lacking side. We could definitely see more characters with more unique abilities and...",
+ "est_chars": 171,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 534284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608433
+}

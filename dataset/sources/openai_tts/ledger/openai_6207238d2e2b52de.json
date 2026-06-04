@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6207238d2e2b52de",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_74059930f4d2",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Software that harms an OS or slows it down with malicious intent. These types of programs are called malware and they are meant to cause damage.",
+ "est_chars": 144,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 376844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

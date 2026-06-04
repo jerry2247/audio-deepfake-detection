@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3993173c382c2f75",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_cc9271107b9d",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "today europe is free and reunited and i want to thank this house and each and every one who dared to speak out at that time for truth and freedom.",
+ "est_chars": 146,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 451244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

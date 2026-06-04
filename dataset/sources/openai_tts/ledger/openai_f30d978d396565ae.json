@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f30d978d396565ae",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_emo_013",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Stop the car. Stop the car right now, I mean it!",
+ "est_chars": 48,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 235244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

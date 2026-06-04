@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_576b0b48dca8702c",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_0b23a6d16d3c",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "it allows for the mutual recognition of protection measures which are based on civil law rather than criminal law. i would like to ask my colleagues to support this proposal.",
+ "est_chars": 174,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 520844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608223
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2659ac0cfab51a34",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_0254b03323e7",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Sure, and then uhm, that's Jagat? Yes. Go right ahead, Jagat.",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 225164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608453
+}

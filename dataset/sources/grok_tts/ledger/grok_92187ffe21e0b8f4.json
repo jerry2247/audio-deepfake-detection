@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_92187ffe21e0b8f4",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_003",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "So I opened the email and [gasp] they accepted the proposal! [laugh] All of it! Even the budget!",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 301004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608336
+}

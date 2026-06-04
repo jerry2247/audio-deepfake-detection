@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_216e2c4fb3225423",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_50e57610cf97",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "i otherwise you can tell them it's not happening yeah otherwise it would put yeah june 3rd would be the right and i know that you also have well you actually are thinking june 3rd just before",
+ "est_chars": 191,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 571244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

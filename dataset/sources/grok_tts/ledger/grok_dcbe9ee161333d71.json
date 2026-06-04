@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dcbe9ee161333d71",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_c5b5b817f6fe",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "they made statements such as no one would want to tear down our house which might be the case but it's not relevant to the appeal he said",
+ "est_chars": 137,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 339404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608409
+}

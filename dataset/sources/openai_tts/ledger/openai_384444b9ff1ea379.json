@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_384444b9ff1ea379",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_5a83bb2f72dd",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "These studies suggest that various individual and situational factors",
+ "est_chars": 69,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 204044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608184
+}

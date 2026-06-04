@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f75456fc30ba7e42",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1f3414c06a2f",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It's so many people love it that I'm not willing to go that absolute to pull the competition from earlier and say it's just bad. What I will say to make it situational to your earlier comments is it's really bad online.",
+ "est_chars": 219,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 601484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608467
+}

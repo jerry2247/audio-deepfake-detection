@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ff14d69acefcc349",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_deac252b9301",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "My assignment has been completed and submitted.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 134444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608232
+}

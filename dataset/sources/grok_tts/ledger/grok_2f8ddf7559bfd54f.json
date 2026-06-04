@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2f8ddf7559bfd54f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_76d70b0d7f14",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It is the most valuable stamp in the world.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 116684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608453
+}

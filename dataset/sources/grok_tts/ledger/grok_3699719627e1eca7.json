@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3699719627e1eca7",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_df4dda5e4f4e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uhm, to drop off, uh, and to sign off, then, then, uhm, that's okay. But I might suggest that we go for another 10, 10 or 15 minutes, just because we're kind of getting right into, right into the conversation.",
+ "est_chars": 209,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 679244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608393
+}

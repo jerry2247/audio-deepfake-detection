@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5b1a96eefcf8aaa8",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_962e56478d81",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it therefore threatens to give investors an extra reason not to buy europe's securities or transact with its institutions at a time when it can ill afford to drive away economic activity.",
+ "est_chars": 187,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 561644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608246
+}

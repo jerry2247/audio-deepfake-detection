@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ced44fdbb2443912",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d231fe27d9f7",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Where theta is the amount of rotation, this is the direction of rotations and the generators are tau by 2.",
+ "est_chars": 106,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 388844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608242
+}

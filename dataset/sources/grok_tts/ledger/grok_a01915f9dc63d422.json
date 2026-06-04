@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a01915f9dc63d422",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b0912c8c2253",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It marked the directorial debut of highly regarded cinematographer John Seale.",
+ "est_chars": 78,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 224204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608481
+}

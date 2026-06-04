@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_daafd98df2ae8d7f",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_bc49deee254a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Pongo is the brother of Valerie Twistleton.",
+ "est_chars": 43,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 175244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

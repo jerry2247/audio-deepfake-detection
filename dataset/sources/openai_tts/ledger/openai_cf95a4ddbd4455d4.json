@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cf95a4ddbd4455d4",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_que_012",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "Remember to water the plants while I'm gone. The ferns need it every other day.",
+ "est_chars": 79,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608189
+}

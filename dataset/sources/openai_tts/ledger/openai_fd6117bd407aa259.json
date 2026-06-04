@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fd6117bd407aa259",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_215de265a0d0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The rocket propelled fire arrow appeared later.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 192044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608249
+}

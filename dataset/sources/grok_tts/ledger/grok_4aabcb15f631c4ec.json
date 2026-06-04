@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4aabcb15f631c4ec",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_0b58d9c3abeb",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "our resolution and this is the goal of this debate calls to work closely together to minimise the health risks for staff and learners and to maximise the chances that inperson education and training is safe and can continue.",
+ "est_chars": 224,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 673484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608268
+}

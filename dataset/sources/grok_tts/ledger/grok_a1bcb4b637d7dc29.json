@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a1bcb4b637d7dc29",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_51bb9c1c819c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The program succeeded in eliminating malaria only in areas with, \"...high socioeconomic status, well-organized healthcare systems, and relatively less intensive or seasonal malaria transmission.\"",
+ "est_chars": 195,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 581324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608426
+}

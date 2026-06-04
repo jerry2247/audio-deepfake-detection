@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8fd3103b10d583ca",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_31c45b9bdc8b",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so we didn't have you had they they produced these records basically alongside of their summary judgment motion",
+ "est_chars": 111,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 349964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608379
+}

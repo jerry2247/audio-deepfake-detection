@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_429db30549d666a5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_947a40865902",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "we do it in many ways but absolutely essential is intelligence the fisa bill the foreign intelligence surveillance act would have been destroyed by the bill placed on the floor last week by the majority the socalled restore act",
+ "est_chars": 227,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 614924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608512
+}

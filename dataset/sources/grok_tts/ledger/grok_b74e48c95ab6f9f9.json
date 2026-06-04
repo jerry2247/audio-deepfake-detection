@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b74e48c95ab6f9f9",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2dd1a5a42896",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "No segment of this state route is included within the National Highway System.",
+ "est_chars": 78,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 205964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

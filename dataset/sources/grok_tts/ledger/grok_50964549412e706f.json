@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_50964549412e706f",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_f726366f5605",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and there's also nothing in the record to show that the trial court improperly considered this considered this",
+ "est_chars": 110,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 267404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608330
+}

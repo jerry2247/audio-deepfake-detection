@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_dbfe063769d91aa0",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5393a9f7f096",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He wanted Nelson's disrespect witnessed.",
+ "est_chars": 40,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 175244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608239
+}

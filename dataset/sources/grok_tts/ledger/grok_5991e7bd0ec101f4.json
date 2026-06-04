@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5991e7bd0ec101f4",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_259cd977d2a4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And abide in your houses and do not display yourselves as' was' the display of the former times of ignorance. And establish prayer and give Zakah and obey Allah and His Messenger.",
+ "est_chars": 179,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 520844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608513
+}

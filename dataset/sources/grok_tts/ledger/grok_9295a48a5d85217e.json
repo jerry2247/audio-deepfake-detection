@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9295a48a5d85217e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_2cb59119fd2e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "so please convey this huge concern to the people responsible for that.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 192524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608277
+}

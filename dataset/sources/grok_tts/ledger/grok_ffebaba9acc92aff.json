@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ffebaba9acc92aff",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "loud",
+ "language": "en",
+ "text_id": "cur_sho_008",
+ "register": "shout",
+ "speed": "",
+ "instructions": "",
+ "text": "<loud>Hey! That's my bike! Somebody stop that guy!</loud>",
+ "est_chars": 57,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 169484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608392
+}

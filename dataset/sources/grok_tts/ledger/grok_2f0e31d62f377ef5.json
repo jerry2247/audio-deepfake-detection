@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2f0e31d62f377ef5",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ceb5da2b7771",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Moonlight, darkness, dawn, sunrise, day.",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 140684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608400
+}

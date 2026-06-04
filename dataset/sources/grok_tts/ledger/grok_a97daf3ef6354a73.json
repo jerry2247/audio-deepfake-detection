@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a97daf3ef6354a73",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c9d3a78289c1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Franks were successful at Tolbiac and established their dominance over the Alamanni.",
+ "est_chars": 88,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 230924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608281
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c3d5ed9ce2c1eb40",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_349aa317d97f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The lava is usually rhyolitic and rich in silicates.",
+ "est_chars": 52,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 173324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608386
+}

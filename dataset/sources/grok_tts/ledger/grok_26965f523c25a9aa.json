@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_26965f523c25a9aa",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_140c7c78ab74",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "where we'd like to get permission to start the process so we can be in a position to include that in the paving project",
+ "est_chars": 119,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 274124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dbcc1a26b9acbd98",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_73acacdea572",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "man is seen as a creature who is harmful to the environment without making a beneficial contribution.",
+ "est_chars": 101,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 287564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608311
+}

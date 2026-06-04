@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_98a93e0bf4a499e4",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_29ced3d77485",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Salmon is one of the most popular fish and very delicious, though usually not sustainable.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 280844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608474
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_961e7125090a3872",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_be329a6072fb",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Fouls, on the other hand, can occur only while the ball is in play.",
+ "est_chars": 67,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 249644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608234
+}

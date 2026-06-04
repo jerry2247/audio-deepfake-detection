@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_42f524912ebd7246",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_06567ab98263",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And the team in Katmandu said, hey, we have a problem. We don't have access to mine shirts.",
+ "est_chars": 91,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608208
+}

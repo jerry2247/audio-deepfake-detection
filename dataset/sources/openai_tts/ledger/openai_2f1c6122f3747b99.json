@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_2f1c6122f3747b99",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_que_008",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "How long has that light on the dashboard been blinking like that?",
+ "est_chars": 65,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608180
+}

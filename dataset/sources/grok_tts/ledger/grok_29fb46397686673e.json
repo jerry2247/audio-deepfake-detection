@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_29fb46397686673e",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_0b29543ece63",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "and let's send a strong signal to the vietnamese government to improve the devastating human rights situation before we seal the deal we signed the deal not after we signed the deal not after thank you",
+ "est_chars": 201,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 529484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608304
+}

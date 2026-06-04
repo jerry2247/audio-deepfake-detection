@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_41b6452d2a1b0699",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_58e9852fb200",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "yeah so tell us why you're interested in serving on the board",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 149324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608428
+}

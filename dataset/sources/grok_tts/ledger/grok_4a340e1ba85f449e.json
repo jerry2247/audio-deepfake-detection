@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4a340e1ba85f449e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_cc2b644a72e7",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Couldn't this have waited until morning?",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 106124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607417
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f0a8abb76057a6ab",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0a34e47ad5c6",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Captain Fairchild noted that there was no fresh water available on these islands.",
+ "est_chars": 81,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 266444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608264
+}

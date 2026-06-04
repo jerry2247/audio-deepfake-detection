@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4ba1a10e51f09c89",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_b2f10e7c17f0",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thank you president madam commissioner dear colleagues it is now time to take stock of the different choices and the specific progress made by the six countries we can no longer ignore the g",
+ "est_chars": 190,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 525644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608488
+}

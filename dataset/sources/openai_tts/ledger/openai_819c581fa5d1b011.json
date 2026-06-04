@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_819c581fa5d1b011",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_462435a824be",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "joel samuel's moderator of the event and an attorney and former general counsel of the state executive office of elder affairs spoke about the friends of belmont coa and their role in the community",
+ "est_chars": 197,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 585644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608198
+}

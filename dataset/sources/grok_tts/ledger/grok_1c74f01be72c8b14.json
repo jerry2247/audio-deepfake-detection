@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1c74f01be72c8b14",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ec506e476de9",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "She returned to her home port, San Diego, finishing a seven-month deployment.",
+ "est_chars": 77,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 242444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608292
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fbf8bc26154d7dc5",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_880271595af5",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "ever since then to better have been under the control of beijing the traditional the traditional but tobe",
+ "est_chars": 105,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 340364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608212
+}

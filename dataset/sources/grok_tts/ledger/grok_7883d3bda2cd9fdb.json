@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7883d3bda2cd9fdb",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_483b0a61e998",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and by the time the second suit happened we had the declaration of greenspun basically saying everything is present in there but what enablement and sets that out and that is sap then doing",
+ "est_chars": 189,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 522764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608477
+}

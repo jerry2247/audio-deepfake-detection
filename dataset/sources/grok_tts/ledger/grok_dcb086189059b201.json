@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dcb086189059b201",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_8235e17a8b6c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "They were quick to adopt quilted cotton armor based upon that used by their native opponents, and commonly combined this with the use of a simple metal war hat.",
+ "est_chars": 160,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 432524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608208
+}

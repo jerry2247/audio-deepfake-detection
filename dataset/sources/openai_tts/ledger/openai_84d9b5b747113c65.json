@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_84d9b5b747113c65",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_c8e1c5004da3",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the social use of seized criminal assets for youth support regeneration projects or even crime prevention could really help empower these communities.",
+ "est_chars": 150,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 602444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608242
+}

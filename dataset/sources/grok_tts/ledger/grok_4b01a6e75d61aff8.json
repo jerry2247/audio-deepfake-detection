@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4b01a6e75d61aff8",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_0a34e47ad5c6",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Captain Fairchild noted that there was no fresh water available on these islands.",
+ "est_chars": 81,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 288044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608390
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9e63ba64bb7d7b14",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_06bcb9050579",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "If there is no objection, the decision is made.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 151244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608221
+}

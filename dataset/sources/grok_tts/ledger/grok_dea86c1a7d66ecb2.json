@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dea86c1a7d66ecb2",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_39cf1462aa66",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uh, and, uh, again, you have all of Scott's contact information and that coupon code in the chat if you want to try Bookmap out.",
+ "est_chars": 128,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 398924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608444
+}

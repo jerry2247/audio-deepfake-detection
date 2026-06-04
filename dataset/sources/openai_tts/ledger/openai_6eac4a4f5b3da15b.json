@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6eac4a4f5b3da15b",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_c243e9344114",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "The community begins merry-making, music, dancing and women playfully smear the faces of their companions with sindor' vermilion, all as a mark of the victory of good over evil",
+ "est_chars": 176,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 561644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608209
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ffe603f82770fe4f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_015",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "Ugh, this is disgusting. Who leaves week-old takeout in the office fridge?",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 231884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608225
+}

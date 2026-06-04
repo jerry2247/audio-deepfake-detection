@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7f0fd48c4ccb463b",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_7d2bc681563b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "not later the and three months after the final report and the draft criteria the commission shall cons the european union equal labor board on draft proposal on this issue as i told",
+ "est_chars": 181,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 524684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

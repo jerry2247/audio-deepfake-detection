@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_353c6908dc03c63f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_52a729d38336",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "At this conference, ministers from all WTO members launched the Doha Development Agenda",
+ "est_chars": 87,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 259724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608299
+}

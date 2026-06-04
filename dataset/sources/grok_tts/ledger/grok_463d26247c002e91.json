@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_463d26247c002e91",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_906f729e4ee7",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Build your list of improvements and track your progress.",
+ "est_chars": 56,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 188444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608506
+}

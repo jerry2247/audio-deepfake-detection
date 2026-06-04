@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cb1d023e824af5a0",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_7f14fcc1e4a4",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "There are auxiliary rooms on the ground floor.",
+ "est_chars": 46,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 129644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608219
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ea4f6401724be58b",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_6e504b80ddb0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>It includes the unincorporated communities of Jacksville and Moores Corners.</whisper>",
+ "est_chars": 95,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 237644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608360
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4970fca8749e007f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_f67ff64b4ebb",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "It is also related to the theory of Lie groups and Lie algebras.",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 254444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608414
+}

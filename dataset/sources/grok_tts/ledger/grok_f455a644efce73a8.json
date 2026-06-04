@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f455a644efce73a8",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_ae4555d5ec63",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Surviving examples of this version are quite rare and are highly prized by collectors.",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 362444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608473
+}

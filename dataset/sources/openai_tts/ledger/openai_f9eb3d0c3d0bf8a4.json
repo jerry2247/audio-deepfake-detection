@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f9eb3d0c3d0bf8a4",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_b156feb9491b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "so i am asking you can we allow member states to suspend democracy? the taoiseach your irish counterpart told us here that not repression but dialogue is the only way out.",
+ "est_chars": 171,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 559244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608186
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0c71138e4cb380f9",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_f5dcb04c0b5f",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "i was here just less than five weeks ago on seventeen september and in this short period of time the number of cases has almost doubled.",
+ "est_chars": 136,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 440204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608451
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a87ef80f5107961f",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8306d7c04fda",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "This leads Batman and Gordon to conclude that Dent was Holiday since the beginning.",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608371
+}

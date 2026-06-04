@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_15cc0ba22d466c1f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_260b3401669e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Many public purpose requirements are quite often left undefined, vague and specific.",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 241484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608470
+}

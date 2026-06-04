@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_eb517837ee3db023",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_23755a13b9aa",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Mike, I debated asking this question at all because I feel like, uh, there can only really be one answer on, on this, during this discussion, but uhm, do you have a favorite football team?",
+ "est_chars": 188,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 596684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

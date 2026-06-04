@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9130afe5af3d6b0e",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_fa1711564b2b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "The earlier Soyuz 11A511 was the first attempt at creating a standardized R7 core in place of the numerous variations that had been used up to 1966",
+ "est_chars": 147,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 595244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

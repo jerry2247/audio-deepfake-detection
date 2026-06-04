@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6de3d0411ed332eb",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_9abfc3258409",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The route begins on the Valley Way, which brings hikers to the Madison Hut.",
+ "est_chars": 75,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 276044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

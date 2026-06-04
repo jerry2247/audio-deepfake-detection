@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a9955c8da24b2509",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_be4eba8d7be9",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it is necessary to strengthen the civil protection mechanism and resceu and make them more flexible faster and better coordinated with national civil protection bodies.",
+ "est_chars": 168,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 496844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608308
+}

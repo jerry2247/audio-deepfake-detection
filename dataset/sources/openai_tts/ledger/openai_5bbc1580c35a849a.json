@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5bbc1580c35a849a",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_0c129c24d290",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "we have right now an opportunity with the state they're going to give us an eighty million state grant to build this school",
+ "est_chars": 123,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 345644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

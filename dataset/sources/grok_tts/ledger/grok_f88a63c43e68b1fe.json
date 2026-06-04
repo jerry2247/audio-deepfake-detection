@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f88a63c43e68b1fe",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_73ed402b137d",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "in all such appointments the council will continue to fully respect the provisions of the treaty.",
+ "est_chars": 97,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 228044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608477
+}

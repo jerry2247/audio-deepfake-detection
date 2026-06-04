@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_656a35e3af98c9d0",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c53c5cb7942f",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Which decays, through alpha emission, with a half-life of 1.6,000 years to radon 222",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 327884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608263
+}

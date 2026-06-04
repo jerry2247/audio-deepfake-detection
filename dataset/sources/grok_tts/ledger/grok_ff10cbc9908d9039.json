@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ff10cbc9908d9039",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5072228360af",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "that was also half a year that nothing happened people we need to be ashamed",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608472
+}

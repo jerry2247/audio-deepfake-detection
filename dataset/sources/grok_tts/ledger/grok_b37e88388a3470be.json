@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b37e88388a3470be",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6d2876e771c2",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the floor now to mr tan two minutes mr president since the abolition of the nepalese monarchy and the election of a mais led government in kaman do nepal and china have inevitably grown much closer it's no",
+ "est_chars": 205,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 616844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608380
+}

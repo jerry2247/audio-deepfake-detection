@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_75d9e95e1cba4d59",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_d485b30de2dc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The flowers are white with yellowish dots.",
+ "est_chars": 42,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 125324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608313
+}

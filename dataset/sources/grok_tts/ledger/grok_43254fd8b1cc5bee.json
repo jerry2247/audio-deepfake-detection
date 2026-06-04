@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_43254fd8b1cc5bee",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b91555373400",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He also came second in the club's Player of the Year vote.",
+ "est_chars": 58,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 157004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

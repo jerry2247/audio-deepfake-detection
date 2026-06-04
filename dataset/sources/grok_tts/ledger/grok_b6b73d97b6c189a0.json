@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b6b73d97b6c189a0",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c99b1dedb6bc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "President Nicolas Maduro condemned the protest actions.",
+ "est_chars": 55,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 166604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608378
+}

@@ -1,0 +1,701 @@
+request_id,provider,voice,mode,language,text_id,register,speed,instructions,text,est_chars
+grok_381207d37d4278f5,grok,eve,neutral,en,h_common_voice_13ec72e1fe92,read,,,"Surrounding the ship are several permanent exhibitions, cinemas, a shop and a restaurant.",89
+grok_4adafc0728695d18,grok,ara,neutral,en,h_emilia_1809034fc298,conversational,,,"The software was originally created by the Smallworld Company founded in Cambridge, England, in 1989 by Dick Newell and others",126
+grok_43eff4d2e8224cae,grok,rex,neutral,en,h_voxpopuli_6c009eb25831,formal,,,this modernday form of slavery is on the rise and the eu has given the perpetrators a helping hand by not allowing member states to control their own borders and check criminal backgrounds the eu is enabling this crime to escalate.,231
+grok_79a78d139a3bf5dc,grok,sal,neutral,en,h_voxpopuli_d1f2c59b3aa7,formal,,,when we look at the labour market one third of jobs will be deeply influenced by this transformation;,101
+grok_fabe7591e99d1937,grok,leo,neutral,en,h_voxpopuli_675e0a91e0d8,formal,,,nothing prevents member states to provide their patients who receive cross border healthcare more advantages form of reimbursement even in advance however it depends on the member states national nevertheless,208
+grok_db140919f5a7f83a,grok,eve,neutral,en,h_common_voice_5f21aafad877,read,,,"Teaching units at this University were originally called ""department"".",70
+grok_6c660def14f7facb,grok,ara,neutral,en,h_peoples_speech_38615f1ec8b3,procedural,,,he expected until the moment the judge ruled craig anticipated that we were still in opening statements,103
+grok_ab64888020ece9fb,grok,rex,neutral,en,h_emilia_eac26660db9d,conversational,,,"I don't know what's going on with school anymore. Uhm, so much is going on. So just really acknowledging.",105
+grok_a0c1718cb6a316c5,grok,sal,neutral,en,h_common_voice_769fc6cbad90,read,,,He graduated as one of the top students in his class.,53
+grok_4bf0b9025756e992,grok,leo,neutral,en,h_peoples_speech_1db4751e097a,procedural,,,it's a huge chunk above you know what ours is in the eleven million,67
+grok_c5ecb4abb7d650ce,grok,eve,whisper,en,h_common_voice_128d0997f92d,read,,,<whisper>You won't be safe until the money's in our hands.</whisper>,68
+grok_74518d4955904e94,grok,ara,neutral,en,h_peoples_speech_7f864fe0afb6,procedural,,,with respect to regulation of greenhouse gases advocacy disagrees with epa on whether the impacts on small businesses were properly considered,142
+grok_db3a605762f73465,grok,rex,neutral,en,h_voxpopuli_57b85dfce51a,formal,,,commercial practices the commission will also address the issue of commercial practices whereby travel services providers who market their services online offer additional services in an unclear or ambiguous manner such as hiding the option of not booking any further services and the commission,295
+grok_f00e0623c512047f,grok,sal,slow,en,h_common_voice_ba40e3aae44a,read,0.8,,Formal rose gardens line the eastern and southern sides.,56
+grok_a98a5e204d125c3e,grok,leo,neutral,en,h_emilia_d11ac5352e33,conversational,,,"The people who enjoys majority support of the MPTCs, means if there are 50 MPTCs, anyone who gets a support of 26 MPTCs will be called as a chairman.",149
+grok_7f0fd48c4ccb463b,grok,eve,neutral,en,h_voxpopuli_7d2bc681563b,formal,,,not later the and three months after the final report and the draft criteria the commission shall cons the european union equal labor board on draft proposal on this issue as i told,181
+grok_03448cd0a27f9bca,grok,ara,tags_native,en,cur_tag_008,grok_tags,,,"[cough] Sorry, excuse me. [pause] As I was saying, the quarterly numbers look, [um], optimistic.",96
+grok_292dfc17a203017a,grok,rex,neutral,en,h_voxpopuli_31ffdc9912fa,formal,,,this sort of industrial farming is only sustained by ever more use of antibiotics unnatural for the animal victims injurious to human health the by products polluting the land and the air.,188
+grok_4594a198cc789b01,grok,sal,fast,en,h_emilia_1fecac493522,conversational,1.3,,"So I think I can see how this movie is gonna go. If you like these kind of videos, make sure to like, subscribe and comment down below what other kind of content you wanna see on this channel. Now let's get into this shit show.",227
+grok_4db4c618643df7fe,grok,leo,whisper,en,cur_whi_015,whisper,,,<whisper>Keep your voice down. The walls in this hotel are paper thin.</whisper>,80
+grok_dcb086189059b201,grok,eve,neutral,en,h_emilia_8235e17a8b6c,conversational,,,"They were quick to adopt quilted cotton armor based upon that used by their native opponents, and commonly combined this with the use of a simple metal war hat.",160
+grok_93604a846748fe11,grok,ara,neutral,en,h_common_voice_90ef7a3c3384,read,,,"The specific epithet crenata also comes from Latin and means ""notched"".",71
+grok_42f524912ebd7246,grok,rex,neutral,en,h_emilia_06567ab98263,conversational,,,"And the team in Katmandu said, hey, we have a problem. We don't have access to mine shirts.",91
+grok_38f16b9b48c03aaa,grok,sal,neutral,en,h_peoples_speech_9af7f58a31e5,procedural,,,now at that point in time when i got that letter i will be honest with you that was the first time i actually seriously considered throwing in the towel,152
+grok_0cdf35591ae69d6c,grok,leo,neutral,en,h_emilia_5615eb6c0004,conversational,,,"Six, that teach them about financial management. Good parents don't only send their words to school.",100
+grok_72cb5955096a1ddd,grok,eve,neutral,en,h_common_voice_9abfc3258409,read,,,"The route begins on the Valley Way, which brings hikers to the Madison Hut.",75
+grok_56230553cca898c4,grok,ara,singing,en,cur_sng_001,singing,,,"<singing>Row, row, row your boat, gently down the stream, merrily merrily merrily merrily, life is but a dream.</singing>",121
+grok_3f302b11d76cd3a8,grok,rex,soft,en,cur_whi_002,whisper,,,"<soft>The surprise party is at seven. Whatever you do, don't tell Maria.</soft>",79
+grok_3751bc1b3421a7c5,grok,sal,neutral,en,h_common_voice_bcb0afe6987e,read,,,He wife Hannah was known for holding church socials at the Casady home.,71
+grok_16bb3850324d4350,grok,leo,neutral,en,cur_que_003,question,,,Why would anyone schedule a dentist appointment at seven in the morning?,72
+grok_1e5dc7e94baaae0d,grok,eve,whisper,en,h_common_voice_48e9bd2f6e78,read,,,<whisper>I would if I thought I'd hear anything worth listening to.</whisper>,77
+grok_5edc94710fb1159e,grok,ara,slow,en,h_common_voice_07b73e4319ed,read,0.8,,Self-confidence seemed to ooze from the fellow's every pore.,60
+grok_fbf8bc26154d7dc5,grok,rex,neutral,en,h_voxpopuli_880271595af5,formal,,,ever since then to better have been under the control of beijing the traditional the traditional but tobe,105
+grok_4f9da7df7d1fc982,grok,sal,neutral,en,h_common_voice_0416d2ca3fb1,read,,,Alexander was married to James Frost Alexander.,47
+grok_778dda945991bf30,grok,leo,fast,en,h_emilia_639a2847a3a2,conversational,1.3,,This is their first engine to combust liquid oxygen and liquid methane propellants. In September 2014—in a choice labeled,121
+grok_cf4aeef069e4a636,grok,eve,neutral,en,h_common_voice_f08d3e893687,read,,,He then dropped the studies and became a political activist.,60
+grok_906ddffaa27751d7,grok,ara,neutral,en,h_common_voice_8bbf0590191f,read,,,"Despite this, Helena's abiding love for Demetrius remains consistent throughout the play.",89
+grok_73306f50da02f712,grok,rex,neutral,en,h_peoples_speech_a986880f652a,procedural,,,i mean well that's not why would the state insist on injecting a potentially reversible error into a trial where they have all this evidence of twenty one incidences of telephone harassment texts conclusions,207
+grok_eb517837ee3db023,grok,sal,neutral,en,h_emilia_23755a13b9aa,conversational,,,"Mike, I debated asking this question at all because I feel like, uh, there can only really be one answer on, on this, during this discussion, but uhm, do you have a favorite football team?",188
+grok_e3067ba3f287bb80,grok,leo,whisper,en,h_common_voice_be329a6072fb,read,,,"<whisper>Fouls, on the other hand, can occur only while the ball is in play.</whisper>",86
+grok_749e4d703e52c541,grok,eve,neutral,en,h_emilia_29d6abadb127,conversational,,,"However, HDL – good cholesterol – did not increase by a significant amount",74
+grok_a9ba631f1ccfa565,grok,ara,neutral,en,h_peoples_speech_a9a2d4abfc5e,procedural,,,maybe he would have ended up with the same numbers but it it should have been done that way is what you're and evidence should have been presented and it's their burden of proof on that issue,191
+grok_208e6c5321929926,grok,rex,neutral,en,h_emilia_430c467e1a68,conversational,,,A significant amount of strategy and maintaining that leadership position within innovation. So maybe talk to us a little bit about your innovation path and what that progression has been like for ANOVA.,203
+grok_550c5f4e6b1ac3ce,grok,sal,neutral,en,h_peoples_speech_4cf1ba28db82,procedural,,,so what we're growing here now includes some of elmer swensen's grapes and some of the university of minnesota grapes but what changed to get back to your original question fifteen years ago was the availability of these new grape varieties that are adapted to this climate yeah,278
+grok_d365111921dd27c1,grok,leo,fast,en,h_emilia_584ebf37602a,conversational,1.3,,"In your family, who do you go to for support? Is it mom, dad, maybe a grandparent? Have you surrounded yourself with positive friends, people who can listen and be there for you? In this building, you have a lot of mentors.",223
+grok_84cd15c8aaba6c61,grok,eve,neutral,en,h_emilia_aa70c0ab35b6,conversational,,,"I'd like to talk to you now just about section headings. As you may have noticed, Moodle has",92
+grok_f04b265383cc7647,grok,ara,neutral,en,h_peoples_speech_66ff32a70038,procedural,,,the architect firm johnson roberts associates inc completed the study in may two thousand and seventeen,103
+grok_9a09a5a810e80e52,grok,rex,neutral,en,h_emilia_b85332de52b2,conversational,,,"What would happen if you did use perspective? And that's, uh, that's important. So come up with your own box variations and have fun with it.",141
+grok_9b774260cf9a6cb1,grok,sal,neutral,en,h_peoples_speech_3d924ae785cb,procedural,,,i don't think we're you know i don't think you'd be talking more than you know i mean i don't know,98
+grok_4222d20dc248c10d,grok,leo,neutral,en,h_emilia_a197d03cd98b,conversational,,,"Uh, such a joke. They own DC, but they have only a few DC shows. Rest in peace.",79
+grok_017306505dfd4d13,grok,eve,fast,en,h_emilia_dc49428f4850,conversational,1.3,,The resulting textures are a little different but mostly for the initiated taster.,82
+grok_6c8d46fc50602fbc,grok,ara,slow,en,h_common_voice_f25b46a15517,read,0.8,,"After the Civil War, cattlemen moved into the area.",51
+grok_5d94f957834bed00,grok,rex,neutral,en,h_common_voice_f59c480259e3,read,,,"I'm not so much into anatomy, where's the bladder again?",56
+grok_91bbe09576009f8b,grok,sal,neutral,en,h_emilia_00e5f4779f68,conversational,,,The idea that reason is the subordinate capability.,51
+grok_3d135b145288fd8c,grok,leo,neutral,en,h_common_voice_0e98529b6e74,read,,,Live Oak is an agricultural community located in the fertile Sacramento Valley.,79
+grok_565b0f09486fd830,grok,eve,neutral,en,h_common_voice_bfe959b37e7f,read,,,"Both Sargent and Nelson Doubleday, Junior worked for Doubleday.",63
+grok_5318114a5af8155b,grok,ara,whisper,en,h_common_voice_4b061ae95fc4,read,,,"<whisper>The interviewer's questions are omitted from the transcripts, rendered merely as Q.</whisper>",102
+grok_f2a227077b9cea88,grok,rex,slow,en,h_common_voice_5963cf0aeced,read,0.8,,"In fact, at the time, Kimmel was not aware of Washington's eight-action policy.",79
+grok_c6762492f0a76c72,grok,sal,neutral,en,h_voxpopuli_2e4ecdeb964d,formal,,,this clearly shows that we need a stronger we need a stronger position we need the power to cod aside,101
+grok_05145f8d9bc9a542,grok,leo,singing,en,cur_sng_003,singing,,,"<singing>Oh my darling, oh my darling, oh my darling Clementine.</singing>",74
+grok_cd0ebb12849daa2d,grok,eve,neutral,en,h_peoples_speech_97d522b61079,procedural,,,and be able to at least call the hands i guess they say okay you say that and prove it,86
+grok_ffe603f82770fe4f,grok,ara,neutral,en,cur_emo_015,emotional,,,"Ugh, this is disgusting. Who leaves week-old takeout in the office fridge?",74
+grok_0b15bee0ed37a7d1,grok,rex,neutral,en,h_emilia_3647b7faf3a6,conversational,,,"Finally, one day in desperation, the counselor said to her, give me a sense of something you're interested in, anything at all.",127
+grok_8c7438a6a3a31ce0,grok,sal,neutral,en,h_peoples_speech_61ac80454ed5,procedural,,,an affidavit which authenticated those exhibits and they were provided to the court,83
+grok_c0525dee9f0dcdd6,grok,leo,neutral,en,cur_num_006,numbers,,,Your account ending in 7733 was charged $89.99 on February 28th.,64
+grok_518794b4ffd35e32,grok,eve,neutral,en,h_common_voice_168afee212c7,read,,,He was the producer of most of these films.,43
+grok_92100eb6be7e2077,grok,ara,neutral,en,h_common_voice_9386f680ff14,read,,,"The first two seasons have been wiped, although the final season is intact.",75
+grok_4a05fd0d2169ed80,grok,rex,neutral,en,h_peoples_speech_66aab7cc89e1,procedural,,,we exist to serve the needs of everyone who uses or works in municipal buildings including staff students residents and others what do you think are your greatest strengths which will benefit you in this role as a vocation and avocation i have built structures of many types in multiple states,293
+grok_5add17818ff344d0,grok,sal,neutral,en,h_emilia_7a0c904b0e26,conversational,,,In many situations they were invisible. Teachers did not see them. They were not known. Most of these children were not known.,126
+grok_5fbd3e5ab4ee093c,grok,leo,whisper,en,cur_whi_006,whisper,,,<whisper>The library closes in ten minutes. We need to find that reference now.</whisper>,89
+grok_489ac54ca2a6a47f,grok,eve,neutral,en,h_common_voice_c3782aef8bc0,read,,,The Chicago Bulls formerly practiced at the Berto Center in Deerfield.,70
+grok_c56a379517cbbc8c,grok,ara,whisper,en,h_common_voice_f21dbd78af39,read,,,<whisper>He progressed quickly and drew the attention of the surf media.</whisper>,82
+grok_6298a109a69a4e58,grok,rex,slow,en,h_common_voice_5efb38b12c0d,read,0.8,,Manufacturing is quite limited with a few examples of plywood and wood pulp industry.,85
+grok_5026d6bfe5c76d7c,grok,sal,neutral,en,h_common_voice_2222dff6ac12,read,,,"His brothers, Thomas and John, would run the family business.",61
+grok_d1c8576a827f73b3,grok,leo,neutral,en,h_common_voice_6f76c23f805b,read,,,"At most, they thought that another meteorite had descended.",59
+grok_93a07b1170e065b6,grok,eve,fast,en,h_emilia_fec9968fea1e,conversational,1.3,,"The busy flag should not be used for any data handling, but to check for ongoing traffic.",89
+grok_b2424ca70134139a,grok,ara,neutral,en,cur_emo_011,emotional,,,You had one job. One. And now the whole project is ruined.,58
+grok_dc182e2875da4235,grok,rex,neutral,en,h_peoples_speech_501be678e779,procedural,,,coaxial cable like this has already crisscrossed the country pushed past some of our last frontiers guided by a 20th century type of pioneer who swapped his covered wagon and team of oxen for a diesel power and cable plow and left in his wake not a wagon trail but a network of electronic highways,297
+grok_f78303623e2d0a6a,grok,sal,neutral,en,h_peoples_speech_3d8739bcb737,procedural,,,two hundred and fourteen million one hundred and fifty one thousand seven hundred and ninety one,96
+grok_2b3c1a47603a535b,grok,leo,neutral,en,h_common_voice_78f4e8b413e0,read,,,He also lived for some time in Amsterdam.,41
+grok_a03872a0fc5b0642,grok,eve,whisper,en,h_common_voice_14c07d24ea18,read,,,<whisper>The floor was finished hardwood and used for basketball and volleyball.</whisper>,90
+grok_d4ba160b272b7e28,grok,ara,neutral,en,cur_emo_018,emotional,,,"I can't feel my hands. Why can't I feel my hands? Call someone, please.",71
+grok_e6cc423b9c5fe665,grok,rex,slow,en,h_common_voice_1e6c1c046086,read,0.8,,"Ninety five lines and no more, that's it.",41
+grok_efc5f6a361e79df5,grok,sal,neutral,en,h_emilia_e9d669a592f1,conversational,,,"You know, what's intuitive is, you know, uh, uh, I work my way in, I do good, and I, you know, I earn my way in, because that's how it works in the world.",154
+grok_18f5fecfda06c24d,grok,leo,neutral,en,h_emilia_c243e9344114,conversational,,,"The community begins merry-making, music, dancing and women playfully smear the faces of their companions with sindor' vermilion, all as a mark of the victory of good over evil",176
+grok_b1f43421340a9d63,grok,eve,neutral,en,h_common_voice_fcce10d441ff,read,,,"Phelps also swam competitively for Club Wolverine, a swimming club associated with the university.",98
+grok_aec0bc3847dba1dc,grok,ara,neutral,en,h_common_voice_907001910bd1,read,,,The three groups are not believed to form a clade.,50
+grok_ed3b3587b45494e7,grok,rex,neutral,en,h_peoples_speech_0860a1ca13ba,procedural,,,firefighters also feel that there are few resources to follow up on the vulnerable elders that they encounter,109
+grok_c86bbcd97ec54e00,grok,sal,neutral,en,h_common_voice_f471e63d8106,read,,,I hope that he understood what I was saying.,44
+grok_43ef226ab50bf334,grok,leo,neutral,en,h_peoples_speech_4d85c4f59562,procedural,,,the system as i hope it will work will be instrumental in providing metrics on a number of things including the frequency and cost of repairs on missioncritical systems,168
+grok_5f46f766f1cd0cf2,grok,eve,whisper,en,h_common_voice_19a54b45dfb3,read,,,<whisper>It is also a well-used interchange for passengers between slow and fast services.</whisper>,100
+grok_dad7d1c90ea8b6e3,grok,ara,slow,en,h_common_voice_b65762f1bd9c,read,0.8,,"Ryan will next appear in two feature films ""Streamline"" and ""Dishonest Bunch"".",78
+grok_98d2cb90428c8aa1,grok,rex,soft,en,cur_emo_008,emotional,,,<soft>Get out. Get out right now and don't you ever come back here again.</soft>,80
+grok_ebef4c097294dc46,grok,sal,neutral,en,h_common_voice_df15d89c8bc2,read,,,He worked briefly on the Manhattan Project at Princeton University.,67
+grok_4cc347ac339c59d5,grok,leo,neutral,en,h_common_voice_c1a3610f7516,read,,,"Sam provides support to Andrew when he suffers from shell shock in ""Enemy Fire"".",80
+grok_880bb4b0fd66a495,grok,eve,neutral,en,h_common_voice_7ad63d1c46bc,read,,,Nine missile launchers and two radars normally operate in a battery.,68
+grok_509013ffd4cf125e,grok,ara,neutral,en,h_voxpopuli_c8e1c5004da3,formal,,,the social use of seized criminal assets for youth support regeneration projects or even crime prevention could really help empower these communities.,150
+grok_83182dca179fafe9,grok,rex,neutral,en,h_voxpopuli_aab8cb315a18,formal,,,otherwise on these aspects if we work for sure we will achieve it one final mark there was,90
+grok_3fb7d81419d85d1e,grok,sal,whisper,en,h_common_voice_db979862a140,read,,,"<whisper>Every generation has ""fought for freedom and equality"".</whisper>",74
+grok_bccc76a1fdef239c,grok,leo,neutral,en,h_voxpopuli_aada317e5b48,formal,,,twenty you are attacking the principle of proportionality and the principle of representation by depriving a lot of polish citizens of their voices.,148
+grok_807212bde1770978,grok,eve,neutral,en,h_emilia_766bc89402f2,conversational,,,"You also participate in the dance troupe, is that right?",56
+grok_658050531a41fcec,grok,ara,neutral,en,h_peoples_speech_d6bad3a95d55,procedural,,,is it crucial to expand support and services for seniors there were over fifty people in attendance,99
+grok_75a8b1d43246b643,grok,rex,fast,en,h_emilia_5765a74c825f,conversational,1.3,,The zeal and completeness with which he elaborates what I've called a mammoth handbook of how to make a Matisse.,112
+grok_41c8fef376b8c1c3,grok,sal,slow,en,h_common_voice_8c3f166072b5,read,0.8,,Members of the Zongo community are mistakenly but commonly regarded as Northerners.,83
+grok_d92b5852b109b78d,grok,leo,neutral,en,h_common_voice_13ce129cd613,read,,,Five winners have subsequently achieved victory in the following year's Derby.,78
+grok_cfe9e945e30f8017,grok,eve,neutral,en,h_peoples_speech_d538ca613108,procedural,,,and they don't put water up there none of this really matters,61
+grok_dd4298623110f5f2,grok,ara,neutral,en,h_emilia_e8f4f8a1da84,conversational,,,"That would be pretty interesting to see in game. I think while gold in form is cool for the freezer race, there's no in-betweens.",129
+grok_9de1471ba2c00dc9,grok,rex,neutral,en,h_common_voice_5dfd878a117c,read,,,The series stars Christian Serratos as the titular character.,61
+grok_dc598c4d25e189fe,grok,sal,neutral,en,h_emilia_74059930f4d2,conversational,,,Software that harms an OS or slows it down with malicious intent. These types of programs are called malware and they are meant to cause damage.,144
+grok_e4a5d9c1f79127f5,grok,leo,neutral,en,cur_lng_004,longform,,,"To make the dough, start by warming the milk until it feels just slightly above body temperature, then whisk in the yeast and a tablespoon of the sugar and let it stand for about ten minutes until it looks foamy. In a large bowl, combine the flour, the remaining sugar, and the salt. Pour in the yeast mixture, the melted butter, and both eggs, and stir until a shaggy dough forms. Turn it out onto a floured counter and knead for eight to ten minutes. It should feel smooth and slightly tacky, but not sticky. Place it in an oiled bowl, cover it with a damp towel, and let it rise somewhere warm for about an hour, until it has doubled.",637
+grok_3b6b37a1b81af54d,grok,eve,neutral,en,h_common_voice_6fe73ba86bdc,read,,,"When the Midnight Shift apprehended him, he revealed his new origins.",69
+grok_e565773d05afb503,grok,ara,neutral,en,h_emilia_60284aafaa14,conversational,,,"I believe that chaos offers some useful ways of thinking about the world beyond science, but metaphors don't always work.",121
+grok_f0b1ed0dd68fe233,grok,rex,neutral,en,h_peoples_speech_8561e179fbec,procedural,,,but what interests us is how do you develop qualities through a regular school program well suppose we take last year's class,125
+grok_81c5a6477ebb1c4e,grok,sal,whisper,en,h_common_voice_50b1d194a9a2,read,,,"<whisper>Let it burn, it gives us warmth and comfort.</whisper>",63
+grok_7ca528426f7ddae3,grok,leo,fast,en,h_emilia_d231fe27d9f7,conversational,1.3,,"Where theta is the amount of rotation, this is the direction of rotations and the generators are tau by 2.",106
+grok_bd6729811b940a39,grok,eve,neutral,en,h_peoples_speech_6517f5ce980b,procedural,,,it complies in every aspect with rule three hundred and three,61
+grok_6e385ead460bef10,grok,ara,neutral,en,h_emilia_a91f28c2ced0,conversational,,,"Do you strongly prefer to watch the recording and, uh,",54
+grok_8ae7772545aaea38,grok,rex,slow,en,h_common_voice_47dc9c4516ec,read,0.8,,The two newspapers published a combined Sunday edition.,55
+grok_317fb28170ede4d7,grok,sal,neutral,en,h_voxpopuli_699bb9f8d702,formal,,,finally other member states do exactly the same thing systematic pool,69
+grok_d321577fa3051abc,grok,leo,soft,en,cur_whi_005,whisper,,,<soft>Look to your left. Slowly. Is that who I think it is?</soft>,66
+grok_759eca1aa11f294c,grok,eve,neutral,en,h_common_voice_3050a47e6168,read,,,It was subsequently purchased by Joseph Medill Patterson and Robert McCormick.,78
+grok_d10faa7ef343d4da,grok,ara,neutral,en,h_peoples_speech_0eb7f0b9cf79,procedural,,,and what kind of things did the friends do tell us a little bit about what you what you do with the friends group,113
+grok_40c56ec2d439bb53,grok,rex,tags_native,en,cur_tag_005,grok_tags,,,"He said, [um] he said the package would arrive Tuesday. [sigh] It is now Friday.",80
+grok_c6dd3b300de5ee7b,grok,sal,neutral,en,h_common_voice_66809666cd86,read,,,Thirteen nations participated in Nordic combined at the Grenoble Games.,71
+grok_ad08dfd2e24420e0,grok,leo,neutral,en,cur_num_010,numbers,,,"Apartment 4C, 1872 North Maplewood Avenue, Springfield, Illinois, 62704.",72
+grok_9645402e8bc5299d,grok,eve,neutral,en,h_common_voice_654c9f1850c9,read,,,Simon Doc Octopus Milton played bass guitar on The Lord Of The Flies album.,75
+grok_9a5d33cb51bd7890,grok,ara,neutral,en,h_emilia_1320c13cd317,conversational,,,"Russia, 80 MW, Lopburi Solar Farm, Thailand 73.16 MW, Rovigo Photovoltaic Power Plant, Italy, 72 MW, and the Liberos Photovoltaic Park, Germany, 71.8 MW.There are also many large plants under construction.",205
+grok_9a036d66faf00493,grok,rex,whisper,en,h_common_voice_cf736cb12135,read,,,<whisper>It was done before the boy could see it.</whisper>,59
+grok_a29179e5483f8122,grok,sal,neutral,en,h_peoples_speech_44fceddcd339,procedural,,,one of the most important problems that had to be solved to furnish this service was finding a way of automatically keeping track of how long mrs douglas has conversations lasted the telephone number she called and telephone number,231
+grok_0b7e6949bb2636f1,grok,leo,neutral,en,h_voxpopuli_371a1e1daf33,formal,,,the fact that young people are ready to do that and that we enable them to do it and to develop their capacities reflects a good european attitude.,147
+grok_3c099a606cba1558,grok,eve,neutral,en,h_voxpopuli_7d158323e205,formal,,,of course it is for the israeli people their political leaders to decide on the composition of their new government.,116
+grok_514de886f6e821ec,grok,ara,slow,en,h_common_voice_1ce5d14b9ee6,read,0.8,,The bed of this river is mostly made up of pebbles and pebbles.,63
+grok_b74e48c95ab6f9f9,grok,rex,neutral,en,h_common_voice_2dd1a5a42896,read,,,No segment of this state route is included within the National Highway System.,78
+grok_0572e0178932898a,grok,sal,neutral,en,h_peoples_speech_26d216763935,procedural,,,in order for agriculture to continue to thrive there must be a streamlined process to bring seasonal temporary labor when necessary,131
+grok_06a3c11aea7b4391,grok,leo,neutral,en,h_emilia_1f6006433db4,conversational,,,"Out of a hun- on a hundred point scale, we scored an eight. Uh, yeaah.",70
+grok_b0498da19b5a3be4,grok,eve,neutral,en,h_common_voice_0eb4eaeac6b8,read,,,All who met him fell with their faces to the earth.,51
+grok_a3a4ec9e40c0f7e0,grok,ara,neutral,en,h_common_voice_d4bcc2be844b,read,,,The property has a lot of space; what's its size?,49
+grok_984fbe3e5712f0c7,grok,rex,whisper,en,h_common_voice_fcec77b83fed,read,,,<whisper>Brisbane Roar have a team in the national W-League that represent Queensland's female footballers.</whisper>,117
+grok_3104b66e7895f705,grok,sal,tags_native,en,cur_tag_012,grok_tags,,,[laugh] Wait wait wait. [pause] You put the keys in the freezer? <loud>The freezer?!</loud>,91
+grok_ccafe4c43812e44b,grok,leo,fast,en,h_emilia_6178c168f564,conversational,1.3,,The additional costs of those first carbon capture and disposal plants.,71
+grok_c3ddc92b3ed1c99b,grok,eve,slow,en,h_common_voice_e4d680332ca0,read,0.8,,The fan whirled its round blades softly.,40
+grok_6ee42860b5d07d86,grok,ara,neutral,en,h_emilia_f8b1fc63a7db,conversational,,,Successive atoms become smaller because they are filling orbits of,66
+grok_26965f523c25a9aa,grok,rex,neutral,en,h_peoples_speech_140c7c78ab74,procedural,,,where we'd like to get permission to start the process so we can be in a position to include that in the paving project,119
+grok_99a196ae9e1514d3,grok,sal,neutral,en,h_common_voice_3ac15d65a0b2,read,,,"He's a regular and he's connected, but then I expect you knew that much already.",80
+grok_fa5c690b0082cd3b,grok,leo,neutral,en,h_voxpopuli_0b23a6d16d3c,formal,,,it allows for the mutual recognition of protection measures which are based on civil law rather than criminal law. i would like to ask my colleagues to support this proposal.,174
+grok_80deff158cad84e4,grok,eve,neutral,en,h_common_voice_3a7f8d1ba9de,read,,,The Sleeping Bear Dunes National Lakeshore extends into the northwest portion of the county.,92
+grok_43589b56fb1ad610,grok,ara,neutral,en,h_common_voice_8c20f9b5f77e,read,,,They claimed that their method has made it possible to perform between-participant comparisons.,95
+grok_656a35e3af98c9d0,grok,rex,neutral,en,h_emilia_c53c5cb7942f,conversational,,,"Which decays, through alpha emission, with a half-life of 1.6,000 years to radon 222",84
+grok_70cf1a7ec366eb54,grok,sal,neutral,en,h_voxpopuli_cf0ab320fabd,formal,,,thank you mr president let me first of all thank all the members of parliament that have made interventions,107
+grok_9dd6c0be37d4b2ea,grok,leo,neutral,en,h_voxpopuli_30d8270e2969,formal,,,we are disappointed and we regret that decision but the abandonment of paris by the us administration will not mean the end of the agreement.,141
+grok_4aabcb15f631c4ec,grok,eve,neutral,en,h_voxpopuli_0b58d9c3abeb,formal,,,our resolution and this is the goal of this debate calls to work closely together to minimise the health risks for staff and learners and to maximise the chances that inperson education and training is safe and can continue.,224
+grok_e29d10a26877ea7d,grok,ara,neutral,en,h_emilia_5ffac4c6f617,conversational,,,"There was a movie that came out in the 60s only to be remade 40 years later. And that's why... Put it on the screen, Bruxy. The Denver Broncos are... OCEANS 11!",160
+grok_fa9e776030bea5b7,grok,rex,whisper,en,h_common_voice_4f490a5dbf19,read,,,<whisper>Did you really need to clog up that pipe?</whisper>,60
+grok_1f6cadc29e967f08,grok,sal,slow,en,h_common_voice_deac252b9301,read,0.8,,My assignment has been completed and submitted.,47
+grok_26a6752acf255fe0,grok,leo,neutral,en,h_common_voice_e86de17a88b4,read,,,"Thus, ""Mesopotamia"" required a new writing project for the band.",64
+grok_d3b4e4ad0c4eea93,grok,eve,neutral,en,h_common_voice_a85547a61566,read,,,It is based on the height of a man with his arm raised.,55
+grok_42bef86f3d87f365,grok,ara,fast,en,h_emilia_e80ae1674c84,conversational,1.3,,And that's why we said that contact of course needed to do zero coming into this with the way that the map VO went down. It just seems like their map pool overall is a little too small coming into these best threes.,215
+grok_09c2b8a55d9b3bb2,grok,rex,loud,en,cur_emo_030,emotional,,,"<loud>Three years of saving, and the engine gives out two days after the warranty ends.</loud>",94
+grok_72c27bdc327b5982,grok,sal,neutral,en,h_peoples_speech_0e437d6cf9d5,procedural,,,those flowering trees that bloom in the spring the garden club maintains and plants the garden next to the library which has been a place that everybody enjoys during the summer time,182
+grok_59b91fc3e58807f5,grok,leo,neutral,en,h_peoples_speech_135adf072055,procedural,,,what epa has done is to make sure that the small businesses are not burdened by the kinds of regulations that don't make sense,126
+grok_97cf8a6f4a672b14,grok,eve,neutral,en,h_emilia_d32afd310128,conversational,,,This feature is very useful while writing repeated text in large documents. So we don't need to type the entire text repeatedly. We can simply copy and paste.,158
+grok_6bb086f6b6db731b,grok,ara,neutral,en,h_emilia_676c8d67e8f9,conversational,,,That they are undoubtedly far older than this. As to state that they were somehow cut by people with literally no tools to their disposal to us seems laughable.,160
+grok_f11b1cae93291888,grok,rex,neutral,en,h_peoples_speech_caf355051387,procedural,,,i'd like to go up to the first item where we had an objective,61
+grok_55d1142f8f3f108c,grok,sal,neutral,en,h_voxpopuli_8bd1a6decb20,formal,,,if we do not act now we will not only fail in meeting our climate obligations we will also miss out in reaping the rewards of being leaders of green innovation.,160
+grok_6463931c0815eaaf,grok,leo,neutral,en,h_common_voice_294a06e69274,read,,,Bilateral relations have traditionally been at the heart of development cooperation activities.,95
+grok_bffab27d95deda1e,grok,eve,whisper,en,h_common_voice_7a0b61e61762,read,,,<whisper>He was the first secretary of the Indian National Congress.</whisper>,78
+grok_b5b27d8da8070569,grok,ara,slow,en,h_common_voice_f29ce56ab1f7,read,0.8,,Wall alleged that her new husband raped her repeatedly and that she repeatedly miscarried.,90
+grok_6faa1115f48e783e,grok,rex,neutral,en,h_emilia_8444b649b72d,conversational,,,Because at that moment we thought that we were going to be killed and it is worth mentioning that when they,107
+grok_05f3027426f48751,grok,sal,fast,en,h_emilia_e156026a76fc,conversational,1.3,,"Imler assembled a force of about 3,000 men from Security Police, Gestapo, Kripo, SD, and the Waffen-SS, as the so-called, ""'Special Commandos of the Security Forces"", known as the Einsatzgruppen, to eliminate both communists and Jews in occupied territories.",258
+grok_02f9e0ab1e8b291c,grok,leo,neutral,en,h_peoples_speech_1930aba7797f,procedural,,,the defense counsel record shows that counsel pushed the victim and asked specific questions in order to challenge the credibility her truthfulness and her motive especially where the victim at times was vague and imprecise,223
+grok_6b70376aa6aa8ed5,grok,eve,neutral,en,h_common_voice_60104be76812,read,,,"Somewhere you are holding the person I love, the boy said.",58
+grok_5c39ae31daa0df27,grok,ara,neutral,en,h_peoples_speech_225be4b87404,procedural,,,reduce the wage to a realistic level the bush order was the best system thus far,80
+grok_9f75485cb313e865,grok,rex,neutral,en,h_emilia_a8eee698f690,conversational,,,"But first time Medi-Cal applicants can be denied or a share of cost can be assessed. So these, that protection on negative actions is for people who are already on Medi-Cal.",173
+grok_9295a48a5d85217e,grok,sal,neutral,en,h_voxpopuli_2cb59119fd2e,formal,,,so please convey this huge concern to the people responsible for that.,70
+grok_5a88e8dea4fcbac7,grok,leo,neutral,en,h_peoples_speech_ddbaaee4a8b3,procedural,,,and how funny that seems i mean if you if the alley if there's enough to have an indictment that there was an agreement to do criminal business with somebody i don't know,170
+grok_d1492a984247df1c,grok,eve,neutral,en,h_voxpopuli_1ef950116326,formal,,,the future of education depends on us making sure that all individuals without discrimination have access to education.,119
+grok_b7c5ad08bb6bffb7,grok,ara,neutral,en,h_emilia_2351340646e5,conversational,,,"The heat can also be used for industrial process applications or as an energy input for other uses such as cooling equipment.In many warmer climates, a solar heating system can provide a very high percentage – 50 to 75 percent – of domestic hot water energy.",258
+grok_014231609fe906f0,grok,rex,neutral,en,h_emilia_aef3030848dd,conversational,,,"He certainly doesn't care at all about you. Hasn't come to see you since you've declared your passing away. All he does is sit in the corner, doesn't even pay any attention to anything.",185
+grok_36395d3951008864,grok,sal,neutral,en,h_common_voice_de7bf230d194,read,,,"At Pisa, Varchi studied to become a notary.",43
+grok_8fe7288fe638a1d6,grok,leo,neutral,en,h_voxpopuli_b5f8773bbe70,formal,,,we must remember that free movement is a fundamental right and one of the great successes of the union.,103
+grok_1a48b8eb04b4d10a,grok,eve,tags_native,en,cur_tag_009,grok_tags,,,"<singing>Happy birthday to you, happy birthday to you</singing> [laugh] come on, everybody sing!",96
+grok_d3214c2f32c7c099,grok,ara,neutral,en,h_voxpopuli_2b704dcce36b,formal,,,people have been destroyed economical support for people have been destroyed and there we need to help also in the long and medium turn that those issues and those properties can be rebuilt that also regional money and funds can be used and also long term measures such as anti,277
+grok_a97daf3ef6354a73,grok,rex,neutral,en,h_common_voice_c9d3a78289c1,read,,,The Franks were successful at Tolbiac and established their dominance over the Alamanni.,88
+grok_abd641623989e86a,grok,sal,fast,en,h_emilia_b6bf34609a68,conversational,1.3,,"Concrete, solution,"" said Tony Tyler, IATA's Director General and CEO",69
+grok_ce9a74b1603ef67d,grok,leo,neutral,en,h_voxpopuli_6a490218956b,formal,,,thank you modern president i assume the nowadays behavior of actually is one be any limits,90
+grok_9a9103b0c2d63628,grok,eve,neutral,en,h_emilia_4bf9c510f7f7,conversational,,,"An intimate zone is reserved for close friends, lovers, children and close family members",89
+grok_1318f2ba80232cc3,grok,ara,neutral,en,h_emilia_88d600e27a6d,conversational,,,"The New Mexico House of Representatives passed a resolution in honor of Tombor, a longtime resident of that state, that declared that Pluto will always be considered a planet while in New Mexican skies and that March 13, 2007, was Pluto Planet Day",247
+grok_cc078dbcdffb42f5,grok,rex,fast,en,cur_dis_007,disfluent,1.3,,"We should probably, I don't know, maybe ask someone who actually, like, knows tax law?",86
+grok_ce1fa16a240a0c2c,grok,sal,neutral,en,h_voxpopuli_e789d8d3e7df,formal,,,sure you have reached been reached of the reports of persecution that has increased thirty-three or more youth being detained and also we have reports of sexual assault in de in detention of violence and it's also a question,224
+grok_ac3216a5596a61d1,grok,leo,neutral,en,h_emilia_6a4352cd9ada,conversational,,,"And if you are in a team, it is across all the actions that are taken across the team.",86
+grok_f6eff661166a7d17,grok,eve,whisper,en,h_common_voice_fd9c0fc7f90c,read,,,<whisper>And it makes you feel as if you are The Darkness itself.</whisper>,75
+grok_ba665aba74eb206d,grok,ara,fast,en,h_emilia_b73cbfe22167,conversational,1.3,,"That can be a difficult process because there's quite often very different views on the solutions to the problem, or even if there is a problem.",144
+grok_3eaed7698d26f7b9,grok,rex,slow,en,h_common_voice_d66be9cf5072,read,0.8,,"It is also funded through the National Lottery, Creative Scotland and Northern Ireland Screen.",94
+grok_559e6e324ac8be16,grok,sal,neutral,en,h_common_voice_421af521c199,read,,,One of Jackson's main arguments against the bill was the project's provincial nature.,85
+grok_1966214f737a8f5c,grok,leo,neutral,en,cur_num_005,numbers,,,"Take Interstate 95 South for 12.4 miles, then exit 23B toward Route 1.",70
+grok_79e0c67fef0127f7,grok,eve,neutral,en,h_emilia_a3b75fece068,conversational,,,"This device would destroy the Minuteman RV with a closing speed of about 20,000 feet per second at an altitude of more than 100 miles",133
+grok_2b5680ae2c26f3ec,grok,ara,neutral,en,h_voxpopuli_6a251299162a,formal,,,one very efficient policy that we can all successfully implement is phasing out the global carbon subsidies which exist and we have the pittsburgh g twenty agreement to get rid of all those inefficient subsidies.,212
+grok_30d07a52dd789e30,grok,rex,neutral,en,h_peoples_speech_682bd2ca6de1,procedural,,,and i've contacted them and told them what's up in terms of we have to get multiple prices and they might want to come and look at it again make sure that their number is still the number they want to go with,208
+grok_d4003155c93b7a70,grok,sal,neutral,en,h_common_voice_b5d472f1e755,read,,,Salvatore hides in a meat factory that he owns.,47
+grok_1c74f01be72c8b14,grok,leo,neutral,en,h_common_voice_ec506e476de9,read,,,"She returned to her home port, San Diego, finishing a seven-month deployment.",77
+grok_c2915aa00cfac1f6,grok,eve,neutral,en,cur_emo_029,emotional,,,I found the letters. All of them. In the bottom drawer of your desk.,68
+grok_0e242f1352651100,grok,ara,neutral,en,h_emilia_5eaf3be9665e,conversational,,,"There can be many different answers to prayer, just as there are many ways to interpret an answer to a question if there in fact comes an answer",144
+grok_74b5a5802c637382,grok,rex,neutral,en,h_emilia_22ae12cb2b9c,conversational,,,"Similarly, in some instances a small invading population can threaten much larger native populations",100
+grok_a043dc800912cb88,grok,sal,whisper,en,h_common_voice_16a53caf98e7,read,,,"<whisper>The program offers opportunities to participate in federal, state and privately funded research.</whisper>",115
+grok_5246b6ac41d0f407,grok,leo,slow,en,h_common_voice_5cb39658c4f9,read,0.8,,Turkey is dismantling the incentive system.,43
+grok_1f647bd9c065548b,grok,eve,fast,en,h_emilia_edbe1e8f6277,conversational,1.3,,"Then you get enlightened and like focus to you, to you, practice to you.",72
+grok_9e458857ed008621,grok,ara,neutral,en,h_common_voice_fa36ae86d080,read,,,Suggest another motive I could have had.,40
+grok_ac052ef1d361f8ba,grok,rex,neutral,en,h_emilia_cc69ea9cf3cb,conversational,,,Its territory included some of the most industrialized regions of the former Austria-Hungary,92
+grok_c4ebe34adfa3576c,grok,sal,neutral,en,h_common_voice_b93c388bfcaa,read,,,Badminton is my favorite type of racket sports.,47
+grok_72d5e4a7e28d6f05,grok,leo,neutral,en,h_common_voice_c13be16aac44,read,,,The designer for the refurbishment was Sheppard Robson.,55
+grok_f19fc403363ffaba,grok,eve,neutral,en,cur_emo_027,emotional,,,The test came back negative. Negative! We can finally breathe again.,68
+grok_cb66a21fb1212471,grok,ara,whisper,en,h_common_voice_c2dbac123118,read,,,<whisper>Many hospitals around the country reported shortages of beds and supplemental oxygen.</whisper>,104
+grok_57cb109254a37433,grok,rex,slow,en,h_common_voice_8a0bd411601b,read,0.8,,Red-Eye swung back and forth on the branch farther down.,56
+grok_0a60dd4486bdfa7d,grok,sal,neutral,en,h_peoples_speech_d090cf0a8c89,procedural,,,this piece here parcel three hundred and eight will be purchased by pt land company from the anthony estate and it will be consumed by phase two lots and public improvements,173
+grok_fa0a809b7b659776,grok,leo,neutral,en,h_emilia_47bbab447560,conversational,,,And I've actually got a second equation like that as well. y equals m2.,71
+grok_ac7ee72c8f083220,grok,eve,neutral,en,h_common_voice_3ba7f723b6a2,read,,,"Currently, she is the voice director for ""Regular Show"".",56
+grok_353c6908dc03c63f,grok,ara,neutral,en,h_emilia_52a729d38336,conversational,,,"At this conference, ministers from all WTO members launched the Doha Development Agenda",87
+grok_5d206b98683d8625,grok,rex,neutral,en,h_common_voice_06bcb9050579,read,,,"If there is no objection, the decision is made.",47
+grok_c35a02211df3f0b5,grok,sal,fast,en,h_emilia_5563439a1626,conversational,1.3,,She's always been very weird. She's always been a little bit off and not quite with it.,87
+grok_c55d2f8f0f44ee7e,grok,leo,neutral,en,h_emilia_c99092c9053c,conversational,,,"Yeah, let's do that. Let's put Happy New Year's here. Not gonna hurt anything, right?",85
+grok_f66962c10d968504,grok,eve,neutral,en,h_peoples_speech_326d9bc371bf,procedural,,,the credibility that we need before a jury when we're going into a trial trying to guide the jury through six and a half weeks of testimony,139
+grok_29fb46397686673e,grok,ara,neutral,en,h_voxpopuli_0b29543ece63,formal,,,and let's send a strong signal to the vietnamese government to improve the devastating human rights situation before we seal the deal we signed the deal not after we signed the deal not after thank you,201
+grok_689bc6807f80fed5,grok,rex,neutral,en,h_common_voice_2bcfa4d064fa,read,,,This was the first donation accepted by the Smithsonian in the field of magic.,78
+grok_961ca1a378bae1b8,grok,sal,neutral,en,h_voxpopuli_5681cea8f724,formal,,,then we as a parliament could take our responsibility and quickly vote through these measures because they will need to take effect on one january.,147
+grok_d0eb53f6643f62e8,grok,leo,whisper,en,h_common_voice_2dcbe2912ec2,read,,,<whisper>The nearest railway is at Labytnangi on the opposite side of the river Ob.</whisper>,93
+grok_579a4a0cf1527afe,grok,eve,neutral,en,h_peoples_speech_c903368f8843,procedural,,,they'd have to decide on what the configuration of the board was like,69
+grok_965357d80faa1a11,grok,ara,slow,en,h_common_voice_6f1398a3a39f,read,0.8,,"Suicide, then, also must be rejected: without man, the absurd cannot exist.",75
+grok_90ab8d7c744d1b12,grok,rex,neutral,en,h_peoples_speech_04bad33880cf,procedural,,,and i think there's an acknowledgement that we need to provide 21st century education experiences for our students,114
+grok_a58dc8af76f1231e,grok,sal,neutral,en,cur_emo_013,emotional,,,"Stop the car. Stop the car right now, I mean it!",48
+grok_a9955c8da24b2509,grok,leo,neutral,en,h_voxpopuli_be4eba8d7be9,formal,,,it is necessary to strengthen the civil protection mechanism and resceu and make them more flexible faster and better coordinated with national civil protection bodies.,168
+grok_b8748b3f4e54e115,grok,eve,tags_native,en,cur_dis_010,disfluent,,,"Right, so, um, quick update: the, uh, the shipment is—okay there's no good way to say this.",91
+grok_06fbba85c4dc3cb9,grok,ara,neutral,en,h_emilia_52dbab03bce3,conversational,,,"Wow, those do look awesome. Those look awesome.",47
+grok_6a073148f9fe3ad8,grok,rex,neutral,en,h_voxpopuli_526fe8b0e47d,formal,,,thank you mrs president i visited lebanon a few weeks ago where i also met with syria and refugees none of them expressed a week,128
+grok_f6be72d35c2352c1,grok,sal,neutral,en,h_peoples_speech_a7b8f51562d4,procedural,,,i didn't run a study or anything but that that traffic would be traveling in the opposite direction,99
+grok_58a78087838ed7cd,grok,leo,neutral,en,cur_que_012,question,,,Remember to water the plants while I'm gone. The ferns need it every other day.,79
+grok_184a9b94d76ef9e3,grok,eve,neutral,en,h_common_voice_af26ba9cad0b,read,,,Feral Interactive and Sumo Digital were once responsible for platform transplantation.,86
+grok_6844f5404ddba860,grok,ara,neutral,en,h_common_voice_768d51598bfc,read,,,"In some cases the symbols are ""punning"".",40
+grok_54e2e40cfe8095e7,grok,rex,neutral,en,h_peoples_speech_0a899a10058c,procedural,,,our manufacturers and farmers need this agreement to sell their products create jobs and compete against foreign producers,122
+grok_a442dd1672297ca5,grok,sal,neutral,en,h_peoples_speech_3f067260c7e6,procedural,,,but look how small this repeater unit is it's smaller easier to make amplifier but made possible by developing the transistor the tiny piece of sound amplifying equipment that requires no warmup time and has an almost indefinite lifespan,237
+grok_7576377e06778b26,grok,leo,neutral,en,h_emilia_a870cabcdef9,conversational,,,"Vasco da Gama's achievement completed the exploratory efforts inaugurated by Henry the Navigator, and opened an oceanic route for the profitable spice trade into Europe that bypassed the Middle East",198
+grok_5e8e38a49918dcb3,grok,eve,neutral,en,h_common_voice_921421b71c7f,read,,,"As kings died, others came along and new temples were constructed in their honor.",81
+grok_00717cca8ee7a27b,grok,ara,fast,en,h_emilia_c0dea27401d7,conversational,1.3,,Those with high achievement will be trained for the most,56
+grok_dbcc1a26b9acbd98,grok,rex,neutral,en,h_voxpopuli_73acacdea572,formal,,,man is seen as a creature who is harmful to the environment without making a beneficial contribution.,101
+grok_31e1f8214532c6b4,grok,sal,soft,en,cur_emo_012,emotional,,,"<soft>Honestly, I never thought I'd see the day. I'm completely speechless.</soft>",82
+grok_af73f3239fc8bd84,grok,leo,whisper,en,h_common_voice_a65878e536cb,read,,,<whisper>Among other nutrients lost are dietary fiber and small amounts of fatty acids.</whisper>,97
+grok_b00f80fe6a595c8d,grok,eve,slow,en,h_common_voice_bc49deee254a,read,0.8,,Pongo is the brother of Valerie Twistleton.,43
+grok_bd0b7391a13872d1,grok,ara,neutral,en,h_peoples_speech_f39541fc2d46,procedural,,,that litigation misconduct is is required before fees can be awarded,68
+grok_82658d196a1d62f2,grok,rex,loud,en,cur_emo_016,emotional,,,"<loud>They picked me. Out of four hundred applicants, they actually picked me.</loud>",85
+grok_75d9e95e1cba4d59,grok,sal,neutral,en,h_common_voice_d485b30de2dc,read,,,The flowers are white with yellowish dots.,42
+grok_231dbf8de1706601,grok,leo,neutral,en,h_common_voice_fab22fad9429,read,,,The album features an array of performers with never before available performances on record.,93
+grok_d5ff7612a1835c18,grok,eve,neutral,en,h_common_voice_8a4f3b6f6fb9,read,,,It does not certify the content of the document for which it was issued.,72
+grok_4e5967b9c5200809,grok,ara,whisper,en,h_common_voice_5990f7aef968,read,,,<whisper>The most widespread use of multitier architecture is the three-tier architecture.</whisper>,100
+grok_7f036d198b77b20a,grok,rex,slow,en,h_common_voice_7f14fcc1e4a4,read,0.8,,There are auxiliary rooms on the ground floor.,46
+grok_7010e7b3f4389f38,grok,sal,neutral,en,h_common_voice_4f5440d17a4f,read,,,Lanterns decorate the stage with the names of festival sponsors.,64
+grok_7d91d661a7da0a3d,grok,leo,neutral,en,h_voxpopuli_21106fa9627e,formal,,,let's start indeed on the positive notes the european economy is,64
+grok_ae9d256f4668a279,grok,eve,fast,en,cur_dis_003,disfluent,1.3,,"Yeah no, I get it, I get it, but—okay so here's the—here's my problem with that.",80
+grok_3a1467999d6cf8e4,grok,ara,neutral,en,h_emilia_bb63adee5466,conversational,,,"So for me, I think this is an opportunity. And just, sorry, I think my time is up. But just two days back, I noticed that the Aton General of the Federation has released a press release.",186
+grok_7c20ec950d60febc,grok,rex,neutral,en,h_voxpopuli_af07957744f2,formal,,,and as well is wrong to blame others they want to destroy the euro no one wants to destroy the euro here,104
+grok_a7ab604a3e24db81,grok,sal,neutral,en,h_common_voice_6f65c1df4c56,read,,,She worked closely with Marietta Kies at Mount Holyoke.,55
+grok_367ddd75e91b4765,grok,leo,neutral,en,h_common_voice_359b3dfcb5bd,read,,,Phil Anselmo has credited numerous inspirations for the song.,61
+grok_60bbc1b5419ebee3,grok,eve,neutral,en,h_emilia_6fa5ba06e5db,conversational,,,"But instead I'm going to show you how to do this, uh, by hand. So we've got two equations. We have a y equals, let's see, m.",124
+grok_13a3d48e0b37bb25,grok,ara,neutral,en,h_peoples_speech_87eee242d87c,procedural,,,now i want you all to listen in while i talk on this telephone,62
+grok_fb334babe866f190,grok,rex,neutral,en,h_voxpopuli_b2d2ab9e32fe,formal,,,we will ask the commission to come up with a legal framework to prevent this and make supply chains bringing products to our markets sustainable.,145
+grok_b31495b1fbac644b,grok,sal,whisper,en,h_common_voice_f731cad2a5b9,read,,,"<whisper>To find out the exact threshold, we need to repeat this in a reproducible manner.</whisper>",100
+grok_329372e826c262c2,grok,leo,slow,en,h_common_voice_4f5065342646,read,0.8,,The marriage of Zeus and Hera was acted at annual festivals.,60
+grok_15f1477e9eaa076c,grok,eve,neutral,en,h_emilia_ea9f6de646d4,conversational,,,"So let us look at the procedure, so before I go that in TCL pretty much like all the programming is developed as procedures.",124
+grok_206b913e84a1d4b0,grok,ara,neutral,en,cur_num_002,numbers,,,"The total comes to $1,247.83, which includes the 8.25 percent sales tax.",72
+grok_736eefead0711927,grok,rex,fast,en,h_emilia_ee476f981142,conversational,1.3,,"Uh, and to allow all of us to take advantage of dynamic ad inserts to help promote things across the network. Uh, and even for our own shows, so that'll be really cool to have that capability.",192
+grok_5a2eab862cf475b8,grok,sal,neutral,en,h_emilia_0417e91d3573,conversational,,,"The subgenus Glycine consists of at least 25 wild perennial species, for example, Glycine canescens fj.",103
+grok_48c2993839a6adad,grok,leo,neutral,en,h_emilia_c462a3cd462a,conversational,,,"I mean, this is actually easier than I thought it would be. This might be possible, you know?",93
+grok_0573437d97742bd5,grok,eve,neutral,en,h_emilia_d709e709de7e,conversational,,,But at eight years old I did get saved. I did get saved at eight years old.,75
+grok_6255794741a866a9,grok,ara,neutral,en,h_common_voice_2dafe1c2312f,read,,,She lived with her aunt after her mother died.,46
+grok_1555d6e62875398d,grok,rex,whisper,en,cur_whi_009,whisper,,,<whisper>I saw the exam questions on his desk. Number three is about photosynthesis.</whisper>,94
+grok_6d17199b851d5922,grok,sal,neutral,en,h_common_voice_404f19341d88,read,,,Two physicists pondered their revised quantum field theory together.,68
+grok_0db6345f6de886ad,grok,leo,neutral,en,h_voxpopuli_aff62dcbe438,formal,,,but at the same time we should not try to force them all into a straitjacket of one single answer to their problems. the brotherhood of nations belongs in the hearts of men not in supranational institutions.,207
+grok_2e82c075b2aab649,grok,eve,neutral,en,cur_que_010,question,,,"Take the second left after the bridge, then follow the gravel road to the end.",78
+grok_684555153aaab5fb,grok,ara,neutral,en,h_voxpopuli_93b007fad641,formal,,,now the issue where we differ and the certain observation comes to the point where we are today in fact we all know,115
+grok_3f639158f8eca2da,grok,rex,tags_native,en,cur_tag_015,grok_tags,,,[gasp] The cookies! [long-pause] [sigh] Well. We're buying dessert this year.,77
+grok_4b1377b4d0cfe197,grok,sal,neutral,en,h_common_voice_a9b8c809e9da,read,,,Throughout her career she has held different positions at the national level and abroad.,88
+grok_5bfedbf15c1cfb07,grok,leo,whisper,en,h_common_voice_16ef1290fe1a,read,,,<whisper>The strike was started by the faculty and students.</whisper>,70
+grok_f20c394cc1f00324,grok,eve,neutral,en,h_peoples_speech_799867e146e1,procedural,,,so really looking for ways to open up the park and make it much more userfriendly and to cater to a whole range of audiences,124
+grok_33115b51ebffa98b,grok,ara,slow,en,h_common_voice_fb97411b1098,read,0.8,,"The west town line is the border of Fulton County, New York.",60
+grok_c615ca6b52983480,grok,rex,neutral,en,cur_twi_004,dense,,,Truly rural jurors heard purple parallelograms were strictly structural.,72
+grok_c4e3d0c1b1678dae,grok,sal,neutral,en,h_common_voice_037870d3cb8d,read,,,"Because ""Little Big Mom"" deals with leprosy, it has never been released in Japan.",81
+grok_3bdd1871d5fd932d,grok,leo,neutral,en,h_common_voice_5393a9f7f096,read,,,He wanted Nelson's disrespect witnessed.,40
+grok_50964549412e706f,grok,eve,neutral,en,h_peoples_speech_f726366f5605,procedural,,,and there's also nothing in the record to show that the trial court improperly considered this considered this,110
+grok_d59e2e1c94732a96,grok,ara,neutral,en,h_peoples_speech_0009300050c5,procedural,,,so you have to have some horticulture some entomology some chemistry all those things,85
+grok_f09b224d47ca4e60,grok,rex,neutral,en,h_peoples_speech_3dabb4a2ee5a,procedural,,,looks like you're having some signups some raffles some frisbees,64
+grok_56188847a3a53433,grok,sal,neutral,en,h_voxpopuli_569d7398584e,formal,,,then there were two amendments adopted within the incorrect mff headings so they should be changed as follows amendment one thousand one hundred and fifty three preparatory action e platform for neighbourhood' should be included in heading one a and not heading.,262
+grok_5f101fd13f6e74c2,grok,leo,neutral,en,h_voxpopuli_8f977ca57037,formal,,,while i respect one country two systems' i find it shocking that a country run by a communist party appears to be advocating a system which gives representation only to those with wealth and privilege.,201
+grok_95ee46823aae3668,grok,eve,fast,en,h_emilia_d50f3a07557e,conversational,1.3,,"Now scene four here is our top view, our bird's eye view. So if I click back through, I've got scene ones looking this way.",123
+grok_beb67d12999448a7,grok,ara,neutral,en,h_common_voice_8a7efc43d232,read,,,He was succeeded by deputy leader Steve Elling.,47
+grok_9b69425fd08fee4a,grok,rex,whisper,en,h_common_voice_fc7dd4530262,read,,,"<whisper>Then, you taught me something of the universal language and the Soul of the World.</whisper>",101
+grok_07f72d35ea1b2a33,grok,sal,neutral,en,cur_num_016,numbers,,,"Model X-200 ships in SKU batches of 144, with lead times of 6 to 8 weeks.",73
+grok_7705f5012e27f64e,grok,leo,neutral,en,h_peoples_speech_6123b4b6d412,procedural,,,carol corey will report when he found out from the mayor here,61
+grok_9e000ec5e0d8ca7e,grok,eve,neutral,en,h_emilia_731d322344d2,conversational,,,"Welcome to another seminar by the Instituto de Astrofísica de Andalucía, in Granada, in Spain.",94
+grok_a1782a632e4c72aa,grok,ara,neutral,en,h_emilia_06d6adb5c440,conversational,,,"Then seek, tell and read and do random access of IO, so they can go into a particular sector and then read from there, uh, things like that.",140
+grok_dad703f37546ad11,grok,rex,slow,en,h_common_voice_16738efe0049,read,0.8,,In the flashes of lightning they see the fire of the artillery.,63
+grok_92187ffe21e0b8f4,grok,sal,tags_native,en,cur_tag_003,grok_tags,,,So I opened the email and [gasp] they accepted the proposal! [laugh] All of it! Even the budget!,96
+grok_baca4d28efcd3095,grok,leo,neutral,en,h_voxpopuli_d7ecee2e0d1e,formal,,,it's both interesting and demanding to meet the various petitioners who come to the committee and talk about their problems.,124
+grok_6ea8079faf34c8a6,grok,eve,neutral,en,h_voxpopuli_b31e770586bf,formal,,,we need to focus on deepening and strengthening the internal market to make sure that all single market strategies are completed by two thousand and eighteen especially of course the digital single market.,205
+grok_1a2bd3d6ca3c20db,grok,ara,neutral,en,cur_num_009,numbers,,,The CEO of NASA met with UNESCO and the WHO about the 2030 initiative.,70
+grok_d5324e6fb96d47a3,grok,rex,neutral,en,h_common_voice_f6fba4331586,read,,,Ammonium nitrite solution is stable at higher pH and lower temperature.,71
+grok_ae39621fdb4d273f,grok,sal,neutral,en,h_common_voice_e9d7299fcbf2,read,,,Elizabeth was about the same age as Maria.,42
+grok_31d105f0b3d39a7b,grok,leo,neutral,en,h_common_voice_774711c5f29e,read,,,His speech ended with a standing ovation.,41
+grok_b992973a1218f9a7,grok,eve,neutral,en,h_emilia_a0cebaaab2f5,conversational,,,"Quite a tough day, I must say. I hope you still have some energy to listen to mine and afterwards lecture.",106
+grok_1adb49800e7235e3,grok,ara,neutral,en,h_voxpopuli_8fd2eefd0ff4,formal,,,thirdly the attractiveness of eu assistance is also important.,62
+grok_6139d2bd83587ed7,grok,rex,whisper,en,h_common_voice_57cf2b524e4f,read,,,"<whisper>Public facilities, as precautionary measures, were closed.</whisper>",77
+grok_4fb1c41071316635,grok,sal,slow,en,h_common_voice_18b614604c89,read,0.8,,She decided to study Accounting at a university in Portugal.,60
+grok_7c982d470d2bc5c5,grok,leo,neutral,en,h_voxpopuli_967fe425ccb0,formal,,,we need to stop talking only about the energy targets we have to speak about how to implement these.,100
+grok_5883c61d27ba1eb2,grok,eve,soft,en,cur_whi_003,whisper,,,"<soft>Shh, the baby finally fell asleep. Let's order takeout and watch a movie.</soft>",86
+grok_3f07509e31a6c3ef,grok,ara,fast,en,h_emilia_cc929c118fc2,conversational,1.3,,I continue to focus on this one contradiction that I have.,58
+grok_633fa408da6d7fc8,grok,rex,neutral,en,h_common_voice_d21670f96760,read,,,This process is particularly visible in the eastern part of its area.,69
+grok_5110894364550d39,grok,sal,neutral,en,h_voxpopuli_0deba75f8add,formal,,,it was a very important achievement and now is the time to move on with the implementation of the pillar principles.,116
+grok_be31fa088e143b62,grok,leo,neutral,en,h_emilia_5d65439a432c,conversational,,,"As the water table around the well is lowered from pumping, unsaturated soil is exposed",87
+grok_e1a2987dbd792912,grok,eve,neutral,en,h_common_voice_ce0f3d2fdb50,read,,,"Seth continues to deteriorate, losing body parts and becoming less human in appearance.",87
+grok_a711590ede07fd19,grok,ara,neutral,en,h_common_voice_2a9045b64384,read,,,One week later she was released after successfully appealing her arrest.,72
+grok_0601111d7793f0d3,grok,rex,neutral,en,h_voxpopuli_4397232881df,formal,,,i must say that i am appalled by the homophobia that i have heard.,66
+grok_a299adcca4d28b02,grok,sal,neutral,en,h_peoples_speech_a6afa91719df,procedural,,,so i'd like to see maybe at some point we can talk to the county in a partnership you pay towards it with the county to try to combine or maybe have this facility replaced,171
+grok_7a4ef3475536a682,grok,leo,whisper,en,h_common_voice_2a9c9c369b39,read,,,"<whisper>Similar parties were formed in the Netherlands, Bulgaria and Britain.</whisper>",88
+grok_8edfff37b4bf48a1,grok,eve,neutral,en,h_voxpopuli_f879c40fa1e8,formal,,,it should in particular be noted that if the sale process is successful and correctly implemented companies acquiring the shipyard assets will not have to repay the illegal subsidies even if they choose to continue shipbuilding.,228
+grok_194f90a83a426c79,grok,ara,slow,en,h_common_voice_6491a22e20b9,read,0.8,,The brickwork is laid in stretcher courses through most of the house.,69
+grok_a22eaf4064c31113,grok,rex,neutral,en,h_emilia_ea860e79b751,conversational,,,It's very simple. Quick question is this. Compare a fantasy player to a blockbuster movie.,90
+grok_03759d595040bc59,grok,sal,neutral,en,h_emilia_740b7f056b30,conversational,,,And there's a great website called Class Central. I have the URL there on the page. If you want to,98
+grok_e3913f97391f40df,grok,leo,fast,en,h_emilia_0b0bde5f3157,conversational,1.3,,"Trying to be too speedy, and obviously that is at my detriment. Okay, c'mon, speed up a bit.",92
+grok_298b1429a4bf29a6,grok,eve,neutral,en,h_common_voice_f78598d48b11,read,,,His home was Blendon Hall near Bexley in Kent.,46
+grok_780b7ed4aad01991,grok,ara,neutral,en,cur_twi_001,dense,,,"She sells seashells by the seashore, but the shells she sells are surely seashells.",83
+grok_3e6bba042b7c72c7,grok,rex,neutral,en,h_common_voice_da1c29c8d52d,read,,,He was first commanding officer of the Sri Lanka Army Medical Corps.,68
+grok_19d8d54476e6cd6a,grok,sal,neutral,en,h_common_voice_17dac6c8afd2,read,,,Robin van Roon also joined them after a while.,46
+grok_37a006b8a9d71f08,grok,leo,neutral,en,h_voxpopuli_4b215f82f676,formal,,,we should not forget about that the timing of auctions licence duration spectrum trading greater eu coordination of spectrum assignments are all very important. they are all addressed in the telecom framework.,209
+grok_23afbdbe7240d263,grok,eve,whisper,en,h_common_voice_11f14be83a45,read,,,<whisper>Who is the blonde girl with the red skirt?</whisper>,61
+grok_e212fe0994f8506c,grok,ara,neutral,en,h_emilia_a0a1c140a0b3,conversational,,,I would have done certain things differently or I would have suggested the politicians to do certain things differently. So I'm sure there is something to learn from the Pali process and it's a real pleasure talking to you.,223
+grok_0af190385daac6fd,grok,rex,neutral,en,h_voxpopuli_7823e26e7e77,formal,,,a european democracy needs more open and inclusive institutions. we need bold decisions in order to overcome mistrust and apathy.,129
+grok_1163c8994f4cb75e,grok,sal,slow,en,h_common_voice_347353c1383e,read,0.8,,Wasn't there a command line client for ordering pizza somewhere?,64
+grok_884d87f7477fd4a7,grok,leo,neutral,en,h_common_voice_b12dd81cd595,read,,,"The more you read, the better you will be understood.",53
+grok_eb792ea4d6fbe1f4,grok,eve,neutral,en,h_peoples_speech_061c6e9856e3,procedural,,,be your balance or hanging on tight or what's the secret well like you're turning to one side and want to turn to the other side and hold on really tight to the rope,165
+grok_bda9796d984fec54,grok,ara,neutral,en,h_common_voice_f59607149375,read,,,"Malcolm was born and was brought up in Newport, where he still lives.",69
+grok_c790b71ee01a5a2e,grok,rex,neutral,en,h_voxpopuli_51d151b4f52a,formal,,,we managed to retain the chapter on environmental protection and the change in the legal basis from the euratom treaty to the treaty on the functioning of the european union.,174
+grok_046b8d9a0ce7aaf9,grok,sal,neutral,en,h_common_voice_130917415b23,read,,,The club is always looking for new players to compete in local leagues.,71
+grok_e775b58e4de582cb,grok,leo,neutral,en,h_peoples_speech_0df79a47ceae,procedural,,,so your formularies do change no matter what but we're going to look at this and talk with the city to see what the actual disruption is and you know we can do a couple of different things,188
+grok_65ee2dbe27e9af92,grok,eve,whisper,en,h_common_voice_1e3d6cf9c1e0,read,,,"<whisper>The proposal came under criticism of European Federation of Journalists, and Russian government.</whisper>",115
+grok_988e8ba59e06d30b,grok,ara,slow,en,h_common_voice_3d1fa2c05646,read,0.8,,"The ticket office, on the 'up' side, is situated in the substantial station building.",85
+grok_409a5b06dfc05505,grok,rex,neutral,en,cur_emo_010,emotional,,,Something's wrong. The lights are off and the front door is wide open.,70
+grok_a0a6517f017b2a8e,grok,sal,neutral,en,h_common_voice_f2855ea124cc,read,,,Volkswagen vehicles built off different platforms have carried the Polo name plate.,83
+grok_36e80159b43116fc,grok,leo,tags_native,en,cur_dis_015,disfluent,,,I mean—okay. Deep breath. Let me try to explain this without losing my mind.,76
+grok_cd97594d1b75f4e0,grok,eve,fast,en,cur_que_001,question,1.3,,Did you remember to lock the back door before we left this morning?,67
+grok_0ff8af93fd2f7791,grok,ara,neutral,en,h_common_voice_61db5b49cb30,read,,,"Three for a dime, the young peddler cried.",42
+grok_d883c7caae538c2a,grok,rex,neutral,en,h_emilia_8357345bdf69,conversational,,,"Gonna just see Peach, maybe get one extra moon, if we're lucky. Ah, good to be back.",84
+grok_0b29262894b342bd,grok,sal,neutral,en,h_emilia_028921574644,conversational,,,"He argued that all big spherical moons, including the Moon, should likewise be considered planets",97
+grok_d33e68f8d1fc6a56,grok,leo,fast,en,h_emilia_59f4df01aa7f,conversational,1.3,,Is producing an area around it where this flux of relic neutrinos from the cosmos.,82
+grok_1ceae44628b913ef,grok,eve,neutral,en,h_emilia_abd6541103d8,conversational,,,It doesn't matter when I put this on. This foundation looks beautiful on my mature skin. It never settles into fine lines and wrinkles.,135
+grok_fe9972ebcbf82b49,grok,ara,neutral,en,h_common_voice_f1f090d499a3,read,,,"Phil, will you take a stance on this matter?",44
+grok_699e3a3bcf131afa,grok,rex,neutral,en,h_emilia_7f80c7214d75,conversational,,,"Great, exactly. And one of the things I think of is you can preemptively",72
+grok_ea4f6401724be58b,grok,sal,whisper,en,h_common_voice_6e504b80ddb0,read,,,<whisper>It includes the unincorporated communities of Jacksville and Moores Corners.</whisper>,95
+grok_ecf9e064156f6183,grok,leo,neutral,en,h_peoples_speech_80cd5afd638c,procedural,,,he didn't talk about the things that the state was actually intending to prove and guilty of,92
+grok_ade59e5145724854,grok,eve,neutral,en,h_peoples_speech_5694053cd518,procedural,,,correcting your mistakes and finally you've made more good choices than bad choices and you say yeah it's working you know i'm still working on that piece,154
+grok_1690774b0d3ab9e5,grok,ara,slow,en,h_common_voice_215de265a0d0,read,0.8,,The rocket propelled fire arrow appeared later.,47
+grok_23e93b5795a0cc3e,grok,rex,neutral,en,h_common_voice_15691778d8e5,read,,,His two eldest sons were killed in action in the Second World War.,66
+grok_b67b2ff9bf8ee6ff,grok,sal,neutral,en,h_emilia_5a83bb2f72dd,conversational,,,These studies suggest that various individual and situational factors,69
+grok_a62faf28274f408d,grok,leo,fast,en,h_emilia_4d8eccd43064,conversational,1.3,,Other specific countries or both in specific countries and also at the international level in terms of debate and lesson sharing.,129
+grok_5bb68dee5a537972,grok,eve,neutral,en,h_voxpopuli_9202b3d1812b,formal,,,eu aid worth millions of euros destroyed in full impunity and no adequate labelling of settlement products. the village of khan al ahmar that i and countless friends of the bedouins have visited is about to be destroyed.,220
+grok_783689feb25400af,grok,ara,neutral,en,h_voxpopuli_c46b3e71dbe4,formal,,,however when it comes to cooperation among the eu countries in bringing to justice those who committed crimes against humanity there is still a lack of understanding.,166
+grok_f809188f98be3dbc,grok,rex,neutral,en,h_emilia_1ff333b67208,conversational,,,"However, Governor Dirk Kempthorne appointed State Senator Jack Riggs of Coeur d'Alene to the post instead",105
+grok_f097b6d6a977a1e3,grok,sal,neutral,en,h_voxpopuli_6f8d7302411a,formal,,,the european union has much to gain for india is a great country and i wish the european union well with those links.,117
+grok_b3d817f57925a109,grok,leo,neutral,en,h_emilia_f596c5756dbb,conversational,,,So what do you think are the biggest things that people should listen for as they enjoy actual plays?,101
+grok_3feceab95ca6a83f,grok,eve,neutral,en,h_peoples_speech_031f6a139a5b,procedural,,,and just for those who might not have stopped by your table today can you give us just a quick description of what your mission is what you guys do in town i mean i think it's pretty you know self explanatory,208
+grok_718b2f3c1d1ab239,grok,ara,neutral,en,h_voxpopuli_15fe3455c46a,formal,,,madam president the european union is based on common values. among them is that of respect for all nations and minorities and equal treatment for all eu residents regardless of their origin native language or religion.,219
+grok_7faed605d00527dc,grok,rex,neutral,en,h_common_voice_3af5e71fce1d,read,,,"For better physical understanding, let's first recap where the pivot point is.",78
+grok_08a56be06560cbc3,grok,sal,neutral,en,cur_emo_005,emotional,,,How dare you stand there and lie to my face after everything we've been through.,80
+grok_238447e39a74f142,grok,leo,neutral,en,h_common_voice_f97d14808300,read,,,It is also used to emulate sounds generated by obsolete electronic equipment.,77
+grok_05fb802547d5e736,grok,eve,whisper,en,h_common_voice_dd90d71701cb,read,,,<whisper>The doorways had polished marble columns with enriched caps.</whisper>,79
+grok_21652046e1cfdb40,grok,ara,neutral,en,h_peoples_speech_dec816672eaa,procedural,,,additionally there are many exciting educational opportunities that exist when seventh and eighth grades are included on a high school campus,141
+grok_edf332bf004aa775,grok,rex,neutral,en,h_emilia_758886a7c5f3,conversational,,,"Uhm, we remain in constant contact with people.",47
+grok_46d14076ae49c89b,grok,sal,fast,en,h_emilia_459c152426a3,conversational,1.3,,"Lebanon and Hezbollah continue to claim a small area called Sheba Farms as Lebanese territory, but Israel insists that it is captured Syrian territory with the same status as the Golan Heights",192
+grok_abc3e22ecc69c908,grok,leo,slow,en,h_common_voice_9e55bdc846e1,read,0.8,,Rosa is placed in solitary confinement at Bellevue Mental Hospital.,67
+grok_f7460e66d2352798,grok,eve,neutral,en,h_voxpopuli_fd92600c9c9c,formal,,,the commission has always appreciated the clear stance of parliament on this matter.,84
+grok_01272e391b3e7b38,grok,ara,neutral,en,h_emilia_f74d2005e4aa,conversational,,,"We totally can do it. I think the students would love it. Uh, first gen, let's, hey, if you're serious, Katie, uh, first gen week is the week of November 8th. There's something during that week, as we can tell you.",214
+grok_a87ef80f5107961f,grok,rex,neutral,en,h_common_voice_8306d7c04fda,read,,,This leads Batman and Gordon to conclude that Dent was Holiday since the beginning.,83
+grok_63b127c4204d636c,grok,sal,neutral,en,h_common_voice_988d113c4a9e,read,,,"Thanks to the exhaust turbo charger, we could double the engine torque.",71
+grok_3503b344170b8b60,grok,leo,neutral,en,h_emilia_e4743b31da81,conversational,,,Locked by the wall. Trying to kick it again. Back to defenders. Three defenders there. Punches it up. Made feel. Kicked out quickly.,132
+grok_b16d5eecedd86526,grok,eve,neutral,en,h_common_voice_07a82220ed82,read,,,His father taught him the basic technique which separates him from others.,74
+grok_d8196237e1962c4a,grok,ara,neutral,en,h_emilia_1b7f99e6786d,conversational,,,"You know, I, I just am aware of these markets and when I see like, you know, hundred thousand, hundred thousand.",112
+grok_0a092633642d73af,grok,rex,whisper,en,h_common_voice_bb1d05ffbe69,read,,,"<whisper>Female and juvenile plumages are similar, but duller and less streaked.</whisper>",90
+grok_70e13bdd617f768e,grok,sal,neutral,en,cur_emo_020,emotional,,,"Look at the little guy! He's wagging his tail! Oh, he likes me!",63
+grok_29eefbb05f7aef1e,grok,leo,neutral,en,h_peoples_speech_b3283529b221,procedural,,,so we give them all the instructions they need and meet them there if they want to,82
+grok_a57d213329a97047,grok,eve,slow,en,h_common_voice_2ffae25dea92,read,0.8,,There is a left turn for Tollerton and goes through Tollerton Forest.,69
+grok_b5e2f4ea496943b8,grok,ara,neutral,en,h_voxpopuli_d6a397353314,formal,,,the transformation of institutions provided for by the dcfta will also create a more stable environment for moldovan businesses for moldovan citizens;,150
+grok_fcf177b359579507,grok,rex,neutral,en,h_common_voice_f4aaca62d05d,read,,,"A realisation hits and he exclaims, I see!",42
+grok_de35ab5c495c8263,grok,sal,neutral,en,h_peoples_speech_fa0f0df6156a,procedural,,,and can you go through the vineyard in a clean sweep or do you have to come back as fruit ripens no it's a onetime through,122
+grok_8fd3103b10d583ca,grok,leo,neutral,en,h_peoples_speech_31c45b9bdc8b,procedural,,,so we didn't have you had they they produced these records basically alongside of their summary judgment motion,111
+grok_b37e88388a3470be,grok,eve,neutral,en,h_voxpopuli_6d2876e771c2,formal,,,the floor now to mr tan two minutes mr president since the abolition of the nepalese monarchy and the election of a mais led government in kaman do nepal and china have inevitably grown much closer it's no,205
+grok_649fe7f0568aef97,grok,ara,neutral,en,h_voxpopuli_5fda30e36a70,formal,,,your question is fully justified. this is exactly the question i am asking the danish presidency because the danish presidency is leading these talks and it must know for what reasons those countries are objecting.,214
+grok_b6b73d97b6c189a0,grok,rex,neutral,en,h_common_voice_c99b1dedb6bc,read,,,President Nicolas Maduro condemned the protest actions.,55
+grok_b989ef62662baea4,grok,sal,neutral,en,h_common_voice_6ec357b82ed7,read,,,In the fall the leaves turn many shades of orange and yellow.,61
+grok_1d9a7ff55c3f5455,grok,leo,whisper,en,h_common_voice_cc46aea6286d,read,,,<whisper>The album was released in multiple versions.</whisper>,63
+grok_d644aa2025da50b0,grok,eve,fast,en,h_emilia_aa25d791bf14,conversational,1.3,,"Durga is an ancient deity of Hinduism, according to archaeological and textual evidence available",97
+grok_dc742e89e0795022,grok,ara,neutral,en,h_voxpopuli_8684ca0ae157,formal,,,not because it is not a classical european document but simply because it is not responding to what europeans are requesting today.,131
+grok_6554f334492f6e18,grok,rex,neutral,en,h_emilia_fa1711564b2b,conversational,,,The earlier Soyuz 11A511 was the first attempt at creating a standardized R7 core in place of the numerous variations that had been used up to 1966,147
+grok_3054660d33668825,grok,sal,slow,en,h_common_voice_4ce9f5bd1988,read,0.8,,Three-phase alternating current is an efficient way of transmitting energy.,75
+grok_1562f5d70d42b9ca,grok,leo,neutral,en,h_peoples_speech_47e4509ce881,procedural,,,but those are some things i'd like to see at our next committee agenda and that had this doing here,99
+grok_66c1b3c2d99f7185,grok,eve,neutral,en,h_common_voice_1d1c4dd4c9a0,read,,,An uncredited Jim Hutton appears briefly as the principal of a competing school.,80
+grok_9bc05d580354afec,grok,ara,neutral,en,h_emilia_69d3ec96c521,conversational,,,"We'll need to have specialized skill sets used to locate the kinds of information that cannot be located with a simple Google search, as I mentioned in the previous section. And we also need",190
+grok_67030d84f6b52d12,grok,rex,neutral,en,h_voxpopuli_ef6f17969f01,formal,,,would give you at least a long term measure of fiscal sustainability,68
+grok_865f5c5e3a25484b,grok,sal,neutral,en,h_emilia_2bbf437012db,conversational,,,"100, it's a 50-50 job as far as the relationship working. That don't mean we spend the cable bill, but that means we both got to put in an equal amount to make this relationship work.",183
+grok_ed2ab6e2ca6400ed,grok,leo,fast,en,h_emilia_abadab950195,conversational,1.3,,"Args increment s, uh, by 1 and then return s.",45
+grok_c64b1813402d4fe7,grok,eve,neutral,en,h_common_voice_8f991be347ea,read,,,After Mumbai it also break all records of Bhojpuri box office in Bihar.,71
+grok_6527e4a803513cc4,grok,ara,neutral,en,h_peoples_speech_ec3d9a8b377b,procedural,,,i get the feeling when i hear folks talk that the government comes in the idea isn't to fix it it's to fine you,111
+grok_c3d5ed9ce2c1eb40,grok,rex,neutral,en,h_common_voice_349aa317d97f,read,,,The lava is usually rhyolitic and rich in silicates.,52
+grok_e5288c83e0987efb,grok,sal,whisper,en,h_common_voice_5de8e8d6d142,read,,,<whisper>He has also been chief economist for Caixin Media Group.</whisper>,75
+grok_baddfdacf09c00c3,grok,leo,neutral,en,h_voxpopuli_4ab66edd8fdb,formal,,,we are convinced that it's very useful for the quality of the funding programmes. it is based on a new focus on results and milestones that have to be achieved.,160
+grok_38335de5ffacf212,grok,eve,neutral,en,h_voxpopuli_81859d6485c6,formal,,,we want the free flow of data to be the fifth freedom in europe.,64
+grok_3699719627e1eca7,grok,ara,neutral,en,h_emilia_df4dda5e4f4e,conversational,,,"Uhm, to drop off, uh, and to sign off, then, then, uhm, that's okay. But I might suggest that we go for another 10, 10 or 15 minutes, just because we're kind of getting right into, right into the conversation.",209
+grok_ab41acd7d81a5716,grok,rex,neutral,en,h_emilia_7fecb92dcb68,conversational,,,"Actually, we've had Adam Gibson on the show before to explain TLS Notary, so. Yeaah.",84
+grok_08a7dbc26a588ac6,grok,sal,neutral,en,h_peoples_speech_462435a824be,procedural,,,joel samuel's moderator of the event and an attorney and former general counsel of the state executive office of elder affairs spoke about the friends of belmont coa and their role in the community,197
+grok_5966a2d00134acc3,grok,leo,neutral,en,h_emilia_68d27e749652,conversational,,,New queens are raised and the hive may swarm as soon as the queen cells are capped and before the new virgin queens emerge from their queen cells,145
+grok_4b01a6e75d61aff8,grok,eve,slow,en,h_common_voice_0a34e47ad5c6,read,0.8,,Captain Fairchild noted that there was no fresh water available on these islands.,81
+grok_927317a77641dc44,grok,ara,neutral,en,h_common_voice_db70acd211c4,read,,,He played three One Day Internationals but no Test matches for the West Indies.,79
+grok_cd1956b797c6cb3e,grok,rex,neutral,en,h_common_voice_7bf86d084bdb,read,,,"When the band realized their roadie's ability, he was offered the position of keyboardist.",90
+grok_23c0f11c364e2fe6,grok,sal,fast,en,h_emilia_e3dd9a1e6ce3,conversational,1.3,,"But if you recog- if I'm saying these words and you're like, oh my GM does-",75
+grok_67f7a9f9fc6a8e3d,grok,leo,neutral,en,h_peoples_speech_ba5d917deeb1,procedural,,,and i do think if my memory's even in the ballpark we need to pass something,76
+grok_ffebaba9acc92aff,grok,eve,loud,en,cur_sho_008,shout,,,<loud>Hey! That's my bike! Somebody stop that guy!</loud>,57
+grok_23ffa047cba9458f,grok,ara,neutral,en,h_common_voice_67875590844c,read,,,"Today, ""Closer"" is widely recognised as a defining release of the post-punk era.",80
+grok_d4d47bb571e3b9ee,grok,rex,soft,en,cur_emo_028,emotional,,,<soft>Don't you walk away from me while I'm talking to you.</soft>,66
+grok_809e04a69d30ed9f,grok,sal,neutral,en,h_peoples_speech_da6f4f8bdf14,procedural,,,as you know that mayor proposed presented his proposed two thousand and thirteen budget yesterday and everybody has a package,125
+grok_e4c9b558948b4db0,grok,leo,neutral,en,h_peoples_speech_0b841a7e28bf,procedural,,,so apple still has another venue in which to pursue exactly the same claim,74
+grok_f8f5b606d531a3a1,grok,eve,whisper,en,h_common_voice_fde5e3adb4cc,read,,,"<whisper>Canada more than ever welcomed American investments during ""the stagflation"" that hurt both nations.</whisper>",119
+grok_f9452effa19e8765,grok,ara,neutral,en,cur_num_018,numbers,,,"Dosage is 200 milligrams twice daily for 10 days, with food, not exceeding 1.2 grams per day.",93
+grok_44c7cb7c1f6ebebe,grok,rex,neutral,en,h_voxpopuli_8698087ba2ef,formal,,,hungary is among them now of course in the spirit of democracy,62
+grok_ff12df0e2b30cbe1,grok,sal,slow,en,h_common_voice_699f672986f2,read,0.8,,"Because she is diabetic, a low-carbohydrate diet is recommended.",64
+grok_489da1ae76135545,grok,leo,neutral,en,h_voxpopuli_3d115f6ecbf9,formal,,,is convinced that further promotion of the idea of common purchasing of energy raw materials by member states is needed in the context of growing competition for resources and existing producer monopolies'.,206
+grok_1cbbfb86227b724a,grok,eve,neutral,en,h_emilia_4c6dc648c52e,conversational,,,"Uh, you know, the process started in 2007, 2006, uh, and then the first Constituent Assembly was elected in May 2008.",117
+grok_81f954401a919f2d,grok,ara,neutral,en,h_peoples_speech_6c0dee4c7d56,procedural,,,i just wanna say there is kind of a feeling in the community,60
+grok_da41d767b011ba92,grok,rex,neutral,en,h_common_voice_b4217548a150,read,,,The mixture will produce a chlorine solution of approximately five hundred milligrams per liter.,96
+grok_50b298fedb129d04,grok,sal,neutral,en,h_common_voice_09f11ac1b20c,read,,,There was also an increased focus on monastic institutions in Nyingma.,70
+grok_4d88e5275cee7508,grok,leo,neutral,en,h_common_voice_8b3af7c09523,read,,,"The realm of Molag Bal, Coldharbour, also appears in ""The Elder Scrolls Online"".",80
+grok_0551fd334727bc34,grok,eve,neutral,en,h_peoples_speech_580d5311b8f8,procedural,,,well i did not object to any of the exhibits that he submitted to the court,75
+grok_8ec69fd521e6f6d4,grok,ara,whisper,en,h_common_voice_d28eed95b2da,read,,,<whisper>Los Bucaneros disbanded not long after the title loss.</whisper>,73
+grok_b2a3dbf91311ac93,grok,rex,slow,en,h_common_voice_a4b79b5f3148,read,0.8,,He believed that the stark dichotomies of conceptualism were misleading.,72
+grok_17edd551143107d3,grok,sal,neutral,en,h_emilia_d8a9a4641e63,conversational,,,The success rate drops from in person to synchronous to asynchronous.,69
+grok_308bd93b47bd67ea,grok,leo,neutral,en,h_common_voice_ea6b48b00317,read,,,It's an ill wind that blows no-one some good.,45
+grok_e32ab7e3fb00d97f,grok,eve,neutral,en,h_common_voice_2f6f67627943,read,,,Dolly was the first clone produced from a cell taken from an adult mammal.,74
+grok_2f0e31d62f377ef5,grok,ara,neutral,en,h_common_voice_ceb5da2b7771,read,,,"Moonlight, darkness, dawn, sunrise, day.",40
+grok_e0109462a73c1849,grok,rex,neutral,en,h_voxpopuli_c7cc2b3f3036,formal,,,and he told at that time georgia today about stage tomorrow ukraine tomorrow sorry about it's after tomorrow at next step poland now we are one step,148
+grok_3d84d10404d46941,grok,sal,neutral,en,h_emilia_7b747c68f8da,conversational,,,"So for example here catch expr2 plus message, so the catch returns 0 for okay and then 1",88
+grok_fa85c9a7315d196e,grok,leo,whisper,en,h_common_voice_8d46d3ad261b,read,,,"<whisper>It grows along the borders of lakes, ponds and streams and in marshes.</whisper>",89
+grok_4633ee640a2f2d4c,grok,eve,fast,en,h_emilia_526a11446168,conversational,1.3,,Likewise the angel Moroni first lived in a pre-Columbian American civilization as the 5th century prophet warrior named Moroni,126
+grok_c5cae05469cdfb43,grok,ara,neutral,en,h_peoples_speech_77400db811a5,procedural,,,the total cost of a burial with the plot for a municipal cemetery is ten thousand to twelve thousand,100
+grok_e87ab6ac20173ff0,grok,rex,neutral,en,h_peoples_speech_b5dae021e6f3,procedural,,,in the last two weeks alone there were forty three reported cases,65
+grok_077d8b6664fe0af6,grok,sal,neutral,en,h_peoples_speech_6379970d93be,procedural,,,so for any rock that we look at on mars we might look at it do six or seven experiments based on a combination of the results that came from mars but also the results that came from earth,187
+grok_7ba3cbeca53931f5,grok,leo,neutral,en,h_peoples_speech_27f089d5f609,procedural,,,and then out of that comes whatever meyerjensen proves on a quantum meruit basis,80
+grok_29d945d8fea39713,grok,eve,slow,en,h_common_voice_66b1042f202e,read,0.8,,"The park, which is Virginia's most visited state park, is nestled in Virginia Beach.",84
+grok_93547f66dda384be,grok,ara,neutral,en,cur_twi_002,dense,,,"The sixth sick sheikh's sixth sheep is sick, said the Swiss wristwatch specialist.",82
+grok_eee15e0062baa664,grok,rex,neutral,en,h_voxpopuli_925bac4e5525,formal,,,efficiency is important but we also must spend to percentages.,62
+grok_d7be8305ee59274a,grok,sal,neutral,en,h_voxpopuli_2f3b3e41cce9,formal,,,that's why i think we need to be very constructive and careful in our criticism.,80
+grok_a9bc4e72af207524,grok,leo,neutral,en,h_peoples_speech_6f63ebb10117,procedural,,,there many aspects of the behavior of materials on mars that are different to earth,83
+grok_47882ed4062d421a,grok,eve,neutral,en,h_common_voice_4e14a4d2a171,read,,,On the contrary reaching the summit by mountain bike requires good skills.,74
+grok_93fb406af0889b63,grok,ara,neutral,en,h_common_voice_19c572ef30bd,read,,,Mangum started his collegiate career at Ole Miss before transferring to Southern Mississippi.,93
+grok_72e489b27db4c1ce,grok,rex,neutral,en,h_voxpopuli_d83b8b0aed48,formal,,,and i hope very much that they will successfully conclude all the negotiations and and can become part of the european union very soon thank you very much thanks and nick,170
+grok_dcbe9ee161333d71,grok,sal,neutral,en,h_peoples_speech_c5b5b817f6fe,procedural,,,they made statements such as no one would want to tear down our house which might be the case but it's not relevant to the appeal he said,137
+grok_cc8fb4f57e3be55f,grok,leo,neutral,en,h_common_voice_2e44297ab819,read,,,This airport is owned by the Commonwealth of Kentucky.,54
+grok_27023f8bbc42de03,grok,eve,whisper,en,h_common_voice_0a4eab32fece,read,,,<whisper>The enlightenment and passing of the Buddha also occurred during the Taurus full moon.</whisper>,105
+grok_23408407be3005e5,grok,ara,slow,en,h_common_voice_8882fda1bc41,read,0.8,,Port is a strong wine with a smoky taste.,41
+grok_7ba82c3aa6c07cb7,grok,rex,neutral,en,h_common_voice_db7636249726,read,,,"At each character position numbers precede letters and ""vowels are never used"".",79
+grok_addb68c7ec509540,grok,sal,neutral,en,h_common_voice_7fc7cd49a6a6,read,,,The Slavic immigrants came to Bohemia with excellent cigar-making skills.,73
+grok_abcacb9cb66ea339,grok,leo,neutral,en,h_voxpopuli_31439184da88,formal,,,what europe needs is a closer integration in intelligence and law enforcement.,78
+grok_4a6a98645aeb8c0b,grok,eve,neutral,en,h_emilia_3b8d8da8a413,conversational,,,"Baha'u'llah, the Bab, and backquote Abdul Baha wrote many prayers for general use, and some for specific occasions, including for unity, detachment, spiritual upliftment, and healing among others",195
+grok_7602827ad0d17e1b,grok,ara,neutral,en,h_emilia_afd41e36afbc,conversational,,,"So here we've looked at basically these, we correlated the data we generated for this protein across these four visits and we see that, you know, the protein is pretty, uh, the measurement is pretty stable over time.",216
+grok_ca8ed14615f50399,grok,rex,neutral,en,h_voxpopuli_19b95d84e90c,formal,,,we are concerned about the independence of the judiciary a key element of every democracy.,90
+grok_8a57c1a0e60a2026,grok,sal,neutral,en,h_emilia_c0fd46532aed,conversational,,,With this comes a question of what specific summary statistics do we need to visualize? We will explore that in the coming slides.,130
+grok_d351841b908eabaa,grok,leo,neutral,en,h_common_voice_802b968d46f5,read,,,"The individual institutions are structured similar to other universities, particularly Irish ones.",98
+grok_1fbb2510adacdb58,grok,eve,whisper,en,h_common_voice_aa913235e9b9,read,,,<whisper>The cringe levels were almost unbearable.</whisper>,60
+grok_4970fca8749e007f,grok,ara,slow,en,h_common_voice_f67ff64b4ebb,read,0.8,,It is also related to the theory of Lie groups and Lie algebras.,64
+grok_bfe9b62344543574,grok,rex,fast,en,h_emilia_b17e020dd04b,conversational,1.3,,"In contrast to all these ant species, and despite their enormous diversity of prey, doryless ants rarely consume termites.Ants are not the only invertebrates that perform raids",176
+grok_1e84cfc1831b90d0,grok,sal,neutral,en,h_emilia_28756542da2f,conversational,,,"On 28 March 2009, Thai Airways discontinued all domestic flights from Don Muang",79
+grok_e4dcdea67e1d6ade,grok,leo,neutral,en,h_common_voice_d60e8269f5ee,read,,,Their music makes use of thrash metal riffing and heavy hardcore stylised breakdowns.,85
+grok_fbbd39335a4ac2ee,grok,eve,neutral,en,h_common_voice_44996e539c53,read,,,Promise you'll never lie the way Snoopy did.,44
+grok_87f8a4472afb7e6b,grok,ara,neutral,en,h_common_voice_8fb7c52c2cd1,read,,,"The episode ""Father's Day"" depicts two younger versions of Jackie also played by Coduri.",88
+grok_7d79c9c82d94c980,grok,rex,neutral,en,h_emilia_16e40a7e3358,conversational,,,"Yes, you see that 9000C? Right, the Juki Corporation, still made in China. Still made in China, if you could see that tiny.",123
+grok_1786bfe96a616451,grok,sal,whisper,en,h_common_voice_c285f9848600,read,,,<whisper>The university draws students from across Sudan to study there.</whisper>,82
+grok_337c5a8e9fa93217,grok,leo,tags_native,en,cur_tag_011,grok_tags,,,"<pitch_high>And then the little mouse said, not me!</pitch_high> [pause] <pitch_low>But the old bear knew better.</pitch_low>",125
+grok_99560328bb0d25f2,grok,eve,slow,en,h_common_voice_31c3f70c93a2,read,0.8,,Francis was later fined by the club and the Football Association for his actions.,81
+grok_2792287e8622575b,grok,ara,neutral,en,h_common_voice_846ec9d69437,read,,,"When the directors find out, they fire Amelia.",46
+grok_451837105e540b45,grok,rex,neutral,en,cur_num_011,numbers,,,"Quarterly revenue grew 23.7 percent year over year, reaching 4.2 billion dollars.",81
+grok_b5448af2f7939546,grok,sal,neutral,en,h_emilia_07f3a5751e7c,conversational,,,"And so just as a community member, I've been really interested in trying to get more involved in how to continue.",113
+grok_01df7860f28c9471,grok,leo,fast,en,h_emilia_dc78ceb098b3,conversational,1.3,,The year 1724 in science and technology involved some significant events,72
+grok_a40059c4199ce9b8,grok,eve,neutral,en,h_emilia_1b40f83a54de,conversational,,,"Uhm, and it helps you, the coveredcalifornia.com marketplace has a shopping compare tool. You can kind of, you can plug in your income. And, uhm, if you're not eligible for Medi-Cal, it will kind of give you a sense of what option health care.",243
+grok_336fd49dfe337e43,grok,ara,neutral,en,h_common_voice_39754f9f8d3f,read,,,Warriors possess no additional abilities.,41
+grok_dcb7c43d07c393cd,grok,rex,neutral,en,h_peoples_speech_d2ade18d0ee6,procedural,,,and in the congress we have people who share your view or others who share your view that we should pass it,107
+grok_9db50ebd40c799b4,grok,sal,neutral,en,h_common_voice_2b16d3dc418a,read,,,The station is between Wan Chai and Tin Hau stations on the Island Line.,72
+grok_a542b4f71cb08f3d,grok,leo,whisper,en,h_common_voice_6ca01271b9ba,read,,,<whisper>It is religiously accredited by the Adventist Accrediting Association.</whisper>,89
+grok_cdce3b38b0498bdf,grok,eve,neutral,en,h_emilia_63230e3bd01d,conversational,,,"It was an incredible app that they did. It was beautiful, slick, well done. Uhm, and so they put it up and it went live in the App Store, went immediately to number one that year. Uhm, did an incredible job.",207
+grok_07f6ea6ea9dc858f,grok,ara,slow,en,h_common_voice_b2e33f1468b6,read,0.8,,This proof completed a programme initiated and largely developed by Alexander Grothendieck.,91
+grok_84933e65c6fe66f3,grok,rex,neutral,en,h_common_voice_ec54fa554417,read,,,"In exchange for freeing her, Kaguya promises to grant Kagura her eternal freedom.",81
+grok_a1bcb4b637d7dc29,grok,sal,neutral,en,h_emilia_51bb9c1c819c,conversational,,,"The program succeeded in eliminating malaria only in areas with, ""...high socioeconomic status, well-organized healthcare systems, and relatively less intensive or seasonal malaria transmission.""",195
+grok_f9bdbe5d3134cf88,grok,leo,neutral,en,h_common_voice_ab125abfee52,read,,,The internal walls are then removed thus forming a reservoir.,61
+grok_b189850f5583503c,grok,eve,fast,en,h_emilia_d0abff6ec19e,conversational,1.3,,"Once Claudio opens himself up to the, to the possibility, once he listens to Don John just even saying, come with me, I'll take you to.",135
+grok_2f2c5d2b0709bcb3,grok,ara,neutral,en,h_common_voice_0e99deb455e2,read,,,The British later intervened and demanded compensation from the United States for the occupation.,97
+grok_84a15397ba26ccc1,grok,rex,neutral,en,h_peoples_speech_75a383481c27,procedural,,,it's making people feel a little sicker she said she's seen more patients this year then at the same time last year,115
+grok_aa62500e944b0463,grok,sal,whisper,en,h_common_voice_b92ad87f6cee,read,,,<whisper>Butler tranquilizes Holly with a hypodermic dart gun.</whisper>,72
+grok_be1e59fe59939edc,grok,leo,slow,en,h_common_voice_1afc86c236a1,read,0.8,,Kathleen loves to dress up like a princess.,43
+grok_20d04a946675b4b9,grok,eve,neutral,en,h_emilia_d9993bfa8159,conversational,,,Literally like ask yourself. So zero in on it in your body and ask it. What do you need? And listen for the first answer that pops in your mind.,144
+grok_406be5afaf30dccb,grok,ara,loud,en,cur_sho_015,shout,,,<loud>Everybody freeze! Nobody touches the evidence until forensics arrives!</loud>,83
+grok_c543b3b00cd45f72,grok,rex,neutral,en,h_voxpopuli_2a6bd0d869b3,formal,,,the report states very clearly that the current concept for the determination of non preferential origin of goods should be maintained.,135
+grok_41b6452d2a1b0699,grok,sal,neutral,en,h_peoples_speech_58e9852fb200,procedural,,,yeah so tell us why you're interested in serving on the board,61
+grok_f193504b382d8beb,grok,leo,pitch_high,en,cur_que_009,question,,,<pitch_high>Turn it off and on again. Did that fix it? Sometimes that fixes it.</pitch_high>,92
+grok_28fa143850215e94,grok,eve,neutral,en,h_common_voice_564a0dafbf20,read,,,The chairman also has a seat in the university's Board of Governors.,68
+grok_9f1a4475b22df963,grok,ara,neutral,en,cur_lng_003,longform,,,"Alright team, quick recap of where we landed today. First, the migration to the new billing system slips two weeks; Dana's group found an edge case with annual subscriptions that refund mid-cycle, and we are not shipping until that's fixed. Second, customer support headcount: approved, two new hires starting next month, both remote. Third, the office move. I know everyone has opinions about the fourth floor. The lease isn't signed yet, so if you have genuine accessibility concerns, get them to me in writing by Friday. And finally, the holiday party is December twelfth. Yes, there will be a karaoke machine again. No, Kevin, you cannot do forty-five minutes of Bon Jovi.",676
+grok_ea8cf00ab93a6b3d,grok,rex,neutral,en,h_emilia_16ad01d06e39,conversational,,,"We saw that with BT3. Hopefully we'll see that in BT4. Yeaah, it is slightly on the lacking side. We could definitely see more characters with more unique abilities and...",171
+grok_570070c1e204f0b0,grok,sal,neutral,en,h_voxpopuli_e7048ed31fa6,formal,,,the external observers it might be even a paradox because we are claiming shortage of money shortage of payment and on the other hand we have a surplus but this is the complexity of,181
+grok_9cdd08277e37fe96,grok,leo,neutral,en,h_voxpopuli_b36098aa5bc6,formal,,,if bafin does not do its job germany will lose its reputation in the financial world and investors will lose confidence.,120
+grok_0e76ba57795df58a,grok,eve,neutral,en,h_common_voice_ac21a89c576f,read,,,He had four children and three grandchildren.,45
+grok_a4b98cf80577d6d5,grok,ara,loud,en,cur_sho_009,shout,,,"<loud>Three! Two! One! Happy New Year, everybody!</loud>",56
+grok_ce02962704221182,grok,rex,neutral,en,h_common_voice_9e1ec008e04e,read,,,"There are various teas which have additives or different processing than ""pure"" varieties.",90
+grok_f7e5a815952fcaea,grok,sal,neutral,en,cur_que_006,question,,,Who ate the last slice of pizza and put the empty box back in the fridge?,73
+grok_66154ed13f71dc5d,grok,leo,whisper,en,h_common_voice_c49d32c993d8,read,,,<whisper>You need to recognize what you don't know</whisper>,60
+grok_96ff3fad1b05e511,grok,eve,slow,en,h_common_voice_25cfe8cd8652,read,0.8,,"Bacon, pancakes and maple syrup is a hearty start to any day.",61
+grok_f13d77408cab8876,grok,ara,neutral,en,h_voxpopuli_dc9016e1ea29,formal,,,bless every drop of blood that has been spilled for jerusalem.,62
+grok_d3ae96f3e0be8c9c,grok,rex,neutral,en,h_common_voice_e95636b2e41b,read,,,"Tadpoles are eaten by fish, beetles, dragonfly larvae and birds.",64
+grok_cd57b1cfef373530,grok,sal,neutral,en,h_peoples_speech_aa68570109d1,procedural,,,but the discussion sir was that we recognize in this instance and in many other instances around the township the need of a business to advertise their business,160
+grok_397f98fa7aa7ed15,grok,leo,neutral,en,h_voxpopuli_662a4983ea89,formal,,,well you know the old saying that well god protected me from the friends because that's for the enemies i will take care of them myself good luck mr the prime,158
+grok_c82051543d42d790,grok,eve,neutral,en,h_peoples_speech_f2ac57921b2d,procedural,,,so if you get ones that are underripe in there i mean the main issue i think would be that the acid it would keep pushing the acid low because we're always fighting kind of borderline high acid levels so we want to do whatever we can to keep that under any kind of threshold,274
+grok_2eae36fe607c6dff,grok,ara,neutral,en,h_emilia_b731cd685e91,conversational,,,"Microphone, University of California, Berkeley, USATHE orbiter's mission was to take pictures from orbit, explore Mars atmosphere and relay information and images from the netlanders",182
+grok_aa2c0b701c5bef87,grok,rex,neutral,en,h_voxpopuli_d70e633b2778,formal,,,i believe his remarks were explicitly racist and xenophobic and promoted racial intolerance in a way that is not acceptable or allowed in the constitution of this house.,169
+grok_22bdc36c77533a46,grok,sal,neutral,en,h_voxpopuli_e1989a95a602,formal,,,we must be able to convince others to be as ambitious as we are.,64
+grok_ec2c257e19765100,grok,leo,fast,en,h_emilia_709b1a069614,conversational,1.3,,"Is that true in your budget? Are you eliminating the conscience and freedom, uh, or religious freedom division?",111
+grok_dea86c1a7d66ecb2,grok,eve,neutral,en,h_emilia_39cf1462aa66,conversational,,,"Uh, and, uh, again, you have all of Scott's contact information and that coupon code in the chat if you want to try Bookmap out.",128
+grok_eb420ae32b8f09f2,grok,ara,neutral,en,h_peoples_speech_0c129c24d290,procedural,,,we have right now an opportunity with the state they're going to give us an eighty million state grant to build this school,123
+grok_0112e58d566fd3f0,grok,rex,neutral,en,h_common_voice_6131b2d609f8,read,,,A handful of people are waiting for the subway.,47
+grok_7d56f7879df07f35,grok,sal,neutral,en,h_peoples_speech_4f28e2077a9c,procedural,,,we have a bank that has such input into the overall town's success is a tribute to you mahoney said that the mission statement written when his journey started with the belmont savings bank in two thousand and ten was to be the most admired bank in the region,259
+grok_dab6b9a07dfa1b95,grok,leo,neutral,en,h_voxpopuli_cc9271107b9d,formal,,,today europe is free and reunited and i want to thank this house and each and every one who dared to speak out at that time for truth and freedom.,146
+grok_aed5d99aa06c6dea,grok,eve,neutral,en,h_emilia_a5027f83c22e,conversational,,,"It's saying, God, I'm so glad you came down on Mount Sinai and made known your Sabbath.",87
+grok_6dfc774096e66d58,grok,ara,neutral,en,h_emilia_f45a8c6b17bd,conversational,,,"The crucial taboo against the killing of women and children was breached not only in Bialystok, but also in Gargsdai in late June",129
+grok_2e217c9fe4030e5f,grok,rex,neutral,en,h_common_voice_44956c90cf84,read,,,"The series was well-received, and it is considered the forerunner of creator-driven cartoons.",93
+grok_ff807b9b4aa04d5f,grok,sal,neutral,en,h_peoples_speech_4829597daa40,procedural,,,for what purpose does the gentlemen from missouri rise without objection gentleman's recognized,95
+grok_d1a2ff1cbc02310c,grok,leo,neutral,en,h_peoples_speech_5e70f3891da3,procedural,,,madam speaker last week despite the best efforts of the democratic majority and about forty four republicans we were unable to override the president's veto of a health insurance for the children of poor and working families,224
+grok_52423f3aa1d6f586,grok,eve,fast,en,h_emilia_cc3fba0a72ec,conversational,1.3,,"And I think to avoid that such a project get easily shut down, you need to build it really censorship resistant. And to get censorship resistant, you need decentralization.",172
+grok_400f355479035b96,grok,ara,neutral,en,h_voxpopuli_004790c5bc9b,formal,,,we need to delete the words in full' twice in this text to avoid misunderstanding as there may be a minor technical correction of the figures.,142
+grok_172667874da4627a,grok,rex,neutral,en,h_voxpopuli_4be8e0498f58,formal,,,this update will make it easier for law enforcement authorities to track funds transferred by criminals and terrorists.,119
+grok_240512ea9b29afa5,grok,sal,tags_native,en,cur_tag_002,grok_tags,,,"[laugh] Stop it, stop it, you're going to make me drop the cake! [laugh] Okay okay, hold still.",95
+grok_0c71138e4cb380f9,grok,leo,neutral,en,h_voxpopuli_f5dcb04c0b5f,formal,,,i was here just less than five weeks ago on seventeen september and in this short period of time the number of cases has almost doubled.,136
+grok_1605e65eb290a917,grok,eve,whisper,en,h_common_voice_33c1ebab2d30,read,,,<whisper>The relationship between Janet and Arthur results in her becoming pregnant.</whisper>,94
+grok_3387493749047736,grok,ara,slow,en,h_common_voice_3a9a37732e84,read,0.8,,The economy is primarily based on coconut husking and farming.,62
+grok_3bc3eb88305cf806,grok,rex,neutral,en,h_common_voice_1385a9dd7d66,read,,,Hold your nose to keep the smell from disabling your motor functions.,69
+grok_2659ac0cfab51a34,grok,sal,neutral,en,h_emilia_0254b03323e7,conversational,,,"Sure, and then uhm, that's Jagat? Yes. Go right ahead, Jagat.",61
+grok_3f0349e5ce822cee,grok,leo,fast,en,cur_dis_004,disfluent,1.3,,"It was, uh, Tuesday? No wait, Wednesday, because that's when the, um, the inspection happened.",94
+grok_4d9475c9a6c34c45,grok,eve,neutral,en,h_peoples_speech_48e091449546,procedural,,,the belmont center business association honored mahoney at his final meeting with him as the bank president on march 19th,121
+grok_e117ebfc840d113c,grok,ara,neutral,en,h_common_voice_8f2becb605ad,read,,,The result was to give an effect of slow motion.,48
+grok_745a86fb2e345af4,grok,rex,neutral,en,h_emilia_f4594ebdf554,conversational,,,"The 23rd of June, single-celled yeast has been observed to evolve into a multicellular organism, complete with division of labor between cells",142
+grok_2f8ddf7559bfd54f,grok,sal,neutral,en,h_common_voice_76d70b0d7f14,read,,,It is the most valuable stamp in the world.,43
+grok_1350ef9929ad8e2e,grok,leo,whisper,en,h_common_voice_5c329fe6adfd,read,,,"<whisper>Beginning with that article, ""romanticized stories"" about Bowie began appearing in national press.</whisper>",117
+grok_cf229d4ede8519c2,grok,eve,neutral,en,h_emilia_da058af81313,conversational,,,"Uh, Matt, your leader at Red Hat, now part of IBM, continues to operate, uh, in the Red Hat spirit, uh, innovating out in the open, people are wearing their Red Hat, uh,",169
+grok_caa8f30d8cfaf8df,grok,ara,slow,en,h_common_voice_7bd1c8e16e19,read,0.8,,What were you when you came here five years ago?,48
+grok_9f4cfe49a518a2b9,grok,rex,neutral,en,h_common_voice_87f80ebab9b6,read,,,The Europa League champion also will automatically qualify for the group stage.,79
+grok_6e58b80bd729a3d8,grok,sal,neutral,en,h_common_voice_78d604228ca1,read,,,The postwar years found him back in his hometown of Munich.,59
+grok_65cde39b22a74c02,grok,leo,neutral,en,h_common_voice_458ba382f1c1,read,,,"Look, you really need to sort yourself out.",43
+grok_ae404a3bb33a5726,grok,eve,neutral,en,h_peoples_speech_c6182b62ab56,procedural,,,nearly five hundred people ages two to seventy registered for the third annual becca pizzi 5k road race on april 29th despite the wet weather,141
+grok_935a9c2a39ebc477,grok,ara,neutral,en,h_voxpopuli_dd5c6d4d2fe5,formal,,,russia has always been a very proud nation with a rich culture with inventions and esprit;,90
+grok_899002589e25e334,grok,rex,whisper,en,h_common_voice_cc93faf049ca,read,,,<whisper>Polperro is also believed to be the site of major Saint Peter's Eve celebrations.</whisper>,100
+grok_2be1437c9e1f6d66,grok,sal,slow,en,h_common_voice_8135f691b55f,read,0.8,,The tenant always paid his rent on time.,40
+grok_3161bcd0d884572b,grok,leo,neutral,en,h_common_voice_bb8c6ffde534,read,,,"On the Inman street side and ""looking toward Boston road"" are mentioned.",72
+grok_6e56539ea09f1678,grok,eve,neutral,en,h_peoples_speech_d3507722bcf3,procedural,,,i asked i have on my right dana leavitt who's the assistant director of the senior center and to her right is social work intern named deborah sarah,148
+grok_ac1631eeb5a3e6a5,grok,ara,neutral,en,h_common_voice_b3dc51eb45be,read,,,The Portuguese governor building and current administrative buildings is located here.,86
+grok_5fdec730ef9bf8e3,grok,rex,neutral,en,h_peoples_speech_c0845b2f307e,procedural,,,now the way you phrased your examples you said that town that is out doesn't really have a stake in that particular decision,124
+grok_36706351ad50a944,grok,sal,fast,en,h_emilia_beb06595d648,conversational,1.3,,Wilson and Nguyen state that the students realize there is little or no direct link between the subjects they are doing and their perceived future in the labor market,166
+grok_e13cfec533dbd89c,grok,leo,neutral,en,h_peoples_speech_02b9f8547fb7,procedural,,,oh okay so an example of so yes i have mentioned that this teal box is the size of a home depot,95
+grok_846823432896857c,grok,eve,loud,en,cur_sho_010,shout,,,<loud>Timber! Everyone stand clear of the drop zone!</loud>,59
+grok_38b176a3e24d45d1,grok,ara,neutral,en,h_voxpopuli_2ef12c26072c,formal,,,therefore it's high time that you come forward with a proposal for review with an operational separation of the audit and non audit services under a direct eu supervision.,171
+grok_ec0e0c4ef43af1b4,grok,rex,neutral,en,h_emilia_a817bac32d82,conversational,,,"Um, and, you know, we contacted them, we, you know, we asked them, you know, can you give us your statements, your thoughts? And that went across the lines, not just Republicans, Democrats too. So we wanted.",207
+grok_c8ff707d2f5196d5,grok,sal,tags_native,en,cur_dis_001,disfluent,,,"So, um, I was thinking—well, actually, never mind, it's—okay no, hear me out.",77
+grok_f75456fc30ba7e42,grok,leo,neutral,en,h_emilia_1f3414c06a2f,conversational,,,It's so many people love it that I'm not willing to go that absolute to pull the competition from earlier and say it's just bad. What I will say to make it situational to your earlier comments is it's really bad online.,219
+grok_c596952407eb8a88,grok,eve,neutral,en,h_common_voice_c27f448fce61,read,,,The soul of the deceased will convert the water into rain.,58
+grok_5883750d7b97e3dd,grok,ara,whisper,en,h_common_voice_28b2483b027b,read,,,"<whisper>Currently, the stereotype of non-humorous people has been around for many decades.</whisper>",101
+grok_8e0481d0759b35b2,grok,rex,neutral,en,h_peoples_speech_cdcb12969a09,procedural,,,again wonderful partnership with the land bank with metroplex sir and ida for working in our neighborhoods,106
+grok_575e823d21f33721,grok,sal,slow,en,h_common_voice_6cd679da4ae9,read,0.8,,Its territory is now in western Croatia.,40
+grok_4195fccdb25ecb62,grok,leo,neutral,en,h_emilia_a1d42dc0f04e,conversational,,,"Simon van der Meer, Dutch Nobel physicist b. 1925",49
+grok_9ca1b3f34c7df203,grok,eve,neutral,en,h_voxpopuli_a3aeba2ddc3b,formal,,,romania has made very good efforts very good achievements and progress in the last years but now it seems to waiver and i would really encourage the romania,156
+grok_1f4f99cb3ac51644,grok,ara,fast,en,h_emilia_f1a6145b53fe,conversational,1.3,,"I mean, the source code itself is, is to some degree the memory of Linux, and people can always use that as a kind of blueprint. But there's more than that. There's also the, the...",181
+grok_098bc7e61247ba9c,grok,rex,neutral,en,h_common_voice_fa1e198c6d44,read,,,The county was formed from portions of Chippewa and Lincoln counties.,69
+grok_f17108b40a726474,grok,sal,neutral,en,h_emilia_ff879bd83631,conversational,,,That's your personal mission. Did you notice how my mission blended together my work and my personal?,101
+grok_c249fd52bbbb277e,grok,leo,loud,en,cur_emo_003,emotional,,,<loud>Please don't go. Not tonight. Not like this.</loud>,57
+grok_b19e1a45485c7474,grok,eve,neutral,en,h_peoples_speech_19cabb543ba4,procedural,,,the impact is that historic properties and archives of documents and objects are key to our community's identities,114
+grok_15cc0ba22d466c1f,grok,ara,neutral,en,h_emilia_260b3401669e,conversational,,,"Many public purpose requirements are quite often left undefined, vague and specific.",84
+grok_bf62219591c8c7f8,grok,rex,neutral,en,cur_que_002,question,,,What time does the pharmacy on Fifth Street close on Sundays?,61
+grok_d86de3a51ae34d69,grok,sal,neutral,en,h_common_voice_f8136a79a41b,read,,,It is situated to the north-west of the town centre.,52
+grok_35fbe9802772a693,grok,leo,neutral,en,h_common_voice_cdb24b864902,read,,,"Midnight, when the graves gape open and death ""strikes"".",56
+grok_0a1fee67687d7be8,grok,eve,whisper,en,h_common_voice_6c94f8f02fd4,read,,,"<whisper>Illudin is highly toxic, with little apparent therapeutic value in its natural form.</whisper>",103
+grok_b1c965c00593f529,grok,ara,neutral,en,h_emilia_1b307ad5e286,conversational,,,"So I was gonna say my solution to that is by having a GM who loves to kickstart campaigns and, and systems. So he has this huge shelf of campaign and system rules. So when we feel like one system just isn't working, we just switch.",231
+grok_ff10cbc9908d9039,grok,rex,neutral,en,h_voxpopuli_5072228360af,formal,,,that was also half a year that nothing happened people we need to be ashamed,76
+grok_c4bd0bbf829301a4,grok,sal,neutral,en,cur_emo_017,emotional,,,"If you touch my sister again, I swear you will regret it for the rest of your life.",83
+grok_f455a644efce73a8,grok,leo,slow,en,h_common_voice_ae4555d5ec63,read,0.8,,Surviving examples of this version are quite rare and are highly prized by collectors.,86
+grok_8d2b7d15426f9853,grok,eve,neutral,en,h_common_voice_56dd0cbef5b7,read,,,They planned to board a British liner there to complete their journey to London.,80
+grok_131f8a49d7b3bcc5,grok,ara,neutral,en,h_common_voice_2187220805ee,read,,,The conversation focuses on the priest and his relationship with the boy.,73
+grok_98a93e0bf4a499e4,grok,rex,neutral,en,h_common_voice_29ced3d77485,read,,,"Salmon is one of the most popular fish and very delicious, though usually not sustainable.",90
+grok_50601d7528ebfdfc,grok,sal,fast,en,cur_dis_009,disfluent,1.3,,Honestly it's—hmm. How do I put this. It's complicated. Really complicated.,75
+grok_7883d3bda2cd9fdb,grok,leo,neutral,en,h_peoples_speech_483b0a61e998,procedural,,,and by the time the second suit happened we had the declaration of greenspun basically saying everything is present in there but what enablement and sets that out and that is sap then doing,189
+grok_0bd1a44bd3e9160d,grok,eve,whisper,en,h_common_voice_d5ae46be6098,read,,,"<whisper>Plants are usually monoicous, and sexual reproduction is by antheridia and archegonia.</whisper>",105
+grok_5bac85878f522e07,grok,ara,fast,en,h_emilia_ee0baba26f0c,conversational,1.3,,"The president mocks and says this is unnecessary for us to do. State and local government fiscal soundness is very important to our economy. Not only that, we want to honor",172
+grok_4c894f73b06fcd15,grok,rex,neutral,en,h_peoples_speech_e002a4d73dc6,procedural,,,i would do it exactly the same way and that is because these panels are designed to address issues relative to our rulemaking that sets a standard or establishes a requirement on a business sector a small business entity,220
+grok_f88a63c43e68b1fe,grok,sal,neutral,en,h_voxpopuli_73ed402b137d,formal,,,in all such appointments the council will continue to fully respect the provisions of the treaty.,97
+grok_a8945041abdd3f04,grok,leo,neutral,en,h_emilia_ac913e486875,conversational,,,That is a very valuable part of education that a lot of people do not take into consideration. It's not just about the grades. It's not just about,146
+grok_c34d7b9b0ba8797a,grok,eve,slow,en,h_common_voice_198ef51cc020,read,0.8,,"In mathematics, Philo tackled the problem of doubling the cube.",63
+grok_43254fd8b1cc5bee,grok,ara,neutral,en,h_common_voice_b91555373400,read,,,He also came second in the club's Player of the Year vote.,58
+grok_14c12e926f08d3ee,grok,rex,neutral,en,h_emilia_caf3e1287da6,conversational,,,"It's certainly before you reach age 20, so it's at least a decade since she's talked to this woman, to any of these women.",122
+grok_6268c355f0f27c85,grok,sal,neutral,en,h_common_voice_c32309b98d5a,read,,,"As seen above, the strength of a base depends primarily on pH.",62
+grok_05f721af71fbc838,grok,leo,neutral,en,h_voxpopuli_77c68a833a41,formal,,,especially when we are talking about our neighbourhood in africa. this is really also about our security. without development in these regions we will also be in trouble.,170
+grok_a01915f9dc63d422,grok,eve,neutral,en,h_common_voice_b0912c8c2253,read,,,It marked the directorial debut of highly regarded cinematographer John Seale.,78
+grok_9c0ca6601a12b4ee,grok,ara,whisper,en,h_common_voice_81429f1e3417,read,,,"<whisper>I think there will be all sorts of consequences, Dalyell declared.</whisper>",85
+grok_a51f776a65f97e6f,grok,rex,slow,en,h_common_voice_d3a8054741ca,read,0.8,,All values of that type have the same combination of field types.,65
+grok_7d7240a282ea4e11,grok,sal,neutral,en,h_voxpopuli_bb9e6cce04bb,formal,,,nothing to do with it but we do respect international law and would mrs copper not agree,88
+grok_a084cd797239904e,grok,leo,neutral,en,h_peoples_speech_0b88942c85d2,procedural,,,could you add that we're also agreeing to pay six hundred and forty for services outstanding and additional six hundred and forty for services outstanding,154
+grok_1afdf29dcaa6b82a,grok,eve,neutral,en,h_peoples_speech_53ba72ef1d8c,procedural,,,what about the pto's response itself to those statements we're looking at judicial estoppel or prosection history estoppel,122
+grok_f249c3660de8889b,grok,ara,neutral,en,h_common_voice_b15a8cd7fa02,read,,,The bare skin around the eye can vary from yellow to purplish in colour.,72
+grok_330a5d3bfa27e2a1,grok,rex,neutral,en,h_common_voice_3be87975538a,read,,,The windmill helped to extract the juice from the sugarcane.,60
+grok_5f95bc09cd0b8f16,grok,sal,neutral,en,h_peoples_speech_92c322ce46f1,procedural,,,if someone wants to partially or completely demolish any of those properties a demolition permit must be filed which will be referred to the historic district commission for a public hearing,190
+grok_c01adbff3f77fe97,grok,leo,tags_native,en,cur_dis_006,disfluent,,,"Can you—sorry, can you just—just give me one second, my laptop is doing the thing again.",88
+grok_5dc35a952cb990de,grok,eve,neutral,en,h_peoples_speech_d5016f9ded74,procedural,,,they may one day pull a dry van trailer for instance where aerodynamic technologies would be appropriate and work,113
+grok_156abb910f019626,grok,ara,neutral,en,h_common_voice_4bfc1f6cfb4f,read,,,Support services such as hospitals were non-existent.,53
+grok_4ba1a10e51f09c89,grok,rex,neutral,en,h_voxpopuli_b2f10e7c17f0,formal,,,thank you president madam commissioner dear colleagues it is now time to take stock of the different choices and the specific progress made by the six countries we can no longer ignore the g,190
+grok_506bf3d3ab29e3ce,grok,sal,whisper,en,h_common_voice_d56856387584,read,,,<whisper>She also indicated she gradually stopped offering personal growth workshops.</whisper>,95
+grok_d061b2a32ee619af,grok,leo,slow,en,h_common_voice_c0835b37f7e7,read,0.8,,"She also edited an original science fiction anthology series, ""Stellar"".",72
+grok_8d7167fbda4925a9,grok,eve,neutral,en,h_common_voice_8fdacbf3a133,read,,,The Butler Building was then demolished to construct the Longworth House Office Building.,89
+grok_0ef3126cd7c30136,grok,ara,neutral,en,h_voxpopuli_b156feb9491b,formal,,,so i am asking you can we allow member states to suspend democracy? the taoiseach your irish counterpart told us here that not repression but dialogue is the only way out.,171
+grok_b19c1939c8e3197e,grok,rex,slow,en,cur_twi_007,dense,0.8,,Eleven benevolent elephants delivered twelve developmental anniversaries.,73
+grok_0c06a13bac26849f,grok,sal,neutral,en,h_peoples_speech_b2d5e904f88a,procedural,,,the public outreach approach taken by epa does not and cannot take the place of a panel,87
+grok_91e1e619cc9cb63e,grok,leo,neutral,en,cur_emo_014,emotional,,,Every single morning I wake up and for two seconds I forget what happened.,74
+grok_9e24570fb42b8edd,grok,eve,neutral,en,h_peoples_speech_d0767d349234,procedural,,,we should be working with them as you said that to find to ensure safe workplaces for our employees,99
+grok_943fac6da43e949f,grok,ara,neutral,en,h_common_voice_e29941192eda,read,,,"For students who want to graduate early, the university offers a three-year degree option.",90
+grok_08da448bb3114021,grok,rex,neutral,en,h_emilia_91416a343f30,conversational,,,"That you are producing this, uh, uh, clusters in the aluminium in that structure. If we go back to it, so for instance here, uhm, if we go back here, this, uhm,",160
+grok_4906442767907646,grok,sal,fast,en,h_emilia_2e6c491a5d47,conversational,1.3,,"And now there are also issues about looking at how best, eh, we can improve our systems to ensure that our staff have that kind of visibility to work at home. Now there is also the issue of with football and there is a ban",222
+grok_3016dc0f26741120,grok,leo,neutral,en,h_emilia_c658110a96fa,conversational,,,"Yeah, so if it was like, before render. I request an animation frame. Right.",76
+grok_ebffba2464438033,grok,eve,neutral,en,h_emilia_508b2e479996,conversational,,,"Malaria remains the primary public health challenge in many countries. In 2015, there were 214 million cases of malaria worldwide resulting in an estimated 438,000 deaths, 90% of which occurred in Africa.",204
+grok_cc3225a21e7abe5b,grok,ara,neutral,en,h_voxpopuli_af8d2b8db507,formal,,,europe has become one of the main global providers of security.,63
+grok_27266ff475f83673,grok,rex,neutral,en,h_peoples_speech_34389fa9fb63,procedural,,,we maintain many of the deltas all the trees on concord avenue were bought and purchased by the garden club,107
+grok_34e737b977961cfc,grok,sal,neutral,en,h_common_voice_a654b59901c1,read,,,"The series again ended on an overtime goal, this time from Mike Modano.",71
+grok_7817ec9cc67d6292,grok,leo,neutral,en,h_voxpopuli_702e3ccde19b,formal,,,we don't have one frame for data protection or data processing in twenty-eight member states we had a general directive what,124
+grok_8807be55a00e292a,grok,eve,neutral,en,h_voxpopuli_ff7c2686384a,formal,,,very inclusive program a very inclusive process we here indeed we we are in unison we want to boost economic growth we want to go towards a different sustainable social model we want to,185
+grok_7c07e1be623758e3,grok,ara,neutral,en,h_emilia_5a9356b1ee0a,conversational,,,Niels Bohr Institute N. Niels Bohr Institut at DK Dark Cosmology Center N Discovery Center N,92
+grok_93209936b7d7c50c,grok,rex,fast,en,h_emilia_221e185eb694,conversational,1.3,,"Nice goalie looking for somebody. Kicks out to midfield. Stopped by number 12. That's Devin Alves. It'll be uhm,",112
+grok_be2c016d373a8ed0,grok,sal,neutral,en,cur_num_007,numbers,,,"The recipe calls for 350 grams of flour, 2 teaspoons of baking soda, and 175 milliliters of milk.",97
+grok_060775e7fb748678,grok,leo,whisper,en,h_common_voice_b982f4e8522a,read,,,<whisper>A magnifying glass helps inspect an item that is small or highly detailed.</whisper>,93
+grok_8b0e7b94617bc21e,grok,eve,neutral,en,h_voxpopuli_66f1839ffbf6,formal,,,yet it is their ideology that leads them to ignore their own evidence.,70
+grok_fcc4e8f03c7bb30a,grok,ara,neutral,en,h_voxpopuli_cf0c01a8cc2e,formal,,,and a digital euro is the best answer to private initiatives such as libra. let's take a look at our global neighbours china japan or switzerland.,146
+grok_53d75fe00ec2f2c3,grok,rex,slow,en,h_common_voice_f5a7bef9a558,read,0.8,,They might offer it to you a bit cheaper.,41
+grok_74a7810f40f914da,grok,sal,pitch_high,en,cur_twi_005,dense,,,"<pitch_high>Brisk brave brigadiers brandished broad bright blades, blunderbusses, and bludgeons.</pitch_high>",109
+grok_cee89bf1ac12d146,grok,leo,neutral,en,h_common_voice_f2a2580801b5,read,,,"Everhard's adult film career began in Canada, performing for web sites.",71
+grok_2665d5a23236de54,grok,eve,neutral,en,h_emilia_16c5fcabe772,conversational,,,"Uhm, and just to set Menti up a couple of quick notes, it may be best to use a separate browser or device. Uhm, you could use your phone or your tablet.",152
+grok_fc2a9edfc0e69720,grok,ara,neutral,en,h_common_voice_0e665aed1a01,read,,,Wang Lun and his deputies eventually arrive on the scene and stop the fight.,76
+grok_23b578849e0d4f91,grok,rex,neutral,en,cur_que_007,question,,,"Could you pass me the smaller screwdriver? No, the other one. The Phillips.",75
+grok_870cde63e46395b2,grok,sal,neutral,en,h_common_voice_1da65050653b,read,,,"Many notable problem and study composers are also International Judges, including Genrikh Kasparyan.",100
+grok_a529fb6b3d4b30b6,grok,leo,whisper,en,h_common_voice_80e6623af295,read,,,"<whisper>At the end of the season, he played in the Florida Instructional League.</whisper>",91
+grok_d13b5111ba93b135,grok,eve,neutral,en,h_emilia_1fe19196e3b4,conversational,,,"Translations by Bhikkhu Bodhi of the Samyutta Nikaya and the Anguttara Nikaya were published by Wisdom Publications in 2003 and 2012, respectively",146
+grok_f17f3786210689ed,grok,ara,slow,en,h_common_voice_748828283b8a,read,0.8,,He even recommended the government offer homeowners insurance against nuclear-bomb damage.,90
+grok_1c1d69f5f39b2307,grok,rex,neutral,en,h_common_voice_595afa145276,read,,,Fedric was unable to find his lucky marble.,43
+grok_342cdd9b46f106d8,grok,sal,neutral,en,h_common_voice_8d17b1712da3,read,,,Its headquarters are in London and it is a registered charity under English law.,80
+grok_d4536479480e72fe,grok,leo,neutral,en,h_common_voice_4d85ecf95786,read,,,Goll killed his mother by mistake with a bone.,46
+grok_1c49cfa44d738028,grok,eve,whisper,en,h_common_voice_28075a30bf96,read,,,<whisper>Baud is related to gross bit rate expressed as bits per second.</whisper>,82
+grok_f39735f9fb4c2672,grok,ara,neutral,en,h_peoples_speech_bf14718534e2,procedural,,,john kolterman a precinct one resident and the former chairman of sustainable belmont also asked about energy efficiency and the goals for a net zero building,158
+grok_31b268168b93c2c7,grok,rex,tags_native,en,cur_tag_004,grok_tags,,,[yawn] What time is it? [pause] You're kidding. We've been driving for eleven hours?,84
+grok_463d26247c002e91,grok,sal,slow,en,h_common_voice_906f729e4ee7,read,0.8,,Build your list of improvements and track your progress.,56
+grok_2420c110434aa489,grok,leo,neutral,en,h_emilia_2be0d28d3a4b,conversational,,,"So from the very beginning, one of the major obstacles that as civil society we have to face and we have confronted and many colleagues have done an excellent job in that.",171
+grok_e2a5deb370509079,grok,eve,neutral,en,h_common_voice_343737080ba5,read,,,There is a great difference between optical and astronomical refraction.,72
+grok_dcc36d53550904ea,grok,ara,neutral,en,h_voxpopuli_962e56478d81,formal,,,it therefore threatens to give investors an extra reason not to buy europe's securities or transact with its institutions at a time when it can ill afford to drive away economic activity.,187
+grok_cabeefd9e44f14cf,grok,rex,neutral,en,h_common_voice_7ea68c47f10f,read,,,Sometimes this sand will accumulate to build shallow moats around the bottom.,77
+grok_8af055e5ca788475,grok,sal,fast,en,h_emilia_0e3b344806e0,conversational,1.3,,"Okay, this is uhm... You've heard of spatial awareness before, right?",69
+grok_429db30549d666a5,grok,leo,neutral,en,h_peoples_speech_947a40865902,procedural,,,we do it in many ways but absolutely essential is intelligence the fisa bill the foreign intelligence surveillance act would have been destroyed by the bill placed on the floor last week by the majority the socalled restore act,227
+grok_6a259348f29aa0b0,grok,eve,fast,en,cur_dis_002,disfluent,1.3,,"The thing is, like, we never actually—I mean, did anyone even read the contract?",80
+grok_50116f076b6800e4,grok,ara,neutral,en,h_common_voice_adda4bef0130,read,,,"It did, however, spawn a mild hit in ""Camera One,"".",51
+grok_5991e7bd0ec101f4,grok,rex,neutral,en,h_emilia_259cd977d2a4,conversational,,,And abide in your houses and do not display yourselves as' was' the display of the former times of ignorance. And establish prayer and give Zakah and obey Allah and His Messenger.,179
+grok_90dd966136be2442,grok,sal,whisper,en,h_common_voice_956fbca09122,read,,,<whisper>It was created specifically for Eddie Bauer.</whisper>,63
+grok_316dbf931057351a,grok,leo,slow,en,h_common_voice_8c7bb7a0c8ee,read,0.8,,"By the colonial era, bakeries were commonly viewed as places to gather and socialize.",85
+grok_925fbc077f17f8e1,grok,eve,neutral,en,h_voxpopuli_6aa3a361ffd7,formal,,,is the industry investors and therefore i'm quite happy that both,65
+grok_762a63e84aa80789,grok,ara,neutral,en,h_peoples_speech_d633906c6318,procedural,,,and tacking your client's possession and control of the property along with their predecessors it's more than sixty years it's in excess of sixty years,151
+grok_033a8d9cc5de54aa,grok,rex,neutral,en,h_common_voice_381273212be3,read,,,Many see this as a sign of growing reconciliation on the grass-roots level.,75
+grok_8417f8decb94de26,grok,sal,neutral,en,h_emilia_4b602cd45109,conversational,,,I still wanted to try out a haunted house here in Austin. There's actually two that I know of. I think there are probably more. This haunted house that we're going to is called House of Torment.,194
+grok_9ab0368e0163d8f7,grok,leo,neutral,en,h_emilia_218edd29d15b,conversational,,,And 21 million videos have been downloaded and distributed and watched.,71
+grok_b0f3f6a460068dbe,grok,eve,neutral,en,cur_num_004,numbers,,,"The meeting moved from March 3rd, 2026 to Tuesday, April 14th at 11:30 a.m.",75
+grok_436e78b4a3c26a39,grok,ara,neutral,en,h_common_voice_e302f4da5e25,read,,,Then it was that a strange thing happened.,42
+grok_d4035bdf2d232f13,grok,rex,fast,en,h_emilia_d6b0b3622775,conversational,1.3,,Recently chatted with contributing editor and consumer trends guru Elizabeth Sloan about how food service continues to evolve for a post-COVID world.,149
+grok_dbb26668606b64a6,grok,sal,neutral,en,h_emilia_d41a23a28f39,conversational,,,"These unique soldiers are able to spray noxious, sticky secretions containing ditapenis at their enemies",104
+grok_5d87ae6f9bb8362c,grok,leo,neutral,en,h_emilia_ccf580dc4adb,conversational,,,They were backed by a mechanized force consisting of a single M50 Super Sherman medium tank,91
+grok_f886e862ec588710,grok,eve,neutral,en,h_common_voice_5880c3e50c6b,read,,,"Her parents were Jewish immigrants, her father, Joseph, a German fur trader.",76
+grok_9e03bbe4f4f7d6ce,grok,ara,neutral,en,h_emilia_9b84260422f0,conversational,,,"Alright, Gamu's got a warlock at core. If anyone can assist Gamu, that would be nice. Thank you. Destroy this guy.",114
+grok_5536365aeb108aa7,grok,rex,whisper,en,h_common_voice_bbf3db29495b,read,,,"<whisper>Helpem Fren means ""help a friend"" in Solomon Islands Pidgin.</whisper>",79
+grok_ac96877f242337cc,grok,sal,slow,en,h_common_voice_be2ca60bd90f,read,0.8,,"Related to other species of Mediterranean firs, it is considered the ""Andalusian National Tree"".",96
+grok_68c196de91f52ef1,grok,leo,neutral,en,h_common_voice_10a59aeb65f5,read,,,She describes the documentary as her proudest moment away from music.,69
+grok_bc4cfca9a6357f36,grok,eve,neutral,en,cur_twi_003,dense,,,Peter Piper picked a peck of pickled peppers while properly preparing pungent paprika.,86
+grok_0b7d6d863db229ed,grok,ara,neutral,en,h_voxpopuli_fbcf52105437,formal,,,there is a need for a concerted response to maintain pressure on the perpetrators of these rapes and to bring them to justice at local level or in the international criminal court.,180
+grok_695b9d04790cdfe8,grok,rex,neutral,en,h_common_voice_cc2b644a72e7,read,,,Couldn't this have waited until morning?,40
+grok_2a952bdeaa50587d,grok,sal,neutral,en,h_peoples_speech_7da4b5363447,procedural,,,and i got to tell you it is the scope of overreach and over involvement that's killing all of us,96
+grok_fa16576212afd074,grok,leo,fast,en,h_emilia_fc6f301b6e46,conversational,1.3,,"And, uh, there's another thing we have to take into account. We don't want to cannibalize.",90
+grok_d2e263bb54e2e338,grok,eve,neutral,en,h_common_voice_1c0ac8074b29,read,,,"The life of that bungee jumper dangles on a string, in the truest sense of the word.",84
+grok_3f6e04a42e030bd1,grok,ara,neutral,en,h_voxpopuli_e9e18bfeb7a0,formal,,,but volunteers cannot and must not bear the burden of major global crises.,74
+grok_7b4f2900077d46f5,grok,rex,neutral,en,h_emilia_09d9554c7b0e,conversational,,,Sinkings of German U-boats at the hands of Allied forces during this time included,82
+grok_5dd22a77b3557f8a,grok,sal,whisper,en,h_common_voice_9c86d8f44ede,read,,,<whisper>It was a modern but compact Mallet of which only one was built.</whisper>,82
+grok_96b99ed3f92c5ba0,grok,leo,neutral,en,h_peoples_speech_1f63f3ded746,procedural,,,you know without all the towns choosing to participate but at the same token you're losing out on some of the things that really would work if all the schools were involved,172
+grok_3fa688b918df6416,grok,eve,slow,en,h_common_voice_107d6bcc7c82,read,0.8,,Several publications containing the text of the Samaritan Targum have appeared.,79
+grok_feb237db586e43bf,grok,ara,neutral,en,h_common_voice_933a0a04ba7c,read,,,Dodds has also produced many academic credentials and academic publications.,76
+grok_a3659e7a250babfd,grok,rex,neutral,en,h_common_voice_5a1e8383aea3,read,,,He is studying for his university degree at Athabasca University.,65
+grok_4fc4a13afab9e315,grok,sal,neutral,en,h_voxpopuli_d3142d4fff96,formal,,,the eu will not be able to finance their green dream if the financial world cannot rely on the bafin.,101
+grok_6d91ec321210c01b,grok,leo,neutral,en,h_common_voice_f3d5e9e8b372,read,,,"But there was a sixth day, the sun went on.",43

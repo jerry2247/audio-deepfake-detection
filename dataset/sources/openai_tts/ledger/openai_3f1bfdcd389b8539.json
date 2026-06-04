@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3f1bfdcd389b8539",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "angry",
+ "language": "en",
+ "text_id": "cur_emo_020",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with barely contained anger, tense and clipped.",
+ "text": "Look at the little guy! He's wagging his tail! Oh, he likes me!",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 266444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608229
+}

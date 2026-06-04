@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7f036d198b77b20a",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_7f14fcc1e4a4",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "There are auxiliary rooms on the ground floor.",
+ "est_chars": 46,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 163244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608314
+}

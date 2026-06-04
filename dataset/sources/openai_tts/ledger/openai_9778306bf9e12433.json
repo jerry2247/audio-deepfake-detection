@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9778306bf9e12433",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_cf0c01a8cc2e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "and a digital euro is the best answer to private initiatives such as libra. let's take a look at our global neighbours china japan or switzerland.",
+ "est_chars": 146,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 468044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

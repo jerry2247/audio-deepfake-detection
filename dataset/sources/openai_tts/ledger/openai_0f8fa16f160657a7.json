@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0f8fa16f160657a7",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_6178c168f564",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "The additional costs of those first carbon capture and disposal plants.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 206444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608250
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c0525dee9f0dcdd6",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_006",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "Your account ending in 7733 was charged $89.99 on February 28th.",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 343244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e117ebfc840d113c",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8f2becb605ad",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The result was to give an effect of slow motion.",
+ "est_chars": 48,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 131084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608453
+}

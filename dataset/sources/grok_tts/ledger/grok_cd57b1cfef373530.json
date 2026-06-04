@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cd57b1cfef373530",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_aa68570109d1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "but the discussion sir was that we recognize in this instance and in many other instances around the township the need of a business to advertise their business",
+ "est_chars": 160,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 442124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608438
+}

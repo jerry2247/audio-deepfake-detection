@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6b61f72f5005b10c",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_b3283529b221",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "so we give them all the instructions they need and meet them there if they want to",
+ "est_chars": 82,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 230444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

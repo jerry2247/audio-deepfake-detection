@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_509013ffd4cf125e",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_c8e1c5004da3",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the social use of seized criminal assets for youth support regeneration projects or even crime prevention could really help empower these communities.",
+ "est_chars": 150,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 376844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608241
+}

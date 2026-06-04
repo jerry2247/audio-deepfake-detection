@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_de868e9b95624daa",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_69d3ec96c521",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "We'll need to have specialized skill sets used to locate the kinds of information that cannot be located with a simple Google search, as I mentioned in the previous section. And we also need",
+ "est_chars": 190,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 612044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608202
+}

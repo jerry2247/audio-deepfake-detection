@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2a952bdeaa50587d",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_7da4b5363447",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and i got to tell you it is the scope of overreach and over involvement that's killing all of us",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 265484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608521
+}

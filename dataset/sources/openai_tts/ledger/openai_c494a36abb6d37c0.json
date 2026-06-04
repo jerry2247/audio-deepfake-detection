@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c494a36abb6d37c0",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_ea9f6de646d4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So let us look at the procedure, so before I go that in TCL pretty much like all the programming is developed as procedures.",
+ "est_chars": 124,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 362444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

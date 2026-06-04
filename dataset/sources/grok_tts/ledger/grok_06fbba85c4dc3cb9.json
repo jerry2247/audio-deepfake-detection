@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_06fbba85c4dc3cb9",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_52dbab03bce3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Wow, those do look awesome. Those look awesome.",
+ "est_chars": 47,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 157964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608305
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6d38429c85855362",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_7f80c7214d75",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Great, exactly. And one of the things I think of is you can preemptively",
+ "est_chars": 72,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 314444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608190
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_4604d16b413cef5e",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_abd6541103d8",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "It doesn't matter when I put this on. This foundation looks beautiful on my mature skin. It never settles into fine lines and wrinkles.",
+ "est_chars": 135,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 472844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608233
+}

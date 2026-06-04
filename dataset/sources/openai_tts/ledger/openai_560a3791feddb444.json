@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_560a3791feddb444",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_102bd07d066f",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "what that shows is that he looked at the evidence as to each count and determined whether defendant was guilty or not",
+ "est_chars": 117,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 386444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

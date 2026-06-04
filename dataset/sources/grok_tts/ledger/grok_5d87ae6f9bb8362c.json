@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5d87ae6f9bb8362c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_ccf580dc4adb",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "They were backed by a mechanized force consisting of a single M50 Super Sherman medium tank",
+ "est_chars": 91,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 284684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608517
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_dbeda8e8eafbeb01",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_294a06e69274",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Bilateral relations have traditionally been at the heart of development cooperation activities.",
+ "est_chars": 95,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 252044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608214
+}

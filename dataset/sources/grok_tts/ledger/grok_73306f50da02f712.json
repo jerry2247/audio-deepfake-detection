@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_73306f50da02f712",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_a986880f652a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i mean well that's not why would the state insist on injecting a potentially reversible error into a trial where they have all this evidence of twenty one incidences of telephone harassment texts conclusions",
+ "est_chars": 207,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 571724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

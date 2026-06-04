@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_098bc7e61247ba9c",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_fa1e198c6d44",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The county was formed from portions of Chippewa and Lincoln counties.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 186764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608468
+}

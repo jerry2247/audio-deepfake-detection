@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7f6f375b652981eb",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a0cebaaab2f5",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Quite a tough day, I must say. I hope you still have some energy to listen to mine and afterwards lecture.",
+ "est_chars": 106,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 302444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

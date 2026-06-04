@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5110894364550d39",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_0deba75f8add",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "it was a very important achievement and now is the time to move on with the implementation of the pillar principles.",
+ "est_chars": 116,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 301964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608342
+}

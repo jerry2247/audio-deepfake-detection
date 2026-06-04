@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fde90febd9e6d81a",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_02a6057e71a2",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "three homeowners have asked to have their homes removed from the list of historic buildings subject to the demolition delay bylaw subject to the demolition delay bylaw approved at last year's annual town meeting",
+ "est_chars": 211,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 470444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

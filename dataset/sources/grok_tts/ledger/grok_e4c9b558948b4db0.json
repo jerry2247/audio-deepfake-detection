@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e4c9b558948b4db0",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0b841a7e28bf",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so apple still has another venue in which to pursue exactly the same claim",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 230924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608394
+}

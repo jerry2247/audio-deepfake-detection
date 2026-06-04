@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0263a3eaa82a7e0f",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_e9d669a592f1",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "You know, what's intuitive is, you know, uh, uh, I work my way in, I do good, and I, you know, I earn my way in, because that's how it works in the world.",
+ "est_chars": 154,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 585644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608253
+}

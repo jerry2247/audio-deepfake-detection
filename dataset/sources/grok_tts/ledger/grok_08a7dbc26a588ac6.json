@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_08a7dbc26a588ac6",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_462435a824be",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "joel samuel's moderator of the event and an attorney and former general counsel of the state executive office of elder affairs spoke about the friends of belmont coa and their role in the community",
+ "est_chars": 197,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 527564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608390
+}

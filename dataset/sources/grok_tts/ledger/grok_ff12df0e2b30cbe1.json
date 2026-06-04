@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ff12df0e2b30cbe1",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_699f672986f2",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Because she is diabetic, a low-carbohydrate diet is recommended.",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 238844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608395
+}

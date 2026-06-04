@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f6270fa194f711ce",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3ba7f723b6a2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Currently, she is the voice director for \"Regular Show\".",
+ "est_chars": 56,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 182444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

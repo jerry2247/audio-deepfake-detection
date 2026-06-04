@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_af383b8818cffda2",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_8bd1a6decb20",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "if we do not act now we will not only fail in meeting our climate obligations we will also miss out in reaping the rewards of being leaders of green innovation.",
+ "est_chars": 160,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 446444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608232
+}

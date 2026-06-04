@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_206b913e84a1d4b0",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_002",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "The total comes to $1,247.83, which includes the 8.25 percent sales tax.",
+ "est_chars": 72,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 384524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608322
+}

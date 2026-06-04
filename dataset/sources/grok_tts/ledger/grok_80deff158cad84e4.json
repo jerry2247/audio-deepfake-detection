@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_80deff158cad84e4",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3a7f8d1ba9de",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Sleeping Bear Dunes National Lakeshore extends into the northwest portion of the county.",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 235724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

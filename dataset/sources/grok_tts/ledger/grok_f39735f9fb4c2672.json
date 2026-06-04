@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f39735f9fb4c2672",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_bf14718534e2",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "john kolterman a precinct one resident and the former chairman of sustainable belmont also asked about energy efficiency and the goals for a net zero building",
+ "est_chars": 158,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 445964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608507
+}

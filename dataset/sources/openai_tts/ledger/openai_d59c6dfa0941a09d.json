@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d59c6dfa0941a09d",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ba40e3aae44a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Formal rose gardens line the eastern and southern sides.",
+ "est_chars": 56,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 261644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

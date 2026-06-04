@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6c660def14f7facb",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_38615f1ec8b3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "he expected until the moment the judge ruled craig anticipated that we were still in opening statements",
+ "est_chars": 103,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 307724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

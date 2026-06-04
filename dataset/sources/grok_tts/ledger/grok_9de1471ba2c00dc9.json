@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9de1471ba2c00dc9",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_5dfd878a117c",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The series stars Christian Serratos as the titular character.",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 185804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608245
+}

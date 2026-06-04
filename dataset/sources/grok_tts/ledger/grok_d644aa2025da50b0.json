@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d644aa2025da50b0",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_aa25d791bf14",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Durga is an ancient deity of Hinduism, according to archaeological and textual evidence available",
+ "est_chars": 97,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 226014,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608381
+}

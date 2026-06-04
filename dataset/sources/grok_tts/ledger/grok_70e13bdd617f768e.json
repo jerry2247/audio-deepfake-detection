@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_70e13bdd617f768e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_020",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "Look at the little guy! He's wagging his tail! Oh, he likes me!",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 182924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608373
+}

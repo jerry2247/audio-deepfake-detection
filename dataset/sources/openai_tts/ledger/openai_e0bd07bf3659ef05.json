@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e0bd07bf3659ef05",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_769fc6cbad90",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "He graduated as one of the top students in his class.",
+ "est_chars": 53,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 240044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608223
+}

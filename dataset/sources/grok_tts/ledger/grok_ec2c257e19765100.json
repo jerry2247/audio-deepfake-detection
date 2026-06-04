@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ec2c257e19765100",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_709b1a069614",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Is that true in your budget? Are you eliminating the conscience and freedom, uh, or religious freedom division?",
+ "est_chars": 111,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 246690,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608441
+}

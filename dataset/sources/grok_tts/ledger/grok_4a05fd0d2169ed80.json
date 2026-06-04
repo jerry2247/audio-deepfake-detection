@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4a05fd0d2169ed80",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_66aab7cc89e1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "we exist to serve the needs of everyone who uses or works in municipal buildings including staff students residents and others what do you think are your greatest strengths which will benefit you in this role as a vocation and avocation i have built structures of many types in multiple states",
+ "est_chars": 293,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 769484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608232
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_79e0c67fef0127f7",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a3b75fece068",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "This device would destroy the Minuteman RV with a closing speed of about 20,000 feet per second at an altitude of more than 100 miles",
+ "est_chars": 133,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 421004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608292
+}

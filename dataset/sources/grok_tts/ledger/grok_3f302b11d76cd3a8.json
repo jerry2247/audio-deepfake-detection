@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3f302b11d76cd3a8",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "soft",
+ "language": "en",
+ "text_id": "cur_whi_002",
+ "register": "whisper",
+ "speed": "",
+ "instructions": "",
+ "text": "<soft>The surprise party is at seven. Whatever you do, don't tell Maria.</soft>",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 210764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608210
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1e1201a8238600f4",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_1b40f83a54de",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Uhm, and it helps you, the coveredcalifornia.com marketplace has a shopping compare tool. You can kind of, you can plug in your income. And, uhm, if you're not eligible for Medi-Cal, it will kind of give you a sense of what option health care.",
+ "est_chars": 243,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 727244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608254
+}

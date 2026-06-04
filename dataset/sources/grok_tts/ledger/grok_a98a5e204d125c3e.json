@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a98a5e204d125c3e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d11ac5352e33",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The people who enjoys majority support of the MPTCs, means if there are 50 MPTCs, anyone who gets a support of 26 MPTCs will be called as a chairman.",
+ "est_chars": 149,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 589964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

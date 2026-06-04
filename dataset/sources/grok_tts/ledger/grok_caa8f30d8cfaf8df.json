@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_caa8f30d8cfaf8df",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_7bd1c8e16e19",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "What were you when you came here five years ago?",
+ "est_chars": 48,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 152444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608455
+}

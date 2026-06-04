@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_2f1f6a596c43590a",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_db70acd211c4",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "He played three One Day Internationals but no Test matches for the West Indies.",
+ "est_chars": 79,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 348044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

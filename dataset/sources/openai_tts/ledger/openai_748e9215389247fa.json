@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_748e9215389247fa",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_18b614604c89",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "She decided to study Accounting at a university in Portugal.",
+ "est_chars": 60,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 216044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608244
+}

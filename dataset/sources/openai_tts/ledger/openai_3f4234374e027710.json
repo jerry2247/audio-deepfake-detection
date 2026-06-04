@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3f4234374e027710",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_951a466d4606",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "so students can stay after school and participate in drama or theater or sports or whatever",
+ "est_chars": 91,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 352844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

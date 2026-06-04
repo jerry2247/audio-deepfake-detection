@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7ba82c3aa6c07cb7",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_db7636249726",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "At each character position numbers precede letters and \"vowels are never used\".",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 221324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608409
+}

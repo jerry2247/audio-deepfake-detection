@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b02a0ad76e9a73dd",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "cur_dis_002",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The thing is, like, we never actually—I mean, did anyone even read the contract?",
+ "est_chars": 80,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 336044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608183
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_05145f8d9bc9a542",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "singing",
+ "language": "en",
+ "text_id": "cur_sng_003",
+ "register": "singing",
+ "speed": "",
+ "instructions": "",
+ "text": "<singing>Oh my darling, oh my darling, oh my darling Clementine.</singing>",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 229004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608224
+}

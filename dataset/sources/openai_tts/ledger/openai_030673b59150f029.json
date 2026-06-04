@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_030673b59150f029",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_c903368f8843",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "they'd have to decide on what the configuration of the board was like",
+ "est_chars": 69,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 196844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608201
+}

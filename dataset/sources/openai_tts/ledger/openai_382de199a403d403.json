@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_382de199a403d403",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_dd5c6d4d2fe5",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "russia has always been a very proud nation with a rich culture with inventions and esprit;",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 316844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608195
+}

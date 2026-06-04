@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_330a5d3bfa27e2a1",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3be87975538a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The windmill helped to extract the juice from the sugarcane.",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 153164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608483
+}

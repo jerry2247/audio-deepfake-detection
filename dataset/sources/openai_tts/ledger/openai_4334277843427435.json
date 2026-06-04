@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_4334277843427435",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_1e3d6cf9c1e0",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The proposal came under criticism of European Federation of Journalists, and Russian government.",
+ "est_chars": 96,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608250
+}

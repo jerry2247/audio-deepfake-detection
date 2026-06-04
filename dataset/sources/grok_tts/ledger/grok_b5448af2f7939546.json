@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b5448af2f7939546",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_07f3a5751e7c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And so just as a community member, I've been really interested in trying to get more involved in how to continue.",
+ "est_chars": 113,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 288524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608420
+}

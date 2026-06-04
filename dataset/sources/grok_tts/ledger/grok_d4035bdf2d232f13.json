@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d4035bdf2d232f13",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_d6b0b3622775",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Recently chatted with contributing editor and consumer trends guru Elizabeth Sloan about how food service continues to evolve for a post-COVID world.",
+ "est_chars": 149,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 315368,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608517
+}

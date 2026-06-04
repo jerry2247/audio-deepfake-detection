@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b2424ca70134139a",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_011",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "You had one job. One. And now the whole project is ruined.",
+ "est_chars": 58,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 222284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608231
+}

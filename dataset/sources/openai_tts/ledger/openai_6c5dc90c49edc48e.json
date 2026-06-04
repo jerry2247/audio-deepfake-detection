@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6c5dc90c49edc48e",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_edbe1e8f6277",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Then you get enlightened and like focus to you, to you, practice to you.",
+ "est_chars": 72,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 283244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608184
+}

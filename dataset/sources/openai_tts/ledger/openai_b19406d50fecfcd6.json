@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b19406d50fecfcd6",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_dc78ceb098b3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The year 1724 in science and technology involved some significant events",
+ "est_chars": 72,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 386444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608247
+}

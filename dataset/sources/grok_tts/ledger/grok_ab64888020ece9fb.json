@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ab64888020ece9fb",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_eac26660db9d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "I don't know what's going on with school anymore. Uhm, so much is going on. So just really acknowledging.",
+ "est_chars": 105,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 288524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4f9da7df7d1fc982",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0416d2ca3fb1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Alexander was married to James Frost Alexander.",
+ "est_chars": 47,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 145484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

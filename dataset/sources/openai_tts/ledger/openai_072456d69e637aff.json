@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_072456d69e637aff",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2222dff6ac12",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "His brothers, Thomas and John, would run the family business.",
+ "est_chars": 61,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 288044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

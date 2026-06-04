@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cc8fb4f57e3be55f",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2e44297ab819",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "This airport is owned by the Commonwealth of Kentucky.",
+ "est_chars": 54,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 162764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608408
+}

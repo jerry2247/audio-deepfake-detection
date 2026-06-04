@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_90ff7481863ff584",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_774711c5f29e",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "His speech ended with a standing ovation.",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 175244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607241
+}

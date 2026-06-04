@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1b779e0d43ccc451",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_aef3030848dd",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "He certainly doesn't care at all about you. Hasn't come to see you since you've declared your passing away. All he does is sit in the corner, doesn't even pay any attention to anything.",
+ "est_chars": 185,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 520844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608194
+}

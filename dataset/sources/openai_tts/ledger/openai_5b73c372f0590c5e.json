@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5b73c372f0590c5e",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "cur_num_001",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "Your confirmation number is 4 7 Q 9 2 X, and your flight departs at 6:45 a.m. from gate B12.",
+ "est_chars": 92,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 472844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608207
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_240512ea9b29afa5",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_002",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "[laugh] Stop it, stop it, you're going to make me drop the cake! [laugh] Okay okay, hold still.",
+ "est_chars": 95,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 333644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608450
+}

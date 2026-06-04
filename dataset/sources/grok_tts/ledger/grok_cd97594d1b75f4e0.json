@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cd97594d1b75f4e0",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "cur_que_001",
+ "register": "question",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Did you remember to lock the back door before we left this morning?",
+ "est_chars": 67,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 108598,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608355
+}

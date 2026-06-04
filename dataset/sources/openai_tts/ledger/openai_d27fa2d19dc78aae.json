@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d27fa2d19dc78aae",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_ea3e2a4a5da7",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "solidarity and volunteering are values that i as a social democrat and human being strongly support. i honestly thank and extend my gratitude to everyone who selflessly helps fellow people and the communities.",
+ "est_chars": 209,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 648044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608249
+}

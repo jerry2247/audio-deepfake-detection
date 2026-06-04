@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a9ba631f1ccfa565",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_a9a2d4abfc5e",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "maybe he would have ended up with the same numbers but it it should have been done that way is what you're and evidence should have been presented and it's their burden of proof on that issue",
+ "est_chars": 191,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 467084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

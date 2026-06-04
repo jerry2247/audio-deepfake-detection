@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_884d87f7477fd4a7",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b12dd81cd595",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The more you read, the better you will be understood.",
+ "est_chars": 53,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 158924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608350
+}

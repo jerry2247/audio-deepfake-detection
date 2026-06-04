@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b02b953ff71d7bd9",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_574e758bf625",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "When the first wave of U-boats returned to port through the early part of February, Donitz wrote that each commander,",
+ "est_chars": 117,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 321644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608188
+}

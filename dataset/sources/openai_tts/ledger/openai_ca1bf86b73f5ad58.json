@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_ca1bf86b73f5ad58",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_ce0f3d2fdb50",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Seth continues to deteriorate, losing body parts and becoming less human in appearance.",
+ "est_chars": 87,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 340844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608221
+}

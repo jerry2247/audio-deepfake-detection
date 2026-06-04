@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_98cfbabd54b2d3c5",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_2a9045b64384",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "One week later she was released after successfully appealing her arrest.",
+ "est_chars": 72,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 338444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608184
+}

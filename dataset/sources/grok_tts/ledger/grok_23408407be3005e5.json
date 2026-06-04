@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_23408407be3005e5",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_8882fda1bc41",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Port is a strong wine with a smoky taste.",
+ "est_chars": 41,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 187244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608409
+}

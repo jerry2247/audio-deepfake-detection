@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cd6e56d23d6fae45",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_48e9bd2f6e78",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I would if I thought I'd hear anything worth listening to.",
+ "est_chars": 58,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 225644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

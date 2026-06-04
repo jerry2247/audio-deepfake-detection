@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_34e737b977961cfc",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_a654b59901c1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The series again ended on an overtime goal, this time from Mike Modano.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 250124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608494
+}

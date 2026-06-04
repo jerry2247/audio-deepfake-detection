@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_23afbdbe7240d263",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_11f14be83a45",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Who is the blonde girl with the red skirt?</whisper>",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 102284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608348
+}

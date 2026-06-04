@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_22bdc36c77533a46",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_e1989a95a602",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we must be able to convince others to be as ambitious as we are.",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 167564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608440
+}

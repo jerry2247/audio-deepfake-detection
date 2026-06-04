@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a0a6517f017b2a8e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f2855ea124cc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Volkswagen vehicles built off different platforms have carried the Polo name plate.",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608355
+}

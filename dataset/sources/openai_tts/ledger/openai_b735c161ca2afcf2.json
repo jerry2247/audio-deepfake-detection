@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b735c161ca2afcf2",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_76a593fe40d6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "i just feel like it's up to us to work as hard as we can possibly work to make sure this happens as fast as it can possibly happen",
+ "est_chars": 130,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 400844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608228
+}

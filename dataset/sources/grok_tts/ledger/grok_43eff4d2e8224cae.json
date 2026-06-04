@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_43eff4d2e8224cae",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6c009eb25831",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "this modernday form of slavery is on the rise and the eu has given the perpetrators a helping hand by not allowing member states to control their own borders and check criminal backgrounds the eu is enabling this crime to escalate.",
+ "est_chars": 231,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 611084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

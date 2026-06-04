@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_27023f8bbc42de03",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_0a4eab32fece",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The enlightenment and passing of the Buddha also occurred during the Taurus full moon.</whisper>",
+ "est_chars": 105,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608409
+}

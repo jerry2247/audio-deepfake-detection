@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a9db01fcb18e27ed",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_005",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Cut! That was perfect! Everybody take five, we got the shot!",
+ "est_chars": 60,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 259244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608230
+}

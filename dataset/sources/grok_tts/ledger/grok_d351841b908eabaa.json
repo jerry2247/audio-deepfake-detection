@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d351841b908eabaa",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_802b968d46f5",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The individual institutions are structured similar to other universities, particularly Irish ones.",
+ "est_chars": 98,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 291404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608412
+}

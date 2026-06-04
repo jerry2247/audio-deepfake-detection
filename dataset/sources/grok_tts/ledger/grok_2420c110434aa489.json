@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2420c110434aa489",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_2be0d28d3a4b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "So from the very beginning, one of the major obstacles that as civil society we have to face and we have confronted and many colleagues have done an excellent job in that.",
+ "est_chars": 171,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 445964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608508
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_060775e7fb748678",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_b982f4e8522a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>A magnifying glass helps inspect an item that is small or highly detailed.</whisper>",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 252044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608498
+}

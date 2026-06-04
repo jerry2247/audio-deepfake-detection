@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_79a78d139a3bf5dc",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d1f2c59b3aa7",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "when we look at the labour market one third of jobs will be deeply influenced by this transformation;",
+ "est_chars": 101,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 253964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

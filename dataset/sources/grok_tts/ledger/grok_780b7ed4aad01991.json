@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_780b7ed4aad01991",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_twi_001",
+ "register": "dense",
+ "speed": "",
+ "instructions": "",
+ "text": "She sells seashells by the seashore, but the shells she sells are surely seashells.",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 226124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608347
+}

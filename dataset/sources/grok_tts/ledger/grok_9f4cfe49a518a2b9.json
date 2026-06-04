@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9f4cfe49a518a2b9",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_87f80ebab9b6",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Europa League champion also will automatically qualify for the group stage.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 217484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608456
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bb1886d2bc1b37cb",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_e2f0de8bd048",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "we all know oman as a successful stable country a role model for the whole region.",
+ "est_chars": 82,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

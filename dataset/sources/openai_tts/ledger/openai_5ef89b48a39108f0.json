@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5ef89b48a39108f0",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_9e55bdc846e1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Rosa is placed in solitary confinement at Bellevue Mental Hospital.",
+ "est_chars": 67,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 252044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608257
+}

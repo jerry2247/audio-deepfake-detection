@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6e58b80bd729a3d8",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_78d604228ca1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The postwar years found him back in his hometown of Munich.",
+ "est_chars": 59,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 154124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608456
+}

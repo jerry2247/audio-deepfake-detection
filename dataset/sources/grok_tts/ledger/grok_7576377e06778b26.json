@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7576377e06778b26",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a870cabcdef9",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Vasco da Gama's achievement completed the exploratory efforts inaugurated by Henry the Navigator, and opened an oceanic route for the profitable spice trade into Europe that bypassed the Middle East",
+ "est_chars": 198,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 583244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608312
+}

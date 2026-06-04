@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f193504b382d8beb",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "pitch_high",
+ "language": "en",
+ "text_id": "cur_que_009",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "<pitch_high>Turn it off and on again. Did that fix it? Sometimes that fixes it.</pitch_high>",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 193484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608429
+}

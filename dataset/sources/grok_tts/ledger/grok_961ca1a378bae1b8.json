@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_961ca1a378bae1b8",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5681cea8f724",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "then we as a parliament could take our responsibility and quickly vote through these measures because they will need to take effect on one january.",
+ "est_chars": 147,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 374924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608304
+}

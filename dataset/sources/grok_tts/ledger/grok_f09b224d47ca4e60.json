@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f09b224d47ca4e60",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_3dabb4a2ee5a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "looks like you're having some signups some raffles some frisbees",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 150284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608329
+}

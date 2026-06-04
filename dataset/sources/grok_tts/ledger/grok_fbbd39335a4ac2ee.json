@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fbbd39335a4ac2ee",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_44996e539c53",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Promise you'll never lie the way Snoopy did.",
+ "est_chars": 44,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 119564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608415
+}

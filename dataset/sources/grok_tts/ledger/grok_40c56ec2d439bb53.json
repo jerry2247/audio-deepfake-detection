@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_40c56ec2d439bb53",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_005",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "He said, [um] he said the package would arrive Tuesday. [sigh] It is now Friday.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 277004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608252
+}

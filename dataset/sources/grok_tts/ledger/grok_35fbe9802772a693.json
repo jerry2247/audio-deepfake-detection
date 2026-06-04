@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_35fbe9802772a693",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_cdb24b864902",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Midnight, when the graves gape open and death \"strikes\".",
+ "est_chars": 56,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 207884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608470
+}

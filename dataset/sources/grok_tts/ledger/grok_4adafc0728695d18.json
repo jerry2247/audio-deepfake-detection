@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4adafc0728695d18",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1809034fc298",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The software was originally created by the Smallworld Company founded in Cambridge, England, in 1989 by Dick Newell and others",
+ "est_chars": 126,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 364364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

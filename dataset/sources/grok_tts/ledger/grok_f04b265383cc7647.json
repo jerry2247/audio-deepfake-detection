@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f04b265383cc7647",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_66ff32a70038",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the architect firm johnson roberts associates inc completed the study in may two thousand and seventeen",
+ "est_chars": 103,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 321164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608219
+}

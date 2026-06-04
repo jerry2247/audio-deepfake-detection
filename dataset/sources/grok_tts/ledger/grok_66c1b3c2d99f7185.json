@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_66c1b3c2d99f7185",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1d1c4dd4c9a0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "An uncredited Jim Hutton appears briefly as the principal of a competing school.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 229004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608382
+}

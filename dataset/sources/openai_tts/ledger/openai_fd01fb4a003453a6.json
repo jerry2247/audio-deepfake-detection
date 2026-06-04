@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fd01fb4a003453a6",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_ba5d917deeb1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "and i do think if my memory's even in the ballpark we need to pass something",
+ "est_chars": 76,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 266444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608219
+}

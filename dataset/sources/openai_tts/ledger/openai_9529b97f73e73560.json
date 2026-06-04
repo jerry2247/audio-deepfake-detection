@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9529b97f73e73560",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_0b29543ece63",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "and let's send a strong signal to the vietnamese government to improve the devastating human rights situation before we seal the deal we signed the deal not after we signed the deal not after thank you",
+ "est_chars": 201,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 573644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608255
+}

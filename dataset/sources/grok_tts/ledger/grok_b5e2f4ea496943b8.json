@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b5e2f4ea496943b8",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d6a397353314",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "the transformation of institutions provided for by the dcfta will also create a more stable environment for moldovan businesses for moldovan citizens;",
+ "est_chars": 150,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 438284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608378
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_eee15e0062baa664",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_925bac4e5525",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "efficiency is important but we also must spend to percentages.",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 189644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608405
+}

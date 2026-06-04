@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ec0e0c4ef43af1b4",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a817bac32d82",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Um, and, you know, we contacted them, we, you know, we asked them, you know, can you give us your statements, your thoughts? And that went across the lines, not just Republicans, Democrats too. So we wanted.",
+ "est_chars": 207,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 579404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608466
+}

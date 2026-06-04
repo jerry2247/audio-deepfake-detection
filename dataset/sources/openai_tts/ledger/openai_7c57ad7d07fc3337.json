@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7c57ad7d07fc3337",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_cc929c118fc2",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "I continue to focus on this one contradiction that I have.",
+ "est_chars": 58,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 290444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

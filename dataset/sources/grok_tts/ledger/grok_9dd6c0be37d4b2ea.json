@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9dd6c0be37d4b2ea",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_30d8270e2969",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we are disappointed and we regret that decision but the abandonment of paris by the us administration will not mean the end of the agreement.",
+ "est_chars": 141,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 427724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608266
+}

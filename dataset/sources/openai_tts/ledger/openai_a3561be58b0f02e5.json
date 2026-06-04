@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a3561be58b0f02e5",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_988d113c4a9e",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Thanks to the exhaust turbo charger, we could double the engine torque.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 206444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

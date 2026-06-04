@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a15a0f344ef3a457",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_7823e26e7e77",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "a european democracy needs more open and inclusive institutions. we need bold decisions in order to overcome mistrust and apathy.",
+ "est_chars": 129,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 396044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608214
+}

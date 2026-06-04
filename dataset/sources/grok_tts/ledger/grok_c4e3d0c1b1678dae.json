@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c4e3d0c1b1678dae",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_037870d3cb8d",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Because \"Little Big Mom\" deals with leprosy, it has never been released in Japan.",
+ "est_chars": 81,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 229004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608328
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_53d75fe00ec2f2c3",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_f5a7bef9a558",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "They might offer it to you a bit cheaper.",
+ "est_chars": 41,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 127244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608498
+}

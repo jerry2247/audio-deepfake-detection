@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5bb68dee5a537972",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_9202b3d1812b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "eu aid worth millions of euros destroyed in full impunity and no adequate labelling of settlement products. the village of khan al ahmar that i and countless friends of the bedouins have visited is about to be destroyed.",
+ "est_chars": 220,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 725324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608366
+}

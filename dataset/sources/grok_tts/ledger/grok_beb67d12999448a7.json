@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_beb67d12999448a7",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8a7efc43d232",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He was succeeded by deputy leader Steve Elling.",
+ "est_chars": 47,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 139724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608331
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_afa9410022e76c2b",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2a9c9c369b39",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Similar parties were formed in the Netherlands, Bulgaria and Britain.",
+ "est_chars": 69,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 261644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608245
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_550c5f4e6b1ac3ce",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_4cf1ba28db82",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so what we're growing here now includes some of elmer swensen's grapes and some of the university of minnesota grapes but what changed to get back to your original question fifteen years ago was the availability of these new grape varieties that are adapted to this climate yeah",
+ "est_chars": 278,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 750284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608219
+}

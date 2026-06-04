@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dc742e89e0795022",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_8684ca0ae157",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "not because it is not a classical european document but simply because it is not responding to what europeans are requesting today.",
+ "est_chars": 131,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 327884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608382
+}

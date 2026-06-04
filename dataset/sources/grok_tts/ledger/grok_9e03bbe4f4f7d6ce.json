@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9e03bbe4f4f7d6ce",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_9b84260422f0",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Alright, Gamu's got a warlock at core. If anyone can assist Gamu, that would be nice. Thank you. Destroy this guy.",
+ "est_chars": 114,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 367244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608518
+}

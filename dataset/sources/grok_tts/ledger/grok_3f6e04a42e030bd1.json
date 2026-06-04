@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3f6e04a42e030bd1",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_e9e18bfeb7a0",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "but volunteers cannot and must not bear the burden of major global crises.",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 227084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608521
+}

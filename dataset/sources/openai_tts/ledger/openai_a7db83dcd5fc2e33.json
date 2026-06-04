@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a7db83dcd5fc2e33",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_47bbab447560",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And I've actually got a second equation like that as well. y equals m2.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 283244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608239
+}

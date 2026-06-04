@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_23ffa047cba9458f",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_67875590844c",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Today, \"Closer\" is widely recognised as a defining release of the post-punk era.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 225164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608393
+}

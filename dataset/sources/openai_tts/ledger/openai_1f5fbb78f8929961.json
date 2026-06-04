@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1f5fbb78f8929961",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_97d522b61079",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "and be able to at least call the hands i guess they say okay you say that and prove it",
+ "est_chars": 86,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 319244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

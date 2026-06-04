@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3104b66e7895f705",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_012",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "[laugh] Wait wait wait. [pause] You put the keys in the freezer? <loud>The freezer?!</loud>",
+ "est_chars": 91,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 274124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

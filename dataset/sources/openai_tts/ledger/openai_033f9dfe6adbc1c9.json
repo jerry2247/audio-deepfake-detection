@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_033f9dfe6adbc1c9",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_a9b8c809e9da",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Throughout her career she has held different positions at the national level and abroad.",
+ "est_chars": 88,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 278444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608239
+}

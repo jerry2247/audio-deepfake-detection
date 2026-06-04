@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6268c355f0f27c85",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c32309b98d5a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "As seen above, the strength of a base depends primarily on pH.",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 218444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

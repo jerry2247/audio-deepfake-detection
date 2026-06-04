@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0765ea77bbca9c5b",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_140c7c78ab74",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "where we'd like to get permission to start the process so we can be in a position to include that in the paving project",
+ "est_chars": 119,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 367244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

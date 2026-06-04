@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0e76ba57795df58a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ac21a89c576f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He had four children and three grandchildren.",
+ "est_chars": 45,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 132044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608431
+}

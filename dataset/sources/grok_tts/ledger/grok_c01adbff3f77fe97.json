@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c01adbff3f77fe97",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_dis_006",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "",
+ "text": "Can you—sorry, can you just—just give me one second, my laptop is doing the thing again.",
+ "est_chars": 88,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 315404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608486
+}

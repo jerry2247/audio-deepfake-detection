@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_edf332bf004aa775",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_758886a7c5f3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uhm, we remain in constant contact with people.",
+ "est_chars": 47,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 157004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608368
+}

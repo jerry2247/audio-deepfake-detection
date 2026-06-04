@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c6dd3b300de5ee7b",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_66809666cd86",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Thirteen nations participated in Nordic combined at the Grenoble Games.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 205964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

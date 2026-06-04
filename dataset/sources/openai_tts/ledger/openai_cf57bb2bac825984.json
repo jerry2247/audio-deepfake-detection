@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cf57bb2bac825984",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_4f490a5dbf19",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Did you really need to clog up that pipe?",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 141644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

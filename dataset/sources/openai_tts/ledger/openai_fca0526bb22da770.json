@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_fca0526bb22da770",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f1f090d499a3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Phil, will you take a stance on this matter?",
+ "est_chars": 44,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 163244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

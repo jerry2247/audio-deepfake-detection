@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_436e78b4a3c26a39",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_e302f4da5e25",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Then it was that a strange thing happened.",
+ "est_chars": 42,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 131084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608514
+}

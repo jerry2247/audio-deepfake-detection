@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e3913f97391f40df",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_0b0bde5f3157",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Trying to be too speedy, and obviously that is at my detriment. Okay, c'mon, speed up a bit.",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 248906,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608347
+}

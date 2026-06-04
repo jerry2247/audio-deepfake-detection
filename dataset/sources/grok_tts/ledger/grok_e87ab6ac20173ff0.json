@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e87ab6ac20173ff0",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_b5dae021e6f3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "in the last two weeks alone there were forty three reported cases",
+ "est_chars": 65,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 186764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608402
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d13b5111ba93b135",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1fe19196e3b4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Translations by Bhikkhu Bodhi of the Samyutta Nikaya and the Anguttara Nikaya were published by Wisdom Publications in 2003 and 2012, respectively",
+ "est_chars": 146,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 528524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608505
+}

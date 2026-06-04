@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e43709ce7d2be195",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_4f28e2077a9c",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "we have a bank that has such input into the overall town's success is a tribute to you mahoney said that the mission statement written when his journey started with the belmont savings bank in two thousand and ten was to be the most admired bank in the region",
+ "est_chars": 259,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 892844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

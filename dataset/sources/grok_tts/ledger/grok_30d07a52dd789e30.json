@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_30d07a52dd789e30",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_682bd2ca6de1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and i've contacted them and told them what's up in terms of we have to get multiple prices and they might want to come and look at it again make sure that their number is still the number they want to go with",
+ "est_chars": 208,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 507404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608294
+}

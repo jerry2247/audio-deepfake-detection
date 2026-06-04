@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6554f334492f6e18",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_fa1711564b2b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The earlier Soyuz 11A511 was the first attempt at creating a standardized R7 core in place of the numerous variations that had been used up to 1966",
+ "est_chars": 147,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 545804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608384
+}

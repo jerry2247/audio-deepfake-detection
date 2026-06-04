@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_03448cd0a27f9bca",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_008",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "[cough] Sorry, excuse me. [pause] As I was saying, the quarterly numbers look, [um], optimistic.",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 316364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608203
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0b7d6d863db229ed",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_fbcf52105437",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "there is a need for a concerted response to maintain pressure on the perpetrators of these rapes and to bring them to justice at local level or in the international criminal court.",
+ "est_chars": 180,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 462284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608520
+}

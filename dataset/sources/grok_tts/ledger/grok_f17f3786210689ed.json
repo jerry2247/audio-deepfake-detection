@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f17f3786210689ed",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_748828283b8a",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "He even recommended the government offer homeowners insurance against nuclear-bomb damage.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 300044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608503
+}

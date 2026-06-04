@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_48c2993839a6adad",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c462a3cd462a",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "I mean, this is actually easier than I thought it would be. This might be possible, you know?",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 267404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608322
+}

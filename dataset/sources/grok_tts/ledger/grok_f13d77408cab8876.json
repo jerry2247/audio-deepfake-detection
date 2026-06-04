@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f13d77408cab8876",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_dc9016e1ea29",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "bless every drop of blood that has been spilled for jerusalem.",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 181004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608435
+}

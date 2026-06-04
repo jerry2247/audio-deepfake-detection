@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_131f8a49d7b3bcc5",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2187220805ee",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The conversation focuses on the priest and his relationship with the boy.",
+ "est_chars": 73,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 171404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608473
+}

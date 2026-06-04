@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3feceab95ca6a83f",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_031f6a139a5b",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and just for those who might not have stopped by your table today can you give us just a quick description of what your mission is what you guys do in town i mean i think it's pretty you know self explanatory",
+ "est_chars": 208,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 538124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608368
+}

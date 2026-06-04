@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_eda5fee64ae1d5cc",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_bfe959b37e7f",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Both Sargent and Nelson Doubleday, Junior worked for Doubleday.",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 283244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608205
+}

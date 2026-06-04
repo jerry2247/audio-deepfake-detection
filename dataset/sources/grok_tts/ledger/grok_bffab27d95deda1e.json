@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_bffab27d95deda1e",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_7a0b61e61762",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>He was the first secretary of the Indian National Congress.</whisper>",
+ "est_chars": 78,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 157964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608272
+}

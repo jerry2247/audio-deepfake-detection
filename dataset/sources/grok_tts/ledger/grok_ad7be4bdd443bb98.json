@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ad7be4bdd443bb98",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_db130375b0a3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I have done with the red coat, believe me.",
+ "est_chars": 42,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 114764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607416
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e13cfec533dbd89c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_02b9f8547fb7",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "oh okay so an example of so yes i have mentioned that this teal box is the size of a home depot",
+ "est_chars": 95,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 383564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608462
+}

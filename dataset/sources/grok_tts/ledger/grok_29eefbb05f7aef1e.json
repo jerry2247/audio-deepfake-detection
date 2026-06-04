@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_29eefbb05f7aef1e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_b3283529b221",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so we give them all the instructions they need and meet them there if they want to",
+ "est_chars": 82,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608376
+}

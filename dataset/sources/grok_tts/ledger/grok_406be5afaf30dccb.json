@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_406be5afaf30dccb",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "loud",
+ "language": "en",
+ "text_id": "cur_sho_015",
+ "register": "shout",
+ "speed": "",
+ "instructions": "",
+ "text": "<loud>Everybody freeze! Nobody touches the evidence until forensics arrives!</loud>",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 209804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608428
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_84a15397ba26ccc1",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_75a383481c27",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "it's making people feel a little sicker she said she's seen more patients this year then at the same time last year",
+ "est_chars": 115,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 288524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608426
+}

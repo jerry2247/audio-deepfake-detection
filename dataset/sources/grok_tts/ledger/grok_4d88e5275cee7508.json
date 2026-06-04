@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4d88e5275cee7508",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8b3af7c09523",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The realm of Molag Bal, Coldharbour, also appears in \"The Elder Scrolls Online\".",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 293324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608398
+}

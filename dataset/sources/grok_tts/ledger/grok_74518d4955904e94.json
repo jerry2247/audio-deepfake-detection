@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_74518d4955904e94",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_7f864fe0afb6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "with respect to regulation of greenhouse gases advocacy disagrees with epa on whether the impacts on small businesses were properly considered",
+ "est_chars": 142,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 412364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608203
+}

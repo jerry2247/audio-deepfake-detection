@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5bfedbf15c1cfb07",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_16ef1290fe1a",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The strike was started by the faculty and students.</whisper>",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 172364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608326
+}

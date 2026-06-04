@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_da41d767b011ba92",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_b4217548a150",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The mixture will produce a chlorine solution of approximately five hundred milligrams per liter.",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 255884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608397
+}

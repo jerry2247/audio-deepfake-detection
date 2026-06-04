@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7ba3cbeca53931f5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_27f089d5f609",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and then out of that comes whatever meyerjensen proves on a quantum meruit basis",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 240524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608405
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9f75485cb313e865",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a8eee698f690",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "But first time Medi-Cal applicants can be denied or a share of cost can be assessed. So these, that protection on negative actions is for people who are already on Medi-Cal.",
+ "est_chars": 173,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 523724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608278
+}

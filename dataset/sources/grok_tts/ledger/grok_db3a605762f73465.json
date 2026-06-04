@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_db3a605762f73465",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_57b85dfce51a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "commercial practices the commission will also address the issue of commercial practices whereby travel services providers who market their services online offer additional services in an unclear or ambiguous manner such as hiding the option of not booking any further services and the commission",
+ "est_chars": 295,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 790604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608205
+}

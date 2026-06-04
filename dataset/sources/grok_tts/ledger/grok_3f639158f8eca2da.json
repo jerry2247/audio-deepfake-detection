@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3f639158f8eca2da",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_015",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "[gasp] The cookies! [long-pause] [sigh] Well. We're buying dessert this year.",
+ "est_chars": 77,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 225164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608326
+}

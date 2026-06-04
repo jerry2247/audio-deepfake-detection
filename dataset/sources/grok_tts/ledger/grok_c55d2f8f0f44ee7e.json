@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c55d2f8f0f44ee7e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c99092c9053c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Yeah, let's do that. Let's put Happy New Year's here. Not gonna hurt anything, right?",
+ "est_chars": 85,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 218444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608301
+}

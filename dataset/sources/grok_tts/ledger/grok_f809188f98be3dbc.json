@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f809188f98be3dbc",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1ff333b67208",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "However, Governor Dirk Kempthorne appointed State Senator Jack Riggs of Coeur d'Alene to the post instead",
+ "est_chars": 105,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 293324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608363
+}

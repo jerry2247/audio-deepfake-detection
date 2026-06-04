@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c57367e529be78b5",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1b7f99e6786d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "You know, I, I just am aware of these markets and when I see like, you know, hundred thousand, hundred thousand.",
+ "est_chars": 112,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 352844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_457c9925eb734a49",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5563439a1626",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "She's always been very weird. She's always been a little bit off and not quite with it.",
+ "est_chars": 87,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 350444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608209
+}

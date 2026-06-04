@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_397f98fa7aa7ed15",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_662a4983ea89",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "well you know the old saying that well god protected me from the friends because that's for the enemies i will take care of them myself good luck mr the prime",
+ "est_chars": 158,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 472844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608439
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4fb1c41071316635",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_18b614604c89",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "She decided to study Accounting at a university in Portugal.",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 198044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608339
+}

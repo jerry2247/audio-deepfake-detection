@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6255794741a866a9",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2dafe1c2312f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "She lived with her aunt after her mother died.",
+ "est_chars": 46,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 123404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608323
+}

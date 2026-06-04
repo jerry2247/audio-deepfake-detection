@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5f95bc09cd0b8f16",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_92c322ce46f1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "if someone wants to partially or completely demolish any of those properties a demolition permit must be filed which will be referred to the historic district commission for a public hearing",
+ "est_chars": 190,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 472844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608487
+}

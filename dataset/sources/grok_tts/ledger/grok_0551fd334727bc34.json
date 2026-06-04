@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0551fd334727bc34",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_580d5311b8f8",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "well i did not object to any of the exhibits that he submitted to the court",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608398
+}

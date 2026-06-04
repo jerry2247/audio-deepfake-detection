@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6463931c0815eaaf",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_294a06e69274",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Bilateral relations have traditionally been at the heart of development cooperation activities.",
+ "est_chars": 95,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 258764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608272
+}

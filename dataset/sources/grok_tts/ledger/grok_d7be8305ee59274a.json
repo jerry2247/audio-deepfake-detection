@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d7be8305ee59274a",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_2f3b3e41cce9",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "that's why i think we need to be very constructive and careful in our criticism.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608406
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b0498da19b5a3be4",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_0eb4eaeac6b8",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "All who met him fell with their faces to the earth.",
+ "est_chars": 51,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 140684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608257
+}

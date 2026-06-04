@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d7a4d2d6986b6167",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_f726366f5605",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and there's also nothing in the record to show that the trial court improperly considered this considered this",
+ "est_chars": 110,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608244
+}

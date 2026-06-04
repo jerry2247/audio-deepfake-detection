@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c3ddc92b3ed1c99b",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_e4d680332ca0",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The fan whirled its round blades softly.",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 170444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

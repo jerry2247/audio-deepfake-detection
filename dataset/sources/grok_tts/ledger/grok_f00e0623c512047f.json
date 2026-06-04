@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f00e0623c512047f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_ba40e3aae44a",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Formal rose gardens line the eastern and southern sides.",
+ "est_chars": 56,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 181244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608201
+}

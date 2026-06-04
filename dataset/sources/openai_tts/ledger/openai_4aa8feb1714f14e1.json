@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_4aa8feb1714f14e1",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_526a11446168",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Likewise the angel Moroni first lived in a pre-Columbian American civilization as the 5th century prophet warrior named Moroni",
+ "est_chars": 126,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 352844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

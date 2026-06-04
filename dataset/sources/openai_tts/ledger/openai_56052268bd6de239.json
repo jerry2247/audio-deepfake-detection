@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_56052268bd6de239",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_cf736cb12135",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It was done before the boy could see it.",
+ "est_chars": 40,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 218444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608198
+}

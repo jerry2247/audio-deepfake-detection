@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1d9a7ff55c3f5455",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_cc46aea6286d",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The album was released in multiple versions.</whisper>",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 152204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608379
+}

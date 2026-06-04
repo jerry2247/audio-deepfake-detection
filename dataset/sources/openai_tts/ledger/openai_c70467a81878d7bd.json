@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c70467a81878d7bd",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_f29ce56ab1f7",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Wall alleged that her new husband raped her repeatedly and that she repeatedly miscarried.",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 345644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608215
+}

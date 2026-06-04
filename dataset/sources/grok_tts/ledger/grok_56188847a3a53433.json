@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_56188847a3a53433",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_569d7398584e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "then there were two amendments adopted within the incorrect mff headings so they should be changed as follows amendment one thousand one hundred and fifty three preparatory action e platform for neighbourhood' should be included in heading one a and not heading.",
+ "est_chars": 262,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 746444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608334
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_4a3cf12be6b89990",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_bb1d05ffbe69",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Female and juvenile plumages are similar, but duller and less streaked.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 336044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

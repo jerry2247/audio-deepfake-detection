@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d8da3591c9fd458a",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_1e6c1c046086",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Ninety five lines and no more, that's it.",
+ "est_chars": 41,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 242444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608220
+}

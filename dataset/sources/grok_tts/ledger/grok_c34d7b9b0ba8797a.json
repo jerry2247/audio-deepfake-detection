@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c34d7b9b0ba8797a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_198ef51cc020",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "In mathematics, Philo tackled the problem of doubling the cube.",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 222044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

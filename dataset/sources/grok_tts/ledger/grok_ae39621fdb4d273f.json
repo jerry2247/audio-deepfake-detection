@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ae39621fdb4d273f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_e9d7299fcbf2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Elizabeth was about the same age as Maria.",
+ "est_chars": 42,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 120524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608337
+}

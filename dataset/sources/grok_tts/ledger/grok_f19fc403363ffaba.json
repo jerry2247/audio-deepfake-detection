@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f19fc403363ffaba",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_027",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "The test came back negative. Negative! We can finally breathe again.",
+ "est_chars": 68,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 221324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608297
+}

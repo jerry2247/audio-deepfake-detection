@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_935a9c2a39ebc477",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_dd5c6d4d2fe5",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "russia has always been a very proud nation with a rich culture with inventions and esprit;",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 273164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608458
+}

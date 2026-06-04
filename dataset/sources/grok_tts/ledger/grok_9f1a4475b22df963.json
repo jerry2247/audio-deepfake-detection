@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9f1a4475b22df963",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_lng_003",
+ "register": "longform",
+ "speed": "",
+ "instructions": "",
+ "text": "Alright team, quick recap of where we landed today. First, the migration to the new billing system slips two weeks; Dana's group found an edge case with annual subscriptions that refund mid-cycle, and we are not shipping until that's fixed. Second, customer support headcount: approved, two new hires starting next month, both remote. Third, the office move. I know everyone has opinions about the fourth floor. The lease isn't signed yet, so if you have genuine accessibility concerns, get them to me in writing by Friday. And finally, the holiday party is December twelfth. Yes, there will be a karaoke machine again. No, Kevin, you cannot do forty-five minutes of Bon Jovi.",
+ "est_chars": 676,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 1885004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608445
+}

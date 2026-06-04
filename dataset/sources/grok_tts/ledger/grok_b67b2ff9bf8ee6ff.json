@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b67b2ff9bf8ee6ff",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5a83bb2f72dd",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "These studies suggest that various individual and situational factors",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 200204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608362
+}

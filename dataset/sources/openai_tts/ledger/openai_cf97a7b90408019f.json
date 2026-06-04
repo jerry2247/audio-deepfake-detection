@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_cf97a7b90408019f",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_aa70c0ab35b6",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "I'd like to talk to you now just about section headings. As you may have noticed, Moodle has",
+ "est_chars": 92,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608257
+}

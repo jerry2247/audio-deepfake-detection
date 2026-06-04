@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d883c7caae538c2a",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_8357345bdf69",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Gonna just see Peach, maybe get one extra moon, if we're lucky. Ah, good to be back.",
+ "est_chars": 84,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 250124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608357
+}

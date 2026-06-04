@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_328ce533b9ad47ec",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_6f76c23f805b",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "At most, they thought that another meteorite had descended.",
+ "est_chars": 59,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 230444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608183
+}

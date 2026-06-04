@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_379c5d71808f4ef3",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_common_voice_c9d3a78289c1",
+ "register": "read",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "The Franks were successful at Tolbiac and established their dominance over the Alamanni.",
+ "est_chars": 88,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 271244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

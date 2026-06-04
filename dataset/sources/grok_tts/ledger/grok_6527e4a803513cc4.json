@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6527e4a803513cc4",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_ec3d9a8b377b",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i get the feeling when i hear folks talk that the government comes in the idea isn't to fix it it's to fine you",
+ "est_chars": 111,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 373004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608386
+}

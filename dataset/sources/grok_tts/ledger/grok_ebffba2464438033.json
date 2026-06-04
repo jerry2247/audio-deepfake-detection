@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ebffba2464438033",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_508b2e479996",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Malaria remains the primary public health challenge in many countries. In 2015, there were 214 million cases of malaria worldwide resulting in an estimated 438,000 deaths, 90% of which occurred in Africa.",
+ "est_chars": 204,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 763724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608496
+}

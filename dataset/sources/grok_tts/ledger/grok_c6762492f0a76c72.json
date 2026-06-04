@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c6762492f0a76c72",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_2e4ecdeb964d",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "this clearly shows that we need a stronger we need a stronger position we need the power to cod aside",
+ "est_chars": 101,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 304844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608225
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fa9e776030bea5b7",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_4f490a5dbf19",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Did you really need to clog up that pipe?</whisper>",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 119564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608265
+}

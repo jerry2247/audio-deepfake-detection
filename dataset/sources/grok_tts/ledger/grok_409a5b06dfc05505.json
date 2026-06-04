@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_409a5b06dfc05505",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_emo_010",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "Something's wrong. The lights are off and the front door is wide open.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 200204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608355
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_16bb3850324d4350",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_que_003",
+ "register": "question",
+ "speed": "",
+ "instructions": "",
+ "text": "Why would anyone schedule a dentist appointment at seven in the morning?",
+ "est_chars": 72,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 199244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608210
+}

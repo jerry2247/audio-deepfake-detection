@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6f2976e0c1e53301",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_a85547a61566",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It is based on the height of a man with his arm raised.",
+ "est_chars": 55,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 216044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608212
+}

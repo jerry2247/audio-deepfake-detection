@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6a7b839194103b40",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_4829597daa40",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "for what purpose does the gentlemen from missouri rise without objection gentleman's recognized",
+ "est_chars": 95,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 278444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608253
+}

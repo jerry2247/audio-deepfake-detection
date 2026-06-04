@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_edf3626bd212138c",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_emo_027",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "The test came back negative. Negative! We can finally breathe again.",
+ "est_chars": 68,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 259244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608183
+}

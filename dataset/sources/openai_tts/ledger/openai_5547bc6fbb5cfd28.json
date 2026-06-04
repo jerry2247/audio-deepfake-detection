@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5547bc6fbb5cfd28",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_4ce9f5bd1988",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Three-phase alternating current is an efficient way of transmitting energy.",
+ "est_chars": 75,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 240044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608260
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1555d6e62875398d",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "cur_whi_009",
+ "register": "whisper",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>I saw the exam questions on his desk. Number three is about photosynthesis.</whisper>",
+ "est_chars": 94,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 239564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608325
+}

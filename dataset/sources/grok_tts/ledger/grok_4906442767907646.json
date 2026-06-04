@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4906442767907646",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_2e6c491a5d47",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "And now there are also issues about looking at how best, eh, we can improve our systems to ensure that our staff have that kind of visibility to work at home. Now there is also the issue of with football and there is a ban",
+ "est_chars": 222,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 499982,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608495
+}

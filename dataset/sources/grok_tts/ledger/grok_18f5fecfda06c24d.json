@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_18f5fecfda06c24d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c243e9344114",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The community begins merry-making, music, dancing and women playfully smear the faces of their companions with sindor' vermilion, all as a mark of the victory of good over evil",
+ "est_chars": 176,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 564044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608237
+}

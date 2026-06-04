@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1adb49800e7235e3",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_8fd2eefd0ff4",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thirdly the attractiveness of eu assistance is also important.",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 186764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608339
+}

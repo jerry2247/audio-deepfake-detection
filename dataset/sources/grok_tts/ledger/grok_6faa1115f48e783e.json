@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6faa1115f48e783e",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_8444b649b72d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Because at that moment we thought that we were going to be killed and it is worth mentioning that when they",
+ "est_chars": 107,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 244364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608273
+}

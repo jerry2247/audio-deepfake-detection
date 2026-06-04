@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d10faa7ef343d4da",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0eb7f0b9cf79",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and what kind of things did the friends do tell us a little bit about what you what you do with the friends group",
+ "est_chars": 113,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 276044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608251
+}

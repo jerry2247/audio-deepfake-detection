@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_633fa408da6d7fc8",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_d21670f96760",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "This process is particularly visible in the eastern part of its area.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 201164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608341
+}

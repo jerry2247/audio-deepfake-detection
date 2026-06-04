@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_9e7a2bdfb54a928b",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "cur_twi_006",
+ "register": "dense",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "The thirty-three thieves thought they thrilled the throne throughout Thursday.",
+ "est_chars": 78,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 220844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608238
+}

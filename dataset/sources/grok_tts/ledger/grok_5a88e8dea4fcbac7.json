@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5a88e8dea4fcbac7",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_ddbaaee4a8b3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and how funny that seems i mean if you if the alley if there's enough to have an indictment that there was an agreement to do criminal business with somebody i don't know",
+ "est_chars": 170,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 432524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608278
+}

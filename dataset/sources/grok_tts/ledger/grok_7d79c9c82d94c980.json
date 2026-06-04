@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7d79c9c82d94c980",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_16e40a7e3358",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Yes, you see that 9000C? Right, the Juki Corporation, still made in China. Still made in China, if you could see that tiny.",
+ "est_chars": 123,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 431564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608419
+}

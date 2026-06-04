@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_31e1f8214532c6b4",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "soft",
+ "language": "en",
+ "text_id": "cur_emo_012",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "",
+ "text": "<soft>Honestly, I never thought I'd see the day. I'm completely speechless.</soft>",
+ "est_chars": 82,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 230924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608311
+}

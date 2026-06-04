@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bc3f82dd5accbcf7",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_459c152426a3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Lebanon and Hezbollah continue to claim a small area called Sheba Farms as Lebanese territory, but Israel insists that it is captured Syrian territory with the same status as the Golan Heights",
+ "est_chars": 192,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 554444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608236
+}

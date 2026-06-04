@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_3be12ec4483227e9",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_db979862a140",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Every generation has \"fought for freedom and equality\".",
+ "est_chars": 55,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608198
+}

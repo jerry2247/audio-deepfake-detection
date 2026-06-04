@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ce9a74b1603ef67d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_6a490218956b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "thank you modern president i assume the nowadays behavior of actually is one be any limits",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 294284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608284
+}

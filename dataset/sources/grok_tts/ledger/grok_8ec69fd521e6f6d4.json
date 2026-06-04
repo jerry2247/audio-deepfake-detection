@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8ec69fd521e6f6d4",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_d28eed95b2da",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Los Bucaneros disbanded not long after the title loss.</whisper>",
+ "est_chars": 73,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 155084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608399
+}

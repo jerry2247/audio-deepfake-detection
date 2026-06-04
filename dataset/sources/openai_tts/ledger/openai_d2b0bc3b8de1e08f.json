@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d2b0bc3b8de1e08f",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_ea860e79b751",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "It's very simple. Quick question is this. Compare a fantasy player to a blockbuster movie.",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 439244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608222
+}

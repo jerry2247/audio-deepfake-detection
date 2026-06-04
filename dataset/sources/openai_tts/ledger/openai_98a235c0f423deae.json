@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_98a235c0f423deae",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_758886a7c5f3",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uhm, we remain in constant contact with people.",
+ "est_chars": 47,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 170444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608252
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_62d2b638387f9c82",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "angry",
+ "language": "en",
+ "text_id": "cur_emo_030",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with barely contained anger, tense and clipped.",
+ "text": "Three years of saving, and the engine gives out two days after the warranty ends.",
+ "est_chars": 81,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 261644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

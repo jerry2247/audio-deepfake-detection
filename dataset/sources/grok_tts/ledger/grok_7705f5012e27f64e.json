@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7705f5012e27f64e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6123b4b6d412",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "carol corey will report when he found out from the mayor here",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 181004,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608333
+}

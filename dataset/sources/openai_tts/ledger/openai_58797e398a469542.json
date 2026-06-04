@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_58797e398a469542",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_af26ba9cad0b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Feral Interactive and Sumo Digital were once responsible for platform transplantation.",
+ "est_chars": 86,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 326444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608186
+}

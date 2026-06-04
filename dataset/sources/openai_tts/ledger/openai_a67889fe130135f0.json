@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a67889fe130135f0",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_69deb7aa0db5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "what's in the record to show that the judge actually relied on an improper what happened in this case is that there was such a jumbo of different charges",
+ "est_chars": 153,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 564044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608194
+}

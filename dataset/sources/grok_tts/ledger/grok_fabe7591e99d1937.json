@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_fabe7591e99d1937",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_675e0a91e0d8",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "nothing prevents member states to provide their patients who receive cross border healthcare more advantages form of reimbursement even in advance however it depends on the member states national nevertheless",
+ "est_chars": 208,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 599564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608200
+}

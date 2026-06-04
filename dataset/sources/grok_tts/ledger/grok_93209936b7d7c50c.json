@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_93209936b7d7c50c",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_221e185eb694",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Nice goalie looking for somebody. Kicks out to midfield. Stopped by number 12. That's Devin Alves. It'll be uhm,",
+ "est_chars": 112,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 248168,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608497
+}

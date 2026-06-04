@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_bb0feb2b4917586d",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_b5dae021e6f3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "in the last two weeks alone there were forty three reported cases",
+ "est_chars": 65,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 204044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608181
+}

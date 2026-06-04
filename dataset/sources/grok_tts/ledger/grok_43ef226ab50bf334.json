@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_43ef226ab50bf334",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_4d85c4f59562",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the system as i hope it will work will be instrumental in providing metrics on a number of things including the frequency and cost of repairs on missioncritical systems",
+ "est_chars": 168,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 440204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608238
+}

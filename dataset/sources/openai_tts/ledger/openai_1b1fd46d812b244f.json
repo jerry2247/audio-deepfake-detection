@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1b1fd46d812b244f",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_15fe3455c46a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "madam president the european union is based on common values. among them is that of respect for all nations and minorities and equal treatment for all eu residents regardless of their origin native language or religion.",
+ "est_chars": 219,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 684044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608213
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e775b58e4de582cb",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0df79a47ceae",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so your formularies do change no matter what but we're going to look at this and talk with the city to see what the actual disruption is and you know we can do a couple of different things",
+ "est_chars": 188,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 492044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608356
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_de35ab5c495c8263",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_fa0f0df6156a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and can you go through the vineyard in a clean sweep or do you have to come back as fruit ripens no it's a onetime through",
+ "est_chars": 122,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 312524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608377
+}

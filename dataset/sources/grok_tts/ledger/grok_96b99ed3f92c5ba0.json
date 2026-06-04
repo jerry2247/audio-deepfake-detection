@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_96b99ed3f92c5ba0",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_1f63f3ded746",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "you know without all the towns choosing to participate but at the same token you're losing out on some of the things that really would work if all the schools were involved",
+ "est_chars": 172,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 471884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608524
+}

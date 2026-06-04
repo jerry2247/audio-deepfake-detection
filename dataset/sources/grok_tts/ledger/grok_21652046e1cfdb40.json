@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_21652046e1cfdb40",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_dec816672eaa",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "additionally there are many exciting educational opportunities that exist when seventh and eighth grades are included on a high school campus",
+ "est_chars": 141,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 351884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608369
+}

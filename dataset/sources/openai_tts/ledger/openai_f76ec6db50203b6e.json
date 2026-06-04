@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f76ec6db50203b6e",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "cur_dis_014",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "No yeah, totally, one hundred percent—wait, are we talking about the same Jennifer?",
+ "est_chars": 83,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 391244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608203
+}

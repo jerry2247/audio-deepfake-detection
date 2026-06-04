@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d7b7c207f0c29700",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_4bf9c510f7f7",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "An intimate zone is reserved for close friends, lovers, children and close family members",
+ "est_chars": 89,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 309644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608215
+}

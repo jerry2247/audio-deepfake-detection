@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d8d9a6a2fe391e3f",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_e156026a76fc",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Imler assembled a force of about 3,000 men from Security Police, Gestapo, Kripo, SD, and the Waffen-SS, as the so-called, \"'Special Commandos of the Security Forces\", known as the Einsatzgruppen, to eliminate both communists and Jews in occupied territories.",
+ "est_chars": 258,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 876044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608230
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3016dc0f26741120",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c658110a96fa",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Yeah, so if it was like, before render. I request an animation frame. Right.",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 271244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608491
+}

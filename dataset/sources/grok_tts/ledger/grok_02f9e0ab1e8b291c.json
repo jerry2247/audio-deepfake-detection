@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_02f9e0ab1e8b291c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_1930aba7797f",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the defense counsel record shows that counsel pushed the victim and asked specific questions in order to challenge the credibility her truthfulness and her motive especially where the victim at times was vague and imprecise",
+ "est_chars": 223,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 624524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608278
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1966214f737a8f5c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_005",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "Take Interstate 95 South for 12.4 miles, then exit 23B toward Route 1.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 341324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608290
+}

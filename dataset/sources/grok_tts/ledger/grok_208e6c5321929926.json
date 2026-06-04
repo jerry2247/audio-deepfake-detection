@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_208e6c5321929926",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_430c467e1a68",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "A significant amount of strategy and maintaining that leadership position within innovation. So maybe talk to us a little bit about your innovation path and what that progression has been like for ANOVA.",
+ "est_chars": 203,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 497804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608217
+}

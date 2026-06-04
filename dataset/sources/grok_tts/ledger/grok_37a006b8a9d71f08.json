@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_37a006b8a9d71f08",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_4b215f82f676",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we should not forget about that the timing of auctions licence duration spectrum trading greater eu coordination of spectrum assignments are all very important. they are all addressed in the telecom framework.",
+ "est_chars": 209,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 625484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608351
+}

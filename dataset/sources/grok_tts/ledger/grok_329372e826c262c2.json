@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_329372e826c262c2",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_4f5065342646",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The marriage of Zeus and Hera was acted at annual festivals.",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 279644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608320
+}

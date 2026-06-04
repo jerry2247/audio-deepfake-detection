@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e4a5d9c1f79127f5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_lng_004",
+ "register": "longform",
+ "speed": "",
+ "instructions": "",
+ "text": "To make the dough, start by warming the milk until it feels just slightly above body temperature, then whisk in the yeast and a tablespoon of the sugar and let it stand for about ten minutes until it looks foamy. In a large bowl, combine the flour, the remaining sugar, and the salt. Pour in the yeast mixture, the melted butter, and both eggs, and stir until a shaggy dough forms. Turn it out onto a floured counter and knead for eight to ten minutes. It should feel smooth and slightly tacky, but not sticky. Place it in an oiled bowl, cover it with a damp towel, and let it rise somewhere warm for about an hour, until it has doubled.",
+ "est_chars": 637,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 1844684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608259
+}

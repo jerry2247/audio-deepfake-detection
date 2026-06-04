@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b0f3f6a460068dbe",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_004",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "The meeting moved from March 3rd, 2026 to Tuesday, April 14th at 11:30 a.m.",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 321164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608515
+}

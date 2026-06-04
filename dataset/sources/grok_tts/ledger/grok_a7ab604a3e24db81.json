@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a7ab604a3e24db81",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_6f65c1df4c56",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "She worked closely with Marietta Kies at Mount Holyoke.",
+ "est_chars": 55,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 165644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608317
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_05930eef749c2751",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_7ad63d1c46bc",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Nine missile launchers and two radars normally operate in a battery.",
+ "est_chars": 68,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 211244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608191
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ecf9e064156f6183",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_80cd5afd638c",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "he didn't talk about the things that the state was actually intending to prove and guilty of",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608361
+}

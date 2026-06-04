@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2e217c9fe4030e5f",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_44956c90cf84",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The series was well-received, and it is considered the forerunner of creator-driven cartoons.",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608447
+}

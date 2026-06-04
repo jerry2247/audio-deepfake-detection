@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_b46d6172ff434807",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_c0845b2f307e",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "now the way you phrased your examples you said that town that is out doesn't really have a stake in that particular decision",
+ "est_chars": 124,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 448844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608189
+}

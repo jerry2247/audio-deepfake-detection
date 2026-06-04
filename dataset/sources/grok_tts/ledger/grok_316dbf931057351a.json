@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_316dbf931057351a",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_8c7bb7a0c8ee",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "By the colonial era, bakeries were commonly viewed as places to gather and socialize.",
+ "est_chars": 85,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 342044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608512
+}

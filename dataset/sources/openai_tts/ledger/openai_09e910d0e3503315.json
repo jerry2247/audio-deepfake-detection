@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_09e910d0e3503315",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_14c07d24ea18",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "The floor was finished hardwood and used for basketball and volleyball.",
+ "est_chars": 71,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 223244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608192
+}

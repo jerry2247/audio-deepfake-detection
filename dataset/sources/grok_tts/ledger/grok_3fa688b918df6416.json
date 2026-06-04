@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3fa688b918df6416",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_107d6bcc7c82",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Several publications containing the text of the Samaritan Targum have appeared.",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 264044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608523
+}

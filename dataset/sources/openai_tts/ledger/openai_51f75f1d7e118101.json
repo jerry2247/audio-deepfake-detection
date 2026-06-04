@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_51f75f1d7e118101",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_7052e0b0e71b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I dreamed I was walking through a fine rich country.",
+ "est_chars": 52,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 196844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608226
+}

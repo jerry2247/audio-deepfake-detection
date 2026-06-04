@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dbb26668606b64a6",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_d41a23a28f39",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "These unique soldiers are able to spray noxious, sticky secretions containing ditapenis at their enemies",
+ "est_chars": 104,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 272204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608515
+}

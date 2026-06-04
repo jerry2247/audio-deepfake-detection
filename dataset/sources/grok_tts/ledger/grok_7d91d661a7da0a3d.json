@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7d91d661a7da0a3d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_21106fa9627e",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "let's start indeed on the positive notes the european economy is",
+ "est_chars": 64,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 205964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608315
+}

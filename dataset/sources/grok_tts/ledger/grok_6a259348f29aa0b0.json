@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6a259348f29aa0b0",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "cur_dis_002",
+ "register": "disfluent",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "The thing is, like, we never actually—I mean, did anyone even read the contract?",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 218628,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608510
+}

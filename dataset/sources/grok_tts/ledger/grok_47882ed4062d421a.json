@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_47882ed4062d421a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_4e14a4d2a171",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "On the contrary reaching the summit by mountain bike requires good skills.",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 193484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608407
+}

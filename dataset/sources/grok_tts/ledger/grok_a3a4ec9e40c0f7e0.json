@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a3a4ec9e40c0f7e0",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_d4bcc2be844b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The property has a lot of space; what's its size?",
+ "est_chars": 49,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 154124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

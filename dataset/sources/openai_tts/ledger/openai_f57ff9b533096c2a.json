@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f57ff9b533096c2a",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_59f4df01aa7f",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Is producing an area around it where this flux of relic neutrinos from the cosmos.",
+ "est_chars": 82,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 278444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608237
+}

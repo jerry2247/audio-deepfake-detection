@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f48e8a5ef1e355cc",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_012",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "The password is capital R, lowercase x, 7, 7, dollar sign, lowercase q, 9.",
+ "est_chars": 74,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 410444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608207
+}

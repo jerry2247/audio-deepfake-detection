@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d4a2a89cb204840d",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_2ffae25dea92",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "There is a left turn for Tollerton and goes through Tollerton Forest.",
+ "est_chars": 69,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 280844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

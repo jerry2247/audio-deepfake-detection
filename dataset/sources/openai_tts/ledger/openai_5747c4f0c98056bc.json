@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5747c4f0c98056bc",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_2b704dcce36b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "people have been destroyed economical support for people have been destroyed and there we need to help also in the long and medium turn that those issues and those properties can be rebuilt that also regional money and funds can be used and also long term measures such as anti",
+ "est_chars": 277,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 751244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608231
+}

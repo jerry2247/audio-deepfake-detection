@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_1032a69f3dc248d8",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_f8b1fc63a7db",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Successive atoms become smaller because they are filling orbits of",
+ "est_chars": 66,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 244844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608250
+}

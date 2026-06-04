@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b8748b3f4e54e115",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_dis_010",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "",
+ "text": "Right, so, um, quick update: the, uh, the shipment is—okay there's no good way to say this.",
+ "est_chars": 91,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 307724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608307
+}

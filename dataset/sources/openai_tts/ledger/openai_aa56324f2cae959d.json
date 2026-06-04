@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_aa56324f2cae959d",
+ "provider": "openai",
+ "voice": "echo",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_e86de17a88b4",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "Thus, \"Mesopotamia\" required a new writing project for the band.",
+ "est_chars": 64,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608212
+}

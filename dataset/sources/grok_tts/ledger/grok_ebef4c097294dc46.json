@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ebef4c097294dc46",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_df15d89c8bc2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He worked briefly on the Manhattan Project at Princeton University.",
+ "est_chars": 67,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 173324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608238
+}

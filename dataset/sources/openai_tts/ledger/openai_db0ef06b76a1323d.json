@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_db0ef06b76a1323d",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_e4743b31da81",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Locked by the wall. Trying to kick it again. Back to defenders. Three defenders there. Punches it up. Made feel. Kicked out quickly.",
+ "est_chars": 132,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 542444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

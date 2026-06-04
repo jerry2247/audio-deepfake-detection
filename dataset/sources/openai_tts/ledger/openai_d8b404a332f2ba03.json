@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d8b404a332f2ba03",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_6c0dee4c7d56",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i just wanna say there is kind of a feeling in the community",
+ "est_chars": 60,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 201644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608191
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_72c27bdc327b5982",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0e437d6cf9d5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "those flowering trees that bloom in the spring the garden club maintains and plants the garden next to the library which has been a place that everybody enjoys during the summer time",
+ "est_chars": 182,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 458444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608270
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_194f90a83a426c79",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_6491a22e20b9",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The brickwork is laid in stretcher courses through most of the house.",
+ "est_chars": 69,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 247244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608344
+}

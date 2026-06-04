@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_82482c707918e678",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_584ebf37602a",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "In your family, who do you go to for support? Is it mom, dad, maybe a grandparent? Have you surrounded yourself with positive friends, people who can listen and be there for you? In this building, you have a lot of mentors.",
+ "est_chars": 223,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 734444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608232
+}

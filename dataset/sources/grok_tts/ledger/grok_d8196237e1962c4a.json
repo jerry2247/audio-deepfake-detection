@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d8196237e1962c4a",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1b7f99e6786d",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "You know, I, I just am aware of these markets and when I see like, you know, hundred thousand, hundred thousand.",
+ "est_chars": 112,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 320204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608376
+}

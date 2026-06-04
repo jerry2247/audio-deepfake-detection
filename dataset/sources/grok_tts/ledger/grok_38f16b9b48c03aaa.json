@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_38f16b9b48c03aaa",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_9af7f58a31e5",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "now at that point in time when i got that letter i will be honest with you that was the first time i actually seriously considered throwing in the towel",
+ "est_chars": 152,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 381644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608209
+}

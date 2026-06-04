@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_d5324e6fb96d47a3",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f6fba4331586",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Ammonium nitrite solution is stable at higher pH and lower temperature.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 202124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608337
+}

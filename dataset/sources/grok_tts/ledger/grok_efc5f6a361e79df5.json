@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_efc5f6a361e79df5",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_e9d669a592f1",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "You know, what's intuitive is, you know, uh, uh, I work my way in, I do good, and I, you know, I earn my way in, because that's how it works in the world.",
+ "est_chars": 154,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 485324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608236
+}

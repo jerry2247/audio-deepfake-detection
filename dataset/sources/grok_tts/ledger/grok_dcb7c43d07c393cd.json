@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dcb7c43d07c393cd",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d2ade18d0ee6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and in the congress we have people who share your view or others who share your view that we should pass it",
+ "est_chars": 107,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 268364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608422
+}

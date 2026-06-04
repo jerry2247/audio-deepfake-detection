@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5aad7e8d2595aa03",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f471e63d8106",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "I hope that he understood what I was saying.",
+ "est_chars": 44,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 160844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608239
+}

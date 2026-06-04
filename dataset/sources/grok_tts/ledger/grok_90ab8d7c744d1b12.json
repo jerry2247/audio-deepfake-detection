@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_90ab8d7c744d1b12",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_04bad33880cf",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and i think there's an acknowledgement that we need to provide 21st century education experiences for our students",
+ "est_chars": 114,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 284684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608305
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1a48b8eb04b4d10a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_tag_009",
+ "register": "grok_tags",
+ "speed": "",
+ "instructions": "",
+ "text": "<singing>Happy birthday to you, happy birthday to you</singing> [laugh] come on, everybody sing!",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 336524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608282
+}

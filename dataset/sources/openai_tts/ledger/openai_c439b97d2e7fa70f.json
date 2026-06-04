@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c439b97d2e7fa70f",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "angry",
+ "language": "en",
+ "text_id": "cur_emo_017",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with barely contained anger, tense and clipped.",
+ "text": "If you touch my sister again, I swear you will regret it for the rest of your life.",
+ "est_chars": 83,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 348044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608216
+}

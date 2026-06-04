@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cc3225a21e7abe5b",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_af8d2b8db507",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "europe has become one of the main global providers of security.",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 169484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608492
+}

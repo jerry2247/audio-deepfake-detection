@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_05f721af71fbc838",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_77c68a833a41",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "especially when we are talking about our neighbourhood in africa. this is really also about our security. without development in these regions we will also be in trouble.",
+ "est_chars": 170,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 493964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608483
+}

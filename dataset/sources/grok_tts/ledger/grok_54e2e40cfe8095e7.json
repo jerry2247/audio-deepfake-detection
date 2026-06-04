@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_54e2e40cfe8095e7",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0a899a10058c",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "our manufacturers and farmers need this agreement to sell their products create jobs and compete against foreign producers",
+ "est_chars": 122,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 341324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608309
+}

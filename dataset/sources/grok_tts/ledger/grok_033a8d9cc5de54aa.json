@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_033a8d9cc5de54aa",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_381273212be3",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Many see this as a sign of growing reconciliation on the grass-roots level.",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 201164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608512
+}

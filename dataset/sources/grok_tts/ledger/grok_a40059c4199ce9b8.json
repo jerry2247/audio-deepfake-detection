@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a40059c4199ce9b8",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1b40f83a54de",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uhm, and it helps you, the coveredcalifornia.com marketplace has a shopping compare tool. You can kind of, you can plug in your income. And, uhm, if you're not eligible for Medi-Cal, it will kind of give you a sense of what option health care.",
+ "est_chars": 243,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 688844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608424
+}

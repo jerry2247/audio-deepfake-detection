@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5318114a5af8155b",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_4b061ae95fc4",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The interviewer's questions are omitted from the transcripts, rendered merely as Q.</whisper>",
+ "est_chars": 102,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 249164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608223
+}

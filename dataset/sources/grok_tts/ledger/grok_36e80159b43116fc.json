@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_36e80159b43116fc",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "tags_native",
+ "language": "en",
+ "text_id": "cur_dis_015",
+ "register": "disfluent",
+ "speed": "",
+ "instructions": "",
+ "text": "I mean—okay. Deep breath. Let me try to explain this without losing my mind.",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 323084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608357
+}

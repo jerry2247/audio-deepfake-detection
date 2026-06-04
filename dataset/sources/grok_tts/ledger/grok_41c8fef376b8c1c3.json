@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_41c8fef376b8c1c3",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_8c3f166072b5",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Members of the Zongo community are mistakenly but commonly regarded as Northerners.",
+ "est_chars": 83,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 298844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_13aecb2c96bfb02a",
+ "provider": "openai",
+ "voice": "fable",
+ "mode": "angry",
+ "language": "en",
+ "text_id": "cur_emo_011",
+ "register": "emotional",
+ "speed": "",
+ "instructions": "Speak with barely contained anger, tense and clipped.",
+ "text": "You had one job. One. And now the whole project is ruined.",
+ "est_chars": 58,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 295244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608266
+}

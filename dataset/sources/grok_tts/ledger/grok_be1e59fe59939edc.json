@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_be1e59fe59939edc",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_1afc86c236a1",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Kathleen loves to dress up like a princess.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 152444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608427
+}

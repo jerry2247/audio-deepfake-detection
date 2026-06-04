@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8d1bed5e8a45af14",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_014",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Touchdown! Forty-seven seconds left and they take the lead!",
+ "est_chars": 59,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

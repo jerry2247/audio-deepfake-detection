@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ff807b9b4aa04d5f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_4829597daa40",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "for what purpose does the gentlemen from missouri rise without objection gentleman's recognized",
+ "est_chars": 95,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 232844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608447
+}

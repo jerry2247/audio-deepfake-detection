@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_97f4397c2381fc3b",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_f2ac57921b2d",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so if you get ones that are underripe in there i mean the main issue i think would be that the acid it would keep pushing the acid low because we're always fighting kind of borderline high acid levels so we want to do whatever we can to keep that under any kind of threshold",
+ "est_chars": 274,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 823244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}

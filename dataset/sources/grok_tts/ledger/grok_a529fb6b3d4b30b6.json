@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a529fb6b3d4b30b6",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_80e6623af295",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>At the end of the season, he played in the Florida Instructional League.</whisper>",
+ "est_chars": 91,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 221324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608502
+}

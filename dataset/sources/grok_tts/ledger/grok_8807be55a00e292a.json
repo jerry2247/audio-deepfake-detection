@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8807be55a00e292a",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_ff7c2686384a",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "very inclusive program a very inclusive process we here indeed we we are in unison we want to boost economic growth we want to go towards a different sustainable social model we want to",
+ "est_chars": 185,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 671564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608499
+}

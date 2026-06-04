@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_156abb910f019626",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_4bfc1f6cfb4f",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Support services such as hospitals were non-existent.",
+ "est_chars": 53,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 155084,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608485
+}

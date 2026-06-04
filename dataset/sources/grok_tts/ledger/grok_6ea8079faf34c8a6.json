@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6ea8079faf34c8a6",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_b31e770586bf",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "we need to focus on deepening and strengthening the internal market to make sure that all single market strategies are completed by two thousand and eighteen especially of course the digital single market.",
+ "est_chars": 205,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 532364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608340
+}

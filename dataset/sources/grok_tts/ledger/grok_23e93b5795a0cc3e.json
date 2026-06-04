@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_23e93b5795a0cc3e",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_15691778d8e5",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "His two eldest sons were killed in action in the Second World War.",
+ "est_chars": 66,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 176204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608361
+}

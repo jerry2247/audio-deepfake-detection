@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_93604a846748fe11",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_90ef7a3c3384",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The specific epithet crenata also comes from Latin and means \"notched\".",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608206
+}

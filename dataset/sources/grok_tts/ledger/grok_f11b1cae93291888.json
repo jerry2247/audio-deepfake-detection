@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f11b1cae93291888",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_caf355051387",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i'd like to go up to the first item where we had an objective",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 153164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608269
+}

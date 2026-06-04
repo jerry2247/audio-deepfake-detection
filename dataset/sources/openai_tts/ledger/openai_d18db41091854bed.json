@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_d18db41091854bed",
+ "provider": "openai",
+ "voice": "marin",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "h_emilia_5eaf3be9665e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "There can be many different answers to prayer, just as there are many ways to interpret an answer to a question if there in fact comes an answer",
+ "est_chars": 144,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 384044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608261
+}

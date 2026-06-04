@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_824dba665e0a7016",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_voxpopuli_6a490218956b",
+ "register": "formal",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "thank you modern president i assume the nowadays behavior of actually is one be any limits",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 355244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608259
+}

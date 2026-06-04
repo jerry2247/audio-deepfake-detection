@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_eb792ea4d6fbe1f4",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_061c6e9856e3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "be your balance or hanging on tight or what's the secret well like you're turning to one side and want to turn to the other side and hold on really tight to the rope",
+ "est_chars": 165,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 502604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608353
+}

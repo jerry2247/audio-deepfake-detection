@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5536365aeb108aa7",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_bbf3db29495b",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Helpem Fren means \"help a friend\" in Solomon Islands Pidgin.</whisper>",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 196364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608517
+}

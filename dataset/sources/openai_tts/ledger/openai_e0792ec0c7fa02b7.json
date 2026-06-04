@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e0792ec0c7fa02b7",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_1ce5d14b9ee6",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "The bed of this river is mostly made up of pebbles and pebbles.",
+ "est_chars": 63,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 213644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608197
+}

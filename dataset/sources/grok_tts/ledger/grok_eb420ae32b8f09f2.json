@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_eb420ae32b8f09f2",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0c129c24d290",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "we have right now an opportunity with the state they're going to give us an eighty million state grant to build this school",
+ "est_chars": 123,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 305804,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608443
+}

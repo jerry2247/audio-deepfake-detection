@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5edc94710fb1159e",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_07b73e4319ed",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Self-confidence seemed to ooze from the fellow's every pore.",
+ "est_chars": 60,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 200444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608211
+}

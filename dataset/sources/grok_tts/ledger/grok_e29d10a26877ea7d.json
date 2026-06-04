@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e29d10a26877ea7d",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5ffac4c6f617",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "There was a movie that came out in the 60s only to be remade 40 years later. And that's why... Put it on the screen, Bruxy. The Denver Broncos are... OCEANS 11!",
+ "est_chars": 160,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 474764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608266
+}

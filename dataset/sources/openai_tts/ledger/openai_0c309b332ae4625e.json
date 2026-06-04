@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0c309b332ae4625e",
+ "provider": "openai",
+ "voice": "coral",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d633906c6318",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and tacking your client's possession and control of the property along with their predecessors it's more than sixty years it's in excess of sixty years",
+ "est_chars": 151,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 484844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608188
+}

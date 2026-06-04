@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_28fa143850215e94",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_564a0dafbf20",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The chairman also has a seat in the university's Board of Governors.",
+ "est_chars": 68,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 166604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608429
+}

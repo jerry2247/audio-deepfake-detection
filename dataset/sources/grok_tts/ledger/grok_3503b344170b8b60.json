@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3503b344170b8b60",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_e4743b31da81",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Locked by the wall. Trying to kick it again. Back to defenders. Three defenders there. Punches it up. Made feel. Kicked out quickly.",
+ "est_chars": 132,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 403724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608374
+}

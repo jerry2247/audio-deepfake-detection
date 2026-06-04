@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0af18dfa20a96041",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "support",
+ "language": "en",
+ "text_id": "h_peoples_speech_483b0a61e998",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "and by the time the second suit happened we had the declaration of greenspun basically saying everything is present in there but what enablement and sets that out and that is sap then doing",
+ "est_chars": 189,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 672044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608193
+}

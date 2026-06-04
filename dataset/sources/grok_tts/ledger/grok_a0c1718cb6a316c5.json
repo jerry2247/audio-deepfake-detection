@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a0c1718cb6a316c5",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_769fc6cbad90",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He graduated as one of the top students in his class.",
+ "est_chars": 53,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 139724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

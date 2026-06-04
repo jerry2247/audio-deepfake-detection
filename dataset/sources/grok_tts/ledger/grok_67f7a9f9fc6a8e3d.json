@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_67f7a9f9fc6a8e3d",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_ba5d917deeb1",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and i do think if my memory's even in the ballpark we need to pass something",
+ "est_chars": 76,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 224204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608393
+}

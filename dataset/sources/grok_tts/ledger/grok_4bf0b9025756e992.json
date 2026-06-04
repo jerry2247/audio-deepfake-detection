@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4bf0b9025756e992",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_1db4751e097a",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "it's a huge chunk above you know what ours is in the eleven million",
+ "est_chars": 67,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 177164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

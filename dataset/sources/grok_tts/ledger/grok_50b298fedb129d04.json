@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_50b298fedb129d04",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_09f11ac1b20c",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "There was also an increased focus on monastic institutions in Nyingma.",
+ "est_chars": 70,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 208844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608397
+}

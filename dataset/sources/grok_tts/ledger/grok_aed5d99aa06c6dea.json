@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_aed5d99aa06c6dea",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_a5027f83c22e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It's saying, God, I'm so glad you came down on Mount Sinai and made known your Sabbath.",
+ "est_chars": 87,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 270284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608446
+}

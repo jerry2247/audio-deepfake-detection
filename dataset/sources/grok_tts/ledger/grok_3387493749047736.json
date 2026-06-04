@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3387493749047736",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_3a9a37732e84",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "The economy is primarily based on coconut husking and farming.",
+ "est_chars": 62,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 217244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608451
+}

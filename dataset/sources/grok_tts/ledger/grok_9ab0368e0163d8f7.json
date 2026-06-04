@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9ab0368e0163d8f7",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_218edd29d15b",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And 21 million videos have been downloaded and distributed and watched.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 218444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608514
+}

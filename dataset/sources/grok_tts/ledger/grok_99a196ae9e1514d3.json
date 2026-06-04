@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_99a196ae9e1514d3",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3ac15d65a0b2",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "He's a regular and he's connected, but then I expect you knew that much already.",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 198284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608262
+}

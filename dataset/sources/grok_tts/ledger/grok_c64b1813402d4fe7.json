@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_c64b1813402d4fe7",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_8f991be347ea",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "After Mumbai it also break all records of Bhojpuri box office in Bihar.",
+ "est_chars": 71,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 225164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608385
+}

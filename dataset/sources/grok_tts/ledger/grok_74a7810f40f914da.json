@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_74a7810f40f914da",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "pitch_high",
+ "language": "en",
+ "text_id": "cur_twi_005",
+ "register": "dense",
+ "speed": "",
+ "instructions": "",
+ "text": "<pitch_high>Brisk brave brigadiers brandished broad bright blades, blunderbusses, and bludgeons.</pitch_high>",
+ "est_chars": 109,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 231884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608500
+}

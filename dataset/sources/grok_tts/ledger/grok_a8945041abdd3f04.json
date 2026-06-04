@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a8945041abdd3f04",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_ac913e486875",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "That is a very valuable part of education that a lot of people do not take into consideration. It's not just about the grades. It's not just about",
+ "est_chars": 146,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 450764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

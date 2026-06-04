@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4c894f73b06fcd15",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_e002a4d73dc6",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i would do it exactly the same way and that is because these panels are designed to address issues relative to our rulemaking that sets a standard or establishes a requirement on a business sector a small business entity",
+ "est_chars": 220,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 647564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

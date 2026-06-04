@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_6823d135101ddc1f",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_f4aaca62d05d",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "A realisation hits and he exclaims, I see!",
+ "est_chars": 42,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 196844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608259
+}

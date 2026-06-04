@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3c099a606cba1558",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_7d158323e205",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "of course it is for the israeli people their political leaders to decide on the composition of their new government.",
+ "est_chars": 116,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 301964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608255
+}

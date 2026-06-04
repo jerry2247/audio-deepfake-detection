@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_8155f58c8f313d1b",
+ "provider": "openai",
+ "voice": "cedar",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_cc3fba0a72ec",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "And I think to avoid that such a project get easily shut down, you need to build it really censorship resistant. And to get censorship resistant, you need decentralization.",
+ "est_chars": 172,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 429644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608233
+}

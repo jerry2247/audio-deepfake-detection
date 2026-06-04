@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_658050531a41fcec",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d6bad3a95d55",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "is it crucial to expand support and services for seniors there were over fifty people in attendance",
+ "est_chars": 99,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 277964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608242
+}

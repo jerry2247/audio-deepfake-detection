@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_f9bdbe5d3134cf88",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ab125abfee52",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The internal walls are then removed thus forming a reservoir.",
+ "est_chars": 61,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 191564,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608424
+}

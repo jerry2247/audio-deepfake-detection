@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e1ecf851e99c959e",
+ "provider": "openai",
+ "voice": "verse",
+ "mode": "excited",
+ "language": "en",
+ "text_id": "cur_sho_008",
+ "register": "shout",
+ "speed": "",
+ "instructions": "Speak with excited, fast-paced energy, like sharing thrilling news.",
+ "text": "Hey! That's my bike! Somebody stop that guy!",
+ "est_chars": 44,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

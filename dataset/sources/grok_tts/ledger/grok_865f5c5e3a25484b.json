@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_865f5c5e3a25484b",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_2bbf437012db",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "100, it's a 50-50 job as far as the relationship working. That don't mean we spend the cable bill, but that means we both got to put in an equal amount to make this relationship work.",
+ "est_chars": 183,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 512204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608387
+}

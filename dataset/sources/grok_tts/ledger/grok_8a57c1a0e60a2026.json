@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_8a57c1a0e60a2026",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_c0fd46532aed",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "With this comes a question of what specific summary statistics do we need to visualize? We will explore that in the coming slides.",
+ "est_chars": 130,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 372044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608413
+}

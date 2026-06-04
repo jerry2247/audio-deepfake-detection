@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_cc078dbcdffb42f5",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "cur_dis_007",
+ "register": "disfluent",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "We should probably, I don't know, maybe ask someone who actually, like, knows tax law?",
+ "est_chars": 86,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 196474,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608286
+}

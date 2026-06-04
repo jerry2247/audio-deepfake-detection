@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5f101fd13f6e74c2",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_8f977ca57037",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "while i respect one country two systems' i find it shocking that a country run by a communist party appears to be advocating a system which gives representation only to those with wealth and privilege.",
+ "est_chars": 201,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 572684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608334
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_c0c17d7547481172",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_fd9c0fc7f90c",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "And it makes you feel as if you are The Darkness itself.",
+ "est_chars": 56,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 228044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608217
+}

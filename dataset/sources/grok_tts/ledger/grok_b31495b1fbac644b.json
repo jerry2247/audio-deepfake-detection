@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b31495b1fbac644b",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_f731cad2a5b9",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>To find out the exact threshold, we need to repeat this in a reproducible manner.</whisper>",
+ "est_chars": 100,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 235724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608319
+}

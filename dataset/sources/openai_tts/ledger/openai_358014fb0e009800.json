@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_358014fb0e009800",
+ "provider": "openai",
+ "voice": "onyx",
+ "mode": "support",
+ "language": "en",
+ "text_id": "cur_num_017",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "Sound like a cheerful, friendly customer support agent.",
+ "text": "GDP contracted 0.3 percent in Q4, while unemployment held at 4.1 percent.",
+ "est_chars": 73,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 302444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608231
+}

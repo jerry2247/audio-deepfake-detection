@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_a16141d76a288efc",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "storyteller",
+ "language": "en",
+ "text_id": "h_common_voice_421af521c199",
+ "register": "read",
+ "speed": "",
+ "instructions": "Use a warm, slow, expressive storytelling voice.",
+ "text": "One of Jackson's main arguments against the bill was the project's provincial nature.",
+ "est_chars": 85,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 278444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608218
+}

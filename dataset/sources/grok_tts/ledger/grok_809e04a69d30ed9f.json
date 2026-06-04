@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_809e04a69d30ed9f",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_da6f4f8bdf14",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "as you know that mayor proposed presented his proposed two thousand and thirteen budget yesterday and everybody has a package",
+ "est_chars": 125,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 345164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608395
+}

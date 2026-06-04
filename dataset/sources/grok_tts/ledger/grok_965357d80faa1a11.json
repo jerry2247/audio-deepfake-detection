@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_965357d80faa1a11",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_6f1398a3a39f",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Suicide, then, also must be rejected: without man, the absurd cannot exist.",
+ "est_chars": 75,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 322844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608305
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_14c12e926f08d3ee",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_caf3e1287da6",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It's certainly before you reach age 20, so it's at least a decade since she's talked to this woman, to any of these women.",
+ "est_chars": 122,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 295244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608479
+}

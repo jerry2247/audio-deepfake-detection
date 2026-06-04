@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4633ee640a2f2d4c",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "fast",
+ "language": "en",
+ "text_id": "h_emilia_526a11446168",
+ "register": "conversational",
+ "speed": "1.3",
+ "instructions": "",
+ "text": "Likewise the angel Moroni first lived in a pre-Columbian American civilization as the 5th century prophet warrior named Moroni",
+ "est_chars": 126,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 328660,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608404
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_3fb7d81419d85d1e",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_db979862a140",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>Every generation has \"fought for freedom and equality\".</whisper>",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 175244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608240
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a084cd797239904e",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_0b88942c85d2",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "could you add that we're also agreeing to pay six hundred and forty for services outstanding and additional six hundred and forty for services outstanding",
+ "est_chars": 154,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 388364,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608483
+}

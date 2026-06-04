@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_575e823d21f33721",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_6cd679da4ae9",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Its territory is now in western Croatia.",
+ "est_chars": 40,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 162044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607416
+}

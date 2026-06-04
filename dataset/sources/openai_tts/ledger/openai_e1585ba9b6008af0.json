@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e1585ba9b6008af0",
+ "provider": "openai",
+ "voice": "ash",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_676c8d67e8f9",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "That they are undoubtedly far older than this. As to state that they were somehow cut by people with literally no tools to their disposal to us seems laughable.",
+ "est_chars": 160,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 537644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608227
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a299adcca4d28b02",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_a6afa91719df",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "so i'd like to see maybe at some point we can talk to the county in a partnership you pay towards it with the county to try to combine or maybe have this facility replaced",
+ "est_chars": 171,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 490124,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608346
+}

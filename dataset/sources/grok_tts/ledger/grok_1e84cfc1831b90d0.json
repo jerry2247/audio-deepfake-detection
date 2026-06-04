@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1e84cfc1831b90d0",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_28756542da2f",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "On 28 March 2009, Thai Airways discontinued all domestic flights from Don Muang",
+ "est_chars": 79,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 310604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608415
+}

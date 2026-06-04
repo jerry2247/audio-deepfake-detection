@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6dfc774096e66d58",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_f45a8c6b17bd",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "The crucial taboo against the killing of women and children was breached not only in Bialystok, but also in Gargsdai in late June",
+ "est_chars": 129,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 363404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608447
+}

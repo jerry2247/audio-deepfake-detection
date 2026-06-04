@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_1605e65eb290a917",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_33c1ebab2d30",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The relationship between Janet and Arthur results in her becoming pregnant.</whisper>",
+ "est_chars": 94,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 229964,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608452
+}

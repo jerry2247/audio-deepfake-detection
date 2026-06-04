@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_01272e391b3e7b38",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_f74d2005e4aa",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "We totally can do it. I think the students would love it. Uh, first gen, let's, hey, if you're serious, Katie, uh, first gen week is the week of November 8th. There's something during that week, as we can tell you.",
+ "est_chars": 214,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 571724,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608374
+}

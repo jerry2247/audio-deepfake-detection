@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_addb68c7ec509540",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_7fc7cd49a6a6",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "The Slavic immigrants came to Bohemia with excellent cigar-making skills.",
+ "est_chars": 73,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 207884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608410
+}

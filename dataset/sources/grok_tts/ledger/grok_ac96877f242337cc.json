@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_ac96877f242337cc",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_be2ca60bd90f",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Related to other species of Mediterranean firs, it is considered the \"Andalusian National Tree\".",
+ "est_chars": 96,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 338444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608518
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2665d5a23236de54",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_16c5fcabe772",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Uhm, and just to set Menti up a couple of quick notes, it may be best to use a separate browser or device. Uhm, you could use your phone or your tablet.",
+ "est_chars": 152,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 447884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608502
+}

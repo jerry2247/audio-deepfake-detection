@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_759eca1aa11f294c",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_3050a47e6168",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "It was subsequently purchased by Joseph Medill Patterson and Robert McCormick.",
+ "est_chars": 78,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 242444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608250
+}

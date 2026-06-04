@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_5400d1a3e2b09561",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_b3c3997ba429",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the state asked him asked the complainant some very vague questions and there was a flurry of dates and allegations that tie him to specific dates to the indictment",
+ "est_chars": 164,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 556844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608256
+}

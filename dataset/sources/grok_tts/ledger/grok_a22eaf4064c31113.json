@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a22eaf4064c31113",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_ea860e79b751",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "It's very simple. Quick question is this. Compare a fantasy player to a blockbuster movie.",
+ "est_chars": 90,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 269324,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608345
+}

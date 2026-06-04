@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_f4f45a755d5923d8",
+ "provider": "openai",
+ "voice": "sage",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_1fe19196e3b4",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Translations by Bhikkhu Bodhi of the Samyutta Nikaya and the Anguttara Nikaya were published by Wisdom Publications in 2003 and 2012, respectively",
+ "est_chars": 146,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 679244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608186
+}

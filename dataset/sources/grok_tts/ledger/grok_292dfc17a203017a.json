@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_292dfc17a203017a",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_31ffdc9912fa",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "this sort of industrial farming is only sustained by ever more use of antibiotics unnatural for the animal victims injurious to human health the by products polluting the land and the air.",
+ "est_chars": 188,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 552524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608206
+}

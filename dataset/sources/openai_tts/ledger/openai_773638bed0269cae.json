@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_773638bed0269cae",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "tired",
+ "language": "en",
+ "text_id": "h_emilia_c99092c9053c",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "Sound exhausted and flat, with low energy and frequent small pauses.",
+ "text": "Yeah, let's do that. Let's put Happy New Year's here. Not gonna hurt anything, right?",
+ "est_chars": 85,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 372044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608253
+}

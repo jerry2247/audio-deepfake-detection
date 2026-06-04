@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_93fb406af0889b63",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_19c572ef30bd",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Mangum started his collegiate career at Ole Miss before transferring to Southern Mississippi.",
+ "est_chars": 93,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 237644,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608407
+}

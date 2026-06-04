@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_be2c016d373a8ed0",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "cur_num_007",
+ "register": "numbers",
+ "speed": "",
+ "instructions": "",
+ "text": "The recipe calls for 350 grams of flour, 2 teaspoons of baking soda, and 175 milliliters of milk.",
+ "est_chars": 97,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 374924,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608498
+}

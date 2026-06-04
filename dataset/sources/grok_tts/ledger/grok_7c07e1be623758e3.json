@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7c07e1be623758e3",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_5a9356b1ee0a",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Niels Bohr Institute N. Niels Bohr Institut at DK Dark Cosmology Center N Discovery Center N",
+ "est_chars": 92,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 378764,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608497
+}

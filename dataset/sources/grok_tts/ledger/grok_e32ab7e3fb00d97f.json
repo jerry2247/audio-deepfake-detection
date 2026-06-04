@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e32ab7e3fb00d97f",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_2f6f67627943",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Dolly was the first clone produced from a cell taken from an adult mammal.",
+ "est_chars": 74,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 184844,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608400
+}

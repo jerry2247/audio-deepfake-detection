@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_65ee2dbe27e9af92",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_1e3d6cf9c1e0",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The proposal came under criticism of European Federation of Journalists, and Russian government.</whisper>",
+ "est_chars": 115,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 262604,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608354
+}

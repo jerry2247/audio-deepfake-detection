@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_6e56539ea09f1678",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d3507722bcf3",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "i asked i have on my right dana leavitt who's the assistant director of the senior center and to her right is social work intern named deborah sarah",
+ "est_chars": 148,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 456524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608462
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0a60dd4486bdfa7d",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d090cf0a8c89",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "this piece here parcel three hundred and eight will be purchased by pt land company from the anthony estate and it will be consumed by phase two lots and public improvements",
+ "est_chars": 173,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 524684,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608300
+}

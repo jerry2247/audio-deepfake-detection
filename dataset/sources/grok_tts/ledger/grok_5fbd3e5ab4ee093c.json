@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_5fbd3e5ab4ee093c",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "cur_whi_006",
+ "register": "whisper",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>The library closes in ten minutes. We need to find that reference now.</whisper>",
+ "est_chars": 89,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 241484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608228
+}

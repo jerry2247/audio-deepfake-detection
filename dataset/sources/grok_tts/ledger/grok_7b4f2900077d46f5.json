@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_7b4f2900077d46f5",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_09d9554c7b0e",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Sinkings of German U-boats at the hands of Allied forces during this time included",
+ "est_chars": 82,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 231884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608521
+}

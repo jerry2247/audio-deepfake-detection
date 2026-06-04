@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_0ff8af93fd2f7791",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_61db5b49cb30",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Three for a dime, the young peddler cried.",
+ "est_chars": 42,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 135884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608356
+}

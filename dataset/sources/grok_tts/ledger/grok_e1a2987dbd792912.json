@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_e1a2987dbd792912",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_ce0f3d2fdb50",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Seth continues to deteriorate, losing body parts and becoming less human in appearance.",
+ "est_chars": 87,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 248204,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608343
+}

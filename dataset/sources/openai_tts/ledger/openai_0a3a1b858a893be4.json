@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_0a3a1b858a893be4",
+ "provider": "openai",
+ "voice": "alloy",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_fcce10d441ff",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Phelps also swam competitively for Club Wolverine, a swimming club associated with the university.",
+ "est_chars": 98,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 302444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608199
+}

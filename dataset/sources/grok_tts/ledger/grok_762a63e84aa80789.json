@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_762a63e84aa80789",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_d633906c6318",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "and tacking your client's possession and control of the property along with their predecessors it's more than sixty years it's in excess of sixty years",
+ "est_chars": 151,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 399884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608513
+}

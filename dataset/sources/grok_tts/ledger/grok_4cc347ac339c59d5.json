@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_4cc347ac339c59d5",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_c1a3610f7516",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Sam provides support to Andrew when he suffers from shell shock in \"Enemy Fire\".",
+ "est_chars": 80,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 216524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608239
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_65cde39b22a74c02",
+ "provider": "grok",
+ "voice": "leo",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_458ba382f1c1",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Look, you really need to sort yourself out.",
+ "est_chars": 43,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 132044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608456
+}

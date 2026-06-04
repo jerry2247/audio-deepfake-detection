@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_90dd966136be2442",
+ "provider": "grok",
+ "voice": "sal",
+ "mode": "whisper",
+ "language": "en",
+ "text_id": "h_common_voice_956fbca09122",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "<whisper>It was created specifically for Eddie Bauer.</whisper>",
+ "est_chars": 63,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 121484,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608509
+}

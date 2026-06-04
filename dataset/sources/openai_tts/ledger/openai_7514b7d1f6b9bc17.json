@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7514b7d1f6b9bc17",
+ "provider": "openai",
+ "voice": "nova",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_73acacdea572",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "man is seen as a creature who is harmful to the environment without making a beneficial contribution.",
+ "est_chars": 101,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 266444,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608203
+}

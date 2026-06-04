@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_aa2c0b701c5bef87",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_d70e633b2778",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "i believe his remarks were explicitly racist and xenophobic and promoted racial intolerance in a way that is not acceptable or allowed in the constitution of this house.",
+ "est_chars": 169,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 444044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608440
+}

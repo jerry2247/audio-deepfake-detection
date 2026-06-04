@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_a1782a632e4c72aa",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_06d6adb5c440",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Then seek, tell and read and do random access of IO, so they can go into a particular sector and then read from there, uh, things like that.",
+ "est_chars": 140,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 441164,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608336
+}

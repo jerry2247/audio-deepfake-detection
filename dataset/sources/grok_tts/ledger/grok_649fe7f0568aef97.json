@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_649fe7f0568aef97",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5fda30e36a70",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "your question is fully justified. this is exactly the question i am asking the danish presidency because the danish presidency is leading these talks and it must know for what reasons those countries are objecting.",
+ "est_chars": 214,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 552524,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608380
+}

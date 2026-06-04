@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_7ea4546901a930af",
+ "provider": "openai",
+ "voice": "shimmer",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_voxpopuli_5f9f7bcedea5",
+ "register": "formal",
+ "speed": "",
+ "instructions": "",
+ "text": "because the reenergize re energizing of accession is going nowhere there is no perspective",
+ "est_chars": 90,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 331244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608204
+}

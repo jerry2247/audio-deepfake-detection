@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_99560328bb0d25f2",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "slow",
+ "language": "en",
+ "text_id": "h_common_voice_31c3f70c93a2",
+ "register": "read",
+ "speed": "0.8",
+ "instructions": "",
+ "text": "Francis was later fined by the club and the Football Association for his actions.",
+ "est_chars": 81,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 258044,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608418
+}

@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_2c236a3b252c5051",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_common_voice_1e6c1c046086",
+ "register": "read",
+ "speed": "",
+ "instructions": "",
+ "text": "Ninety five lines and no more, that's it.",
+ "est_chars": 41,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 135884,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780607417
+}

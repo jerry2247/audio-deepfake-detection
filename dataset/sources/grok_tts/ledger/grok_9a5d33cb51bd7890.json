@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_9a5d33cb51bd7890",
+ "provider": "grok",
+ "voice": "ara",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_emilia_1320c13cd317",
+ "register": "conversational",
+ "speed": "",
+ "instructions": "",
+ "text": "Russia, 80 MW, Lopburi Solar Farm, Thailand 73.16 MW, Rovigo Photovoltaic Power Plant, Italy, 72 MW, and the Liberos Photovoltaic Park, Germany, 71.8 MW.There are also many large plants under construction.",
+ "est_chars": 205,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 847244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608258
+}

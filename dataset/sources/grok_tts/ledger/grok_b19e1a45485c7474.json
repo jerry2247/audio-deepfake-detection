@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_b19e1a45485c7474",
+ "provider": "grok",
+ "voice": "eve",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_19cabb543ba4",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "the impact is that historic properties and archives of documents and objects are key to our community's identities",
+ "est_chars": 114,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 318284,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608470
+}

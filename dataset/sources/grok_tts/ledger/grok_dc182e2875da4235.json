@@ -1,0 +1,18 @@
+{
+ "request_id": "grok_dc182e2875da4235",
+ "provider": "grok",
+ "voice": "rex",
+ "mode": "neutral",
+ "language": "en",
+ "text_id": "h_peoples_speech_501be678e779",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "",
+ "text": "coaxial cable like this has already crisscrossed the country pushed past some of our last frontiers guided by a 20th century type of pioneer who swapped his covered wagon and team of oxen for a diesel power and cable plow and left in his wake not a wagon trail but a network of electronic highways",
+ "est_chars": 297,
+ "model": "grok-tts (resolved server-side)",
+ "bytes": 867404,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608237
+}

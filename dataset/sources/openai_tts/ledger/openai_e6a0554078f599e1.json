@@ -1,0 +1,18 @@
+{
+ "request_id": "openai_e6a0554078f599e1",
+ "provider": "openai",
+ "voice": "ballad",
+ "mode": "anchor",
+ "language": "en",
+ "text_id": "h_peoples_speech_580d5311b8f8",
+ "register": "procedural",
+ "speed": "",
+ "instructions": "Deliver this as a composed, professional news anchor.",
+ "text": "well i did not object to any of the exhibits that he submitted to the court",
+ "est_chars": 75,
+ "model": "gpt-4o-mini-tts",
+ "bytes": 271244,
+ "audio_check": "ok",
+ "attempts": 1,
+ "completed_unix": 1780608243
+}
