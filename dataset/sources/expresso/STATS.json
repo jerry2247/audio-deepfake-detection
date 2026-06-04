@@ -1,0 +1,24 @@
+{
+  "source": "expresso",
+  "clips": 392,
+  "hours": 0.4,
+  "by_label": {
+    "real": 392
+  },
+  "by_language": {
+    "en": 392
+  },
+  "by_generator": {
+    "human": 392
+  },
+  "skipped": {
+    "invalid:duration": 60,
+    "speaker_cap": 2908
+  },
+  "by_speaker": {
+    "ex04": 115,
+    "ex02": 115,
+    "ex03": 115,
+    "ex01": 47
+  }
+}

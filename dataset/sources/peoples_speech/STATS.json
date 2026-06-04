@@ -1,0 +1,19 @@
+{
+  "source": "peoples_speech",
+  "clips": 755,
+  "hours": 1.58,
+  "by_label": {
+    "real": 755
+  },
+  "by_language": {
+    "en": 755
+  },
+  "by_generator": {
+    "human": 755
+  },
+  "skipped": {
+    "invalid:duration": 145,
+    "recording_cap": 7100
+  },
+  "distinct_recordings": 31
+}

@@ -1,0 +1,17 @@
+{
+  "source": "common_voice",
+  "clips": 1100,
+  "hours": 1.81,
+  "by_label": {
+    "real": 1100
+  },
+  "by_language": {
+    "en": 1100
+  },
+  "by_generator": {
+    "human": 1100
+  },
+  "skipped": {
+    "invalid:duration": 1
+  }
+}

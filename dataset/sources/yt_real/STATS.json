@@ -1,0 +1,56 @@
+{
+  "source": "yt_real",
+  "clips": 817,
+  "hours": 2.14,
+  "by_label": {
+    "real": 817
+  },
+  "by_language": {
+    "en": 817
+  },
+  "by_generator": {
+    "human": 817
+  },
+  "skipped": {},
+  "target": 1500,
+  "videos": 2,
+  "per_video": {
+    "Comp1": {
+      "minutes": 62.5,
+      "speech_pct": 81.6,
+      "candidates": 342,
+      "qc_rejected": {
+        "qc_beat": 1,
+        "qc_tone": 1
+      },
+      "quota": 342,
+      "staged": 342
+    },
+    "Comp2": {
+      "minutes": 80.0,
+      "speech_pct": 85.8,
+      "candidates": 475,
+      "qc_rejected": {
+        "qc_beat": 11,
+        "qc_tone": 0
+      },
+      "quota": 475,
+      "staged": 475
+    }
+  },
+  "segmentation": {
+    "analysis_sr": 16000,
+    "frame_s": 0.03,
+    "base_silence_db": -45.0,
+    "pause_min_s": 0.3,
+    "min_clip_s": 4.0,
+    "max_clip_s": 12.0,
+    "split_search_from": 0.6,
+    "min_speech_fraction": 0.55,
+    "min_voiced_margin_db": 15.0,
+    "head_skip_s": 60.0,
+    "tail_skip_s": 30.0,
+    "max_beat_strength": 0.55,
+    "max_tone_fraction": 0.1
+  }
+}

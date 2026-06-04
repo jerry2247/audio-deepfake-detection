@@ -1,0 +1,18 @@
+{
+  "source": "emilia",
+  "clips": 350,
+  "hours": 1.0,
+  "by_label": {
+    "real": 350
+  },
+  "by_language": {
+    "en": 350
+  },
+  "by_generator": {
+    "human": 350
+  },
+  "skipped": {
+    "low_dnsmos": 81,
+    "duration_window": 47
+  }
+}

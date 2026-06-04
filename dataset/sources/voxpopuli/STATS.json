@@ -1,0 +1,17 @@
+{
+  "source": "voxpopuli",
+  "clips": 700,
+  "hours": 1.88,
+  "by_label": {
+    "real": 700
+  },
+  "by_language": {
+    "en": 700
+  },
+  "by_generator": {
+    "human": 700
+  },
+  "skipped": {
+    "invalid:duration": 28
+  }
+}

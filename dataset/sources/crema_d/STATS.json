@@ -1,0 +1,17 @@
+{
+  "source": "crema_d",
+  "clips": 631,
+  "hours": 0.45,
+  "by_label": {
+    "real": 631
+  },
+  "by_language": {
+    "en": 631
+  },
+  "by_generator": {
+    "human": 631
+  },
+  "skipped": {
+    "invalid:duration": 19
+  }
+}
