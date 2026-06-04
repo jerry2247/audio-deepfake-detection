@@ -1,0 +1,31 @@
+{
+  "cache_dir": "training/asr_logmel_encoder/feature_cache",
+  "display_name": "Whisper-base encoder",
+  "feature_config": {
+    "feature": "per-layer padding-aware encoder mean and standard deviation",
+    "feature_shape": [
+      7,
+      1024
+    ],
+    "head": "learned softmax layer weighting over cached per-layer statistics, MLP logit",
+    "model_id": "openai/whisper-base",
+    "sample_rate": 16000
+  },
+  "frozen_backbone": "openai/whisper-base",
+  "method": "asr_logmel_encoder",
+  "train_config": {
+    "batch_size": 8,
+    "cache_root": "training",
+    "dataset_root": "dataset",
+    "device": "auto",
+    "epochs": 20,
+    "learning_rate": 0.0003,
+    "num_workers": 0,
+    "output_root": "final_models",
+    "patience": 5,
+    "print_progress": true,
+    "seed": 153,
+    "use_amp": true,
+    "weight_decay": 0.0001
+  }
+}

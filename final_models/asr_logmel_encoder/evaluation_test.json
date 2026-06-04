@@ -1,0 +1,9 @@
+{
+  "method": "asr_logmel_encoder",
+  "metrics": {
+    "accuracy_at_0_5": 0.9365342259407043,
+    "eer": 0.05629139021039009,
+    "loss": 0.17676477134227753
+  },
+  "split": "test"
+}
