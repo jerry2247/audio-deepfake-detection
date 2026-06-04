@@ -42,6 +42,25 @@ class TrainConfig:
     seed: int = 153
     use_amp: bool = True
     print_progress: bool = True
+    device: str = "auto"
+
+
+def resolve_device(preference: str = "auto") -> torch.device:
+    """Resolve the compute device. "auto" prefers CUDA, then CPU. Apple MPS is
+    honored only on explicit request: a verification run measured 35 percent
+    relative drift between MPS and CPU Whisper-encoder features, so MPS output
+    is not treated as equivalent and never enters a cache silently."""
+    if preference == "auto":
+        if torch.cuda.is_available():
+            return torch.device("cuda")
+        return torch.device("cpu")
+    if preference == "cuda" and not torch.cuda.is_available():
+        raise RuntimeError("CUDA requested but not available")
+    if preference == "mps" and not torch.backends.mps.is_available():
+        raise RuntimeError("MPS requested but not available")
+    if preference not in {"cuda", "mps", "cpu"}:
+        raise ValueError(f"invalid device preference {preference!r}")
+    return torch.device(preference)
 
 
 def set_seed(seed: int) -> None:
@@ -135,7 +154,7 @@ def extract_feature_cache(
 ) -> dict[str, Any]:
     set_seed(config.seed)
     loaders = {split: build_split_loader(config, split, shuffle=False) for split in splits}
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = resolve_device(config.device)
     extractor = build_feature_extractor(method, device).to(device)
     spec = get_method_spec(method)
     extraction_summary: dict[str, Any] = {
@@ -262,7 +281,11 @@ def evaluate_head(head: nn.Module, loader: DataLoader, device: torch.device) -> 
             labels_list.append(labels.detach().cpu())
     logits_all = torch.cat(logits_list)
     labels_all = torch.cat(labels_list)
+    loss = nn.functional.binary_cross_entropy_with_logits(
+        logits_all.float(), labels_all.float()
+    )
     return {
+        "loss": float(loss.item()),
         "eer": equal_error_rate(logits_all, labels_all),
         "accuracy_at_0_5": binary_accuracy(logits_all, labels_all),
     }
@@ -270,7 +293,7 @@ def evaluate_head(head: nn.Module, loader: DataLoader, device: torch.device) -> 
 
 def fit_detector(method: str, config: TrainConfig) -> dict[str, Any]:
     set_seed(config.seed)
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = resolve_device(config.device)
     train_loader, val_loader, test_loader = build_cache_loaders(config, method)
     head = build_head(method).to(device)
 
@@ -311,7 +334,13 @@ def fit_detector(method: str, config: TrainConfig) -> dict[str, Any]:
 
         val_metrics = evaluate_head(head, val_loader, device)
         train_loss = running_loss / max(seen, 1)
-        row = {"epoch": float(epoch), "train_loss": train_loss, **val_metrics}
+        row = {
+            "epoch": float(epoch),
+            "train_loss": train_loss,
+            "val_loss": val_metrics["loss"],
+            "val_eer": val_metrics["eer"],
+            "val_accuracy_at_0_5": val_metrics["accuracy_at_0_5"],
+        }
         history.append(row)
         if config.print_progress:
             print(
@@ -320,6 +349,7 @@ def fit_detector(method: str, config: TrainConfig) -> dict[str, Any]:
                         f"method={method}",
                         f"epoch={epoch}",
                         f"train_loss={train_loss:.6f}",
+                        f"val_loss={val_metrics['loss']:.6f}",
                         f"val_eer={val_metrics['eer']:.6f}",
                         f"val_accuracy_at_0_5={val_metrics['accuracy_at_0_5']:.6f}",
                     ]
@@ -344,14 +374,23 @@ def fit_detector(method: str, config: TrainConfig) -> dict[str, Any]:
     if best_state is None:
         raise RuntimeError("training did not produce a validation-selected head")
     head.load_state_dict(best_state)
-    test_metrics = evaluate_head(head, test_loader, device)
+    # Final report: the validation-selected head is evaluated once on every
+    # split (train without shuffling), so loss, EER, and accuracy are usable
+    # side by side. Test plays no role in selection.
+    selected_head_metrics = {
+        "train": evaluate_head(
+            head, build_cache_loader(config, method, "train", shuffle=False), device
+        ),
+        "val": evaluate_head(head, val_loader, device),
+        "test": evaluate_head(head, test_loader, device),
+    }
 
     spec = get_method_spec(method)
     output_dir = final_output_dir(config.output_root, spec)
     metrics = {
         "best_epoch": best_epoch,
         "best_val_eer": best_val_eer,
-        "test": test_metrics,
+        "selected_head": selected_head_metrics,
         "history": history,
     }
     save_detector_artifacts(
@@ -380,7 +419,7 @@ def evaluate_saved_detector(
     if split not in {"train", "val", "test"}:
         raise ValueError("split must be one of train, val, test")
     set_seed(config.seed)
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = resolve_device(config.device)
     loader = build_cache_loader(config, method, split, shuffle=False)
     head = build_head(method).to(device)
 

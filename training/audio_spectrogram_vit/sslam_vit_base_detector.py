@@ -82,6 +82,9 @@ class SSLAMViTBaseDetector(nn.Module):
         self.head = build_head()
 
     def _fbank_one(self, waveform: torch.Tensor) -> torch.Tensor:
+        # Kaldi-compatible fbank is CPU-only in torchaudio; compute on CPU and
+        # let _prepare_mel move the stacked batch back to the model device.
+        waveform = waveform.detach().cpu()
         waveform = waveform - waveform.mean()
         mel = torchaudio.compliance.kaldi.fbank(
             waveform.unsqueeze(0),
@@ -108,7 +111,7 @@ class SSLAMViTBaseDetector(nn.Module):
             self._fbank_one(waveforms[index, : int(lengths[index].item())])
             for index in range(waveforms.shape[0])
         ]
-        return torch.stack(mels, dim=0).unsqueeze(1)
+        return torch.stack(mels, dim=0).unsqueeze(1).to(waveforms.device)
 
     def extract_features(self, batch: dict[str, Any]) -> torch.Tensor:
         mel = self._prepare_mel(batch)

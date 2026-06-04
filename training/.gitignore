@@ -1,3 +1,9 @@
-*/feature_cache/
 __pycache__/
 */__pycache__/
+# Derived feature caches are not tracked, with one exception: the
+# asr_logmel_encoder cache is committed by project decision, so detector-head
+# experiments are reproducible without re-running the frozen backbone.
+waveform_ssl/feature_cache/
+audio_spectrogram_vit/feature_cache/
+vision_spectrogram_vit/feature_cache/
+!asr_logmel_encoder/feature_cache/**

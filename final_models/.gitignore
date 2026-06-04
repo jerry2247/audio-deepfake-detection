@@ -1,0 +1,3 @@
+# The selected detector head is a project deliverable and is tracked here,
+# overriding the repository-wide model-weights exclusion.
+!detector_head.pt

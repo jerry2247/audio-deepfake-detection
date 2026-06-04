@@ -104,9 +104,11 @@ def main():
         if r is None:
             continue
         split = arow["split"]
-        clip_id = "clip_" + hashlib.md5(
-            f"{r['source']}|{r['utterance_id']}|{r['segment_index']}".encode()
-        ).hexdigest()
+        # cond_path is unique per conditioned segment by construction, so the
+        # minted id cannot collide. Utterance ids are NOT collision-safe:
+        # peoples_speech truncates long recording ids at staging, which made
+        # distinct clips share an id in the first v1.0 build attempt.
+        clip_id = "clip_" + hashlib.md5(arow["cond_path"].encode()).hexdigest()
         label = r["label"]
         rel = f"audio/{split}/{label}/{clip_id}.wav"
         is_itw = "in_the_wild" in (r.get("notes") or "")
@@ -155,6 +157,12 @@ def main():
                 (WORK / "conditioning_summary.json").read_text())["conditioning_version"],
             "_src": str(WORK / "conditioned" / r["cond_path"]),
         })
+    # hard guard: refuse to write anything if minted ids or paths collide
+    ids = [row["clip_id"] for row in out_rows]
+    paths = [row["path"] for row in out_rows]
+    if len(set(ids)) != len(ids) or len(set(paths)) != len(paths):
+        sys.exit("REFUSED: minted clip_ids or paths are not unique; "
+                 "nothing was written")
     # write audio tree
     for row in out_rows:
         dst = DATASET_ROOT / row["path"]

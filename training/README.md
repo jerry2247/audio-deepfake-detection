@@ -49,14 +49,26 @@ This writes compact fp16 features under:
 training/<method_name>/feature_cache/{train,val,test}/
 ```
 
-Approximate compact-cache sizes for 6,000 clips are:
+Approximate compact-cache sizes for the 9,084-clip dataset are:
 
 ```text
-waveform_ssl             about 240 MB
-asr_logmel_encoder       about 12 MB
-audio_spectrogram_vit    about 9 MB
-vision_spectrogram_vit   about 14 MB
+waveform_ssl             about 360 MB    (13 layers x 1536 per clip)
+asr_logmel_encoder       about 130 MB    (7 layers x 1024 per clip)
+audio_spectrogram_vit    about 14 MB     (768 per clip)
+vision_spectrogram_vit   about 21 MB     (1152 per clip)
 ```
+
+Feature caches are local working data and are not tracked, with one exception:
+the `asr_logmel_encoder` cache is committed by project decision, so its
+detector-head experiments are reproducible directly from the repository.
+
+Every runner accepts `--device {auto, cuda, mps, cpu}`. `auto` selects CUDA
+when available and otherwise CPU. MPS is honored only on explicit request: a
+verification run measured large numerical drift between MPS and CPU encoder
+features (35 percent relative on Whisper-base), so MPS output is not treated
+as equivalent and never enters a cache silently. Measured on an Apple M-series
+CPU, the full Whisper-base extraction over all 9,084 clips takes about 11
+minutes; head training afterward takes about 2 minutes.
 
 Head training is local and uses only cached tensors:
 
@@ -70,12 +82,15 @@ size `8`, maximum `20` epochs, and early stopping after `5` validation epochs
 without lower EER. These values are encoded in `TrainConfig`.
 
 At every epoch, the runner prints a progress line to stderr containing method,
-epoch, training loss, validation EER, and validation accuracy at threshold 0.5.
-At the end it prints the final metrics JSON to stdout and writes the same
-selected-run record to `final_models/<method>/metrics.json`.
+epoch, training loss, validation loss, validation EER, and validation accuracy
+at threshold 0.5. At the end it prints the final metrics JSON to stdout and
+writes the same selected-run record to `final_models/<method>/metrics.json`.
 
-The test split is evaluated only after the validation-selected head has been
-restored. Test metrics are not used for head selection.
+`metrics.json` reports, under `selected_head`, the loss, EER, and accuracy of
+the validation-selected head on each of the train, validation, and test
+splits, alongside `best_epoch`, `best_val_eer`, and the full per-epoch
+history. The test split is evaluated only after the validation-selected head
+has been restored. Test metrics are not used for head selection.
 
 A saved detector head is evaluated through:
 

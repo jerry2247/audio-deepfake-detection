@@ -1,0 +1,36 @@
+{
+  "dataset_version": "v1.0",
+  "conditioning": {
+    "conditioning_version": "cond_v1",
+    "params": {
+      "sample_rate": 16000,
+      "channels": 1,
+      "format": "wav_pcm16",
+      "edge_trim_threshold_db": -45.0,
+      "edge_trim_keep_ms": 150,
+      "loudness_target_lufs": -20.0,
+      "true_peak_max_dbfs": -1.5,
+      "codec_roundtrip": "libmp3lame_64k_mono_16k",
+      "max_segment_s": 30.0,
+      "min_segment_s": 2.0
+    },
+    "input_clips": 10514,
+    "output_segments": 10219,
+    "new_segments": 10219,
+    "dropped": 304
+  },
+  "counts": {
+    "fake": {
+      "test": 906,
+      "train": 3184,
+      "val": 452
+    },
+    "real": {
+      "test": 906,
+      "train": 3184,
+      "val": 452
+    }
+  },
+  "n_clips": 9084,
+  "manifest_sha256": "635c440725c0621d60e644afb7d94b8dc12ef0c2dd9e84d2ca210b0fe5560f11"
+}

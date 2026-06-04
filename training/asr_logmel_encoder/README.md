@@ -11,9 +11,9 @@ different synthetic-speech signal from self-supervised speech models.
 Model: encoder of `openai/whisper-base`.
 
 Whisper-base is an encoder-decoder speech recognition model. This method loads
-only the encoder and discards the decoder. The encoder has 6 Transformer layers
-and model dimension 512. The full base model has 74M parameters; only the
-encoder is used for this detector. Whisper is MIT licensed.
+only the encoder and discards the decoder. The encoder has 6 Transformer layers,
+model dimension 512, and 20.59M parameters (the commonly quoted 74M figure for
+whisper-base includes the unused decoder). Whisper is MIT licensed.
 
 The backbone is frozen. No encoder weights, adapters, LoRA weights, or
 fine-tuning parameters are trained.
@@ -30,20 +30,33 @@ the first `100 * L` mel frames out of 3000.
 
 ## Backbone Output
 
-The frozen encoder returns a fixed-length sequence of shape `(1500, 512)` after
-removing the batch dimension. The length is fixed because Whisper always sees a
-30 second input window.
+With hidden states exposed, the frozen encoder returns 7 fixed-length sequence
+tensors: the post-convolution embedding sequence plus the 6 Transformer
+layers, each of shape `(1500, 512)` after removing the batch dimension. The
+length is fixed because Whisper always sees a 30 second input window.
 
-The cache stores compact per-clip features. The extractor computes the temporal
-mean and standard deviation over the speech-content region and excludes padded
-encoder positions. The cached feature shape per clip is `(1024)`.
+The cache stores compact per-clip features, not full frame sequences. For each
+of the 7 hidden-state tensors, the extractor computes the temporal mean and
+standard deviation over the speech-content region, excluding padded encoder
+positions. The cached feature shape per clip is `(7, 1024)`. Keeping every
+layer matters because synthetic-speech artifacts are not strongest at the top
+layer of a speech encoder; which layers carry the signal is learned, and the
+protocol matches the waveform_ssl method for a controlled comparison.
+
+This cache is committed to the repository by project decision, so the
+detector-head experiments below are reproducible without re-running the
+backbone.
 
 ## Detector Head
 
-The detector head maps the cached 1024-dimensional Whisper statistic vector
-through a LayerNorm, GELU, dropout MLP from 1024 to 256 to one logit.
+The detector head learns a softmax-normalized weighting over the 7 cached
+layer-statistic vectors, an attention over layers with one learned logit per
+layer, producing a single 1024-dimensional clip representation. A LayerNorm,
+GELU, dropout MLP maps 1024 to 256 to one logit. The head has 264,712
+trainable parameters. The learned layer weights are themselves reportable:
+they show which encoder depths carry the synthetic-speech signal.
 
-Only the classifier is trained. The implementation is
+Only the layer weights and classifier are trained. The implementation is
 `whisper_base_encoder_detector.py`.
 
 ## Training And Evaluation

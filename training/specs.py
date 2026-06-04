@@ -32,7 +32,9 @@ METHODS: dict[str, MethodSpec] = {
         builder="build_detector",
         final_subdir="asr_logmel_encoder",
         backbone_id="openai/whisper-base",
-        expected_backbone_parameters=74_000_000,
+        # encoder only; the 74M figure for whisper-base includes the unused
+        # decoder. Exact count verified against the loaded checkpoint.
+        expected_backbone_parameters=20_590_592,
     ),
     "audio_spectrogram_vit": MethodSpec(
         key="audio_spectrogram_vit",

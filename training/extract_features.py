@@ -18,6 +18,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--num-workers", type=int, default=0)
     parser.add_argument("--seed", type=int, default=153)
+    parser.add_argument("--device", choices=["auto", "cuda", "mps", "cpu"], default="auto")
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument(
         "--splits",
@@ -36,6 +37,7 @@ def main(argv: list[str] | None = None) -> int:
         batch_size=args.batch_size,
         num_workers=args.num_workers,
         seed=args.seed,
+        device=args.device,
         print_progress=True,
     )
     try:

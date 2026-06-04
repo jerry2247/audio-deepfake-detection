@@ -142,6 +142,8 @@ class TrainingStackTests(unittest.TestCase):
         loader = DataLoader(TinyDataset(), batch_size=2, collate_fn=collate)
         metrics = evaluate_head(head, loader, torch.device("cpu"))
         self.assertEqual(metrics["eer"], 0.0)
+        self.assertIn("loss", metrics)
+        self.assertGreaterEqual(metrics["loss"], 0.0)
 
     def test_evaluate_saved_detector_writes_split_metrics(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -185,7 +187,11 @@ class TrainingStackTests(unittest.TestCase):
             with patch("training.engine.build_head", return_value=TinyHead()):
                 metrics = fit_detector("waveform_ssl", config)
 
-            self.assertIn("test", metrics)
+            self.assertIn("selected_head", metrics)
+            for split in ("train", "val", "test"):
+                split_metrics = metrics["selected_head"][split]
+                for key in ("loss", "eer", "accuracy_at_0_5"):
+                    self.assertIn(key, split_metrics)
             self.assertTrue((output / "waveform_ssl" / "detector_head.pt").exists())
             self.assertTrue((output / "waveform_ssl" / "metrics.json").exists())
 

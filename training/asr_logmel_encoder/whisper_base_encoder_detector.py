@@ -5,7 +5,7 @@ from typing import Any
 import torch
 from torch import nn
 
-from training.heads import EmbeddingHead, lengths_to_mask, masked_mean_std
+from training.heads import LayerWeightedStatsHead, lengths_to_mask, masked_mean_std
 from training.modeling import (
     ModelAccessError,
     count_parameters,
@@ -17,20 +17,32 @@ from training.specs import get_method_spec
 MODEL_ID = "openai/whisper-base"
 SAMPLE_RATE = 16000
 ENCODER_FRAMES_PER_SECOND = 50
-FEATURE_DIM = 1024
+# Whisper-base encoder exposes 7 hidden states: the post-convolution embedding
+# sequence plus the 6 Transformer layers. Synthetic-speech artifacts are not
+# strongest at the top layer, so the cache keeps every layer and the head
+# learns the layer weighting (the standard layer-probing protocol, matching
+# the waveform_ssl method for a controlled comparison).
+NUM_FEATURE_LAYERS = 7
+D_MODEL = 512
+FEATURE_DIM = D_MODEL * 2
 
 
-def build_head() -> EmbeddingHead:
-    return EmbeddingHead(input_dim=FEATURE_DIM, hidden_dim=256, dropout=0.2)
+def build_head() -> LayerWeightedStatsHead:
+    return LayerWeightedStatsHead(
+        num_layers=NUM_FEATURE_LAYERS,
+        stats_dim=FEATURE_DIM,
+        hidden_dim=256,
+        dropout=0.2,
+    )
 
 
 def feature_config() -> dict[str, Any]:
     return {
         "model_id": MODEL_ID,
         "sample_rate": SAMPLE_RATE,
-        "feature": "padding-aware encoder mean and standard deviation",
-        "feature_shape": [FEATURE_DIM],
-        "head": "MLP logit over cached Whisper encoder statistics",
+        "feature": "per-layer padding-aware encoder mean and standard deviation",
+        "feature_shape": [NUM_FEATURE_LAYERS, FEATURE_DIM],
+        "head": "learned softmax layer weighting over cached per-layer statistics, MLP logit",
     }
 
 
@@ -82,12 +94,19 @@ class WhisperBaseEncoderDetector(nn.Module):
         with torch.no_grad():
             outputs = self.backbone(
                 input_features,
-                output_hidden_states=False,
+                output_hidden_states=True,
                 return_dict=True,
             )
-        sequence = outputs.last_hidden_state
-        mask = self._encoder_mask(batch, sequence.shape[1])
-        return masked_mean_std(sequence, mask)
+        hidden_states = outputs.hidden_states
+        if hidden_states is None or len(hidden_states) != NUM_FEATURE_LAYERS:
+            count = "none" if hidden_states is None else len(hidden_states)
+            raise RuntimeError(
+                f"Whisper encoder returned {count} hidden states, "
+                f"expected {NUM_FEATURE_LAYERS}"
+            )
+        mask = self._encoder_mask(batch, hidden_states[0].shape[1])
+        stats = [masked_mean_std(hidden, mask) for hidden in hidden_states]
+        return torch.stack(stats, dim=1)
 
     def forward(self, batch: dict[str, Any]) -> torch.Tensor:
         return self.head(self.extract_features(batch))

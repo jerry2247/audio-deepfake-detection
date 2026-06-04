@@ -19,6 +19,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--num-workers", type=int, default=0)
     parser.add_argument("--seed", type=int, default=153)
+    parser.add_argument("--device", choices=["auto", "cuda", "mps", "cpu"], default="auto")
     parser.add_argument("--no-amp", action="store_true")
     return parser.parse_args(argv)
 
@@ -32,6 +33,7 @@ def main(argv: list[str] | None = None) -> int:
         epochs=0,
         num_workers=args.num_workers,
         seed=args.seed,
+        device=args.device,
         use_amp=not args.no_amp,
         print_progress=False,
     )
