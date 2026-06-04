@@ -1,0 +1,9 @@
+# Dataset-scope ignore rules (audio extensions are already ignored repo-wide).
+# Raw downloads and staged candidate audio are local working data — never tracked.
+sources/*/raw/
+sources/*/staged/
+build/work/
+*.log
+
+# API keys — never tracked.
+.env

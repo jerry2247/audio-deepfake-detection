@@ -1,0 +1,40 @@
+# =============================================================
+# Ignore rules
+# Tracked: code, configs, docs, and folder scaffolding (.gitkeep).
+# Never tracked: audio media, model weights, derived features, and caches.
+# =============================================================
+
+# ---- Audio media (never tracked anywhere) ----
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.opus
+*.m4a
+*.npy
+*.npz
+
+# ---- Model weights, checkpoints, and derived features ----
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+checkpoints/
+weights/
+embeddings/
+
+# ---- Python and tooling caches ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- OS and editor ----
+.DS_Store
+.vscode/
+.idea/
+
+# ---- Always keep folder scaffolding ----
+!.gitkeep
