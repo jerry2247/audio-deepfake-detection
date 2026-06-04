@@ -1,0 +1,23 @@
+{
+  "source": "echofake",
+  "clips": 1300,
+  "hours": 1.86,
+  "by_label": {
+    "fake": 1300
+  },
+  "by_language": {
+    "en": 1300
+  },
+  "by_generator": {
+    "CosyVoice2": 347,
+    "FireRedTTS": 331,
+    "IndexTTS": 325,
+    "MaskGCT": 297
+  },
+  "skipped": {
+    "bonafide": 5792,
+    "replayed": 4493,
+    "invalid:duration": 16,
+    "legacy_or_unknown_generator": 319
+  }
+}

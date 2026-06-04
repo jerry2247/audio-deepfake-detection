@@ -1,0 +1,16 @@
+{
+  "source": "el_garystafford",
+  "clips": 173,
+  "hours": 0.16,
+  "by_label": {
+    "fake": 173
+  },
+  "by_language": {
+    "en": 173
+  },
+  "by_generator": {
+    "elevenlabs": 173
+  },
+  "skipped": {},
+  "repo": "garystafford/deepfake-audio-detection"
+}

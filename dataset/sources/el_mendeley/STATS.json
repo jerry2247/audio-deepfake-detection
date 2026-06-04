@@ -1,0 +1,17 @@
+{
+  "source": "el_mendeley",
+  "clips": 600,
+  "hours": 1.52,
+  "by_label": {
+    "fake": 600
+  },
+  "by_language": {
+    "en": 600
+  },
+  "by_generator": {
+    "elevenlabs": 335,
+    "respeecher": 265
+  },
+  "skipped": {},
+  "dataset": "https://data.mendeley.com/datasets/79g59sp69z/1"
+}

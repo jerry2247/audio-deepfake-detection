@@ -1,0 +1,21 @@
+{
+  "source": "audeter",
+  "clips": 705,
+  "hours": 1.59,
+  "by_label": {
+    "fake": 705
+  },
+  "by_language": {
+    "en": 705
+  },
+  "by_generator": {
+    "audeter_f5_tts": 150,
+    "audeter_sparktts": 142,
+    "audeter_fish_speech": 141,
+    "audeter_zonos": 138,
+    "audeter_cosyvoice": 134
+  },
+  "skipped": {
+    "invalid:duration": 95
+  }
+}
