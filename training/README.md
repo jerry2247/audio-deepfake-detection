@@ -58,9 +58,12 @@ audio_spectrogram_vit    about 14 MB     (768 per clip)
 vision_spectrogram_vit   about 21 MB     (1152 per clip)
 ```
 
-Feature caches are local working data and are not tracked, with one exception:
-the `asr_logmel_encoder` cache is committed by project decision, so its
-detector-head experiments are reproducible directly from the repository.
+The compact caches are committed by project decision so detector-head
+experiments are reproducible directly from the repository: asr_logmel_encoder
+(130 MB), vision_spectrogram_vit (21 MB), and audio_spectrogram_vit (14 MB).
+The waveform_ssl features file is 254 MB for the train split, above sensible
+repository limits, so only its metadata is tracked; the cache regenerates
+deterministically on CPU.
 
 Every runner accepts `--device {auto, cuda, mps, cpu}`. `auto` selects CUDA
 when available and otherwise CPU. MPS is honored only on explicit request: a
@@ -121,6 +124,36 @@ validation EER, test EER, accuracy at threshold 0.5, and the training history.
 Saved-head evaluation additionally writes `evaluation_train.json`,
 `evaluation_val.json`, or `evaluation_test.json`, depending on the requested
 split.
+
+## Results
+
+Dataset v1.0 (9,084 clips; train 3,184, validation 452, test 906 per class).
+Heads selected by validation EER; test never used for selection. The selected
+head is evaluated once on every split. Lower EER is better.
+
+| method | split | loss | EER | accuracy at 0.5 |
+|---|---|---|---|---|
+| waveform_ssl | train | 0.257 | 3.80% | 89.0% |
+| waveform_ssl | val | 0.317 | 5.31% | 88.1% |
+| waveform_ssl | test | 0.337 | 5.08% | 85.4% |
+| vision_spectrogram_vit | train | 0.058 | 1.88% | 97.9% |
+| vision_spectrogram_vit | val | 0.107 | 3.54% | 96.8% |
+| vision_spectrogram_vit | test | 0.141 | 5.41% | 94.6% |
+| asr_logmel_encoder | train | 0.168 | 4.93% | 93.9% |
+| asr_logmel_encoder | val | 0.181 | 4.20% | 93.0% |
+| asr_logmel_encoder | test | 0.177 | 5.63% | 93.7% |
+| audio_spectrogram_vit | train | 0.175 | 6.31% | 93.3% |
+| audio_spectrogram_vit | val | 0.173 | 5.31% | 93.1% |
+| audio_spectrogram_vit | test | 0.232 | 8.72% | 90.3% |
+
+Selected epochs: waveform_ssl 9 of 14, vision_spectrogram_vit 13 of 18,
+asr_logmel_encoder 2 of 7, audio_spectrogram_vit 2 of 7 (early stopping,
+patience 5). The learned layer attention of the two sequence-encoder methods
+concentrates on early layers (WavLM layers 2 and 3 strongest), consistent with
+synthesis artifacts living in low-level acoustic representations. Every saved
+head was verified to reproduce its test metrics exactly when reloaded from
+disk. Per-method details and full histories live in
+`final_models/<method>/metrics.json`.
 
 ## Failure Policy
 

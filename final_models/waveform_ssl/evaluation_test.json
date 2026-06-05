@@ -1,0 +1,9 @@
+{
+  "method": "waveform_ssl",
+  "metrics": {
+    "accuracy_at_0_5": 0.8537527322769165,
+    "eer": 0.05077262595295906,
+    "loss": 0.3370172679424286
+  },
+  "split": "test"
+}

@@ -1,0 +1,31 @@
+{
+  "cache_dir": "training/waveform_ssl/feature_cache",
+  "display_name": "WavLM-Base+ waveform SSL",
+  "feature_config": {
+    "feature": "per-layer masked mean and standard deviation",
+    "feature_shape": [
+      13,
+      1536
+    ],
+    "head": "learned layer weighting over cached per-layer statistics, MLP logit",
+    "model_id": "microsoft/wavlm-base-plus",
+    "sample_rate": 16000
+  },
+  "frozen_backbone": "microsoft/wavlm-base-plus",
+  "method": "waveform_ssl",
+  "train_config": {
+    "batch_size": 8,
+    "cache_root": "training",
+    "dataset_root": "dataset",
+    "device": "auto",
+    "epochs": 20,
+    "learning_rate": 0.0003,
+    "num_workers": 0,
+    "output_root": "final_models",
+    "patience": 5,
+    "print_progress": true,
+    "seed": 153,
+    "use_amp": true,
+    "weight_decay": 0.0001
+  }
+}
