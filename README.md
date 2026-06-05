@@ -1,15 +1,17 @@
-# CS153 AI Audio Detection
+# AI Cochella is Real. But is your track a deepfake? (Jerry CS153 Project)
 
-Binary detection of real human speech versus AI-generated speech using frozen
-pretrained backbones and lightweight detector heads.
+With audio generation models like ElevenLabs and Grok Voice becoming better each day, it is becoming really difficult to tell deepfakes apart from real speech. This creates a serious trust issue, even for something as simple as picking up the phone or scrolling on Instagram reels.
 
-The project compares four detector families on one frozen dataset. Each method
-derives its own features from the same canonical waveform clips, freezes the
-pretrained backbone, and trains only a small detector head. The main evaluation
-metric is Equal Error Rate (EER) on the dataset test split. Splits are supplied
-by the dataset and are leakage safe: whole groups sharing a speaker, a source
-recording, or a transcript appearing in both classes are assigned to a single
-split (seed 301), and every split is balanced exactly 1:1 real to fake.
+As someone interested in AI research as well as software, I decided to train 4 different ML models with different architectures to detect deepfakes.
+
+1. WavLM-Base+: A waveform-based encoder that analyzes raw audio signals directly.  
+2. Whisper-Base: A speech-recognition encoder that extracts phonetic and linguistic representations.
+3. SSLAM: An audio-specific transformer that evaluates spectrogram-frequency        
+  features.
+4. DINOv3: A vision transformer that treats the spectrogram as a visual image to detect pattern anomalies.
+
+Each detector is a frozen pretrained backbone with a small trained classification head, so the comparison isolates what each representation actually knows about synthetic speech.
+
 
 ## AI Usage Disclosure
 
