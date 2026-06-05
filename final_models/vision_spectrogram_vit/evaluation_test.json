@@ -1,0 +1,9 @@
+{
+  "method": "vision_spectrogram_vit",
+  "metrics": {
+    "accuracy_at_0_5": 0.9459161162376404,
+    "eer": 0.05408388376235962,
+    "loss": 0.14115077257156372
+  },
+  "split": "test"
+}

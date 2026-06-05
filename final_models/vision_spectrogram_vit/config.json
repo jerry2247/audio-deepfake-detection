@@ -1,0 +1,36 @@
+{
+  "cache_dir": "training/vision_spectrogram_vit/feature_cache",
+  "display_name": "DINOv3 ViT-S/16 vision spectrogram",
+  "feature_config": {
+    "feature": "pooler_output concatenated with patch-token mean and std",
+    "feature_shape": [
+      1152
+    ],
+    "head": "MLP logit over cached DINOv3 spectrogram feature",
+    "hop_length": 160,
+    "image_size": 224,
+    "mel_bins": 128,
+    "model_id": "facebook/dinov3-vits16-pretrain-lvd1689m",
+    "n_fft": 400,
+    "sample_rate": 16000,
+    "top_db": 80.0,
+    "win_length": 400
+  },
+  "frozen_backbone": "facebook/dinov3-vits16-pretrain-lvd1689m",
+  "method": "vision_spectrogram_vit",
+  "train_config": {
+    "batch_size": 8,
+    "cache_root": "training",
+    "dataset_root": "dataset",
+    "device": "auto",
+    "epochs": 20,
+    "learning_rate": 0.0003,
+    "num_workers": 0,
+    "output_root": "final_models",
+    "patience": 5,
+    "print_progress": true,
+    "seed": 153,
+    "use_amp": true,
+    "weight_decay": 0.0001
+  }
+}
