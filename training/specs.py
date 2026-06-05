@@ -44,7 +44,8 @@ METHODS: dict[str, MethodSpec] = {
         builder="build_detector",
         final_subdir="audio_spectrogram_vit",
         backbone_id="ta012/SSLAM_pretrain",
-        expected_backbone_parameters=90_000_000,
+        # exact count verified against the loaded checkpoint
+        expected_backbone_parameters=89_972_736,
     ),
     "vision_spectrogram_vit": MethodSpec(
         key="vision_spectrogram_vit",

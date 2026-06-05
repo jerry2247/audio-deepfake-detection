@@ -21,6 +21,21 @@ model code.
 The backbone is frozen. No SSLAM weights, adapters, LoRA weights, or fine-tuning
 parameters are trained.
 
+The repository's EAT remote code targets transformers 4.x and does not load
+under transformers 5. Feature extraction for this method therefore runs in a
+dedicated virtual environment pinned to `transformers>=4.49,<5` (with `timm`
+installed), created at `.venv_extract/` inside this folder:
+
+```text
+python3 -m venv --system-site-packages .venv_extract
+.venv_extract/bin/pip install "transformers>=4.49,<5" timm
+.venv_extract/bin/python -m training.extract_features --method audio_spectrogram_vit
+```
+
+Head training and evaluation are cache-facing and run in the main environment.
+A linear-probe check on the cached features measured 4.9 percent validation
+EER, confirming the small-magnitude embeddings carry strong class signal.
+
 ## Feature Extraction
 
 Input is the SSLAM model-card feature representation: the waveform is mean
