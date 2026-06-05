@@ -11,6 +11,8 @@ As someone interested in AI research as well as software, I decided to train 4 d
 
 Each detector is a frozen pretrained backbone with a small trained classification head, so the comparison isolates what each representation actually knows about synthetic speech.
 
+You can try the live demo at https://jerrygu.com/ai-audio-lab.html. The four models run on a Hugging Face Space and analyze any audio clip you upload.
+
 
 ## AI Usage Disclosure
 
@@ -49,6 +51,14 @@ to spectrogram images is nearly as strong while being the smallest model. The
 general-audio spectrogram model trails the speech-specialized representations.
 Accuracy at the fixed 0.5 threshold is reported for completeness; EER is the
 threshold-free headline metric.
+
+## Use Cases
+
+The most direct use is screening suspicious voice clips. A bank or a call center could run incoming audio through detectors like these and flag likely voice cloning before a human ever reviews it. Social platforms could use the same idea to triage viral audio for fact checking. I see this as a screening signal rather than proof, since even a five percent error rate is far too high to accuse someone on its own.
+
+## Future Work
+
+The first thing I would add is confidence calibration, so the probabilities can be trusted at face value. I also found that heavy MP3 compression weakens detection, so training on compressed copies of the clips is an obvious next step. Finally, the four models make mistakes on different clips, which means an ensemble of all four should beat any single one.
 
 ## Repository Layout
 
