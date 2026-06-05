@@ -1,0 +1,34 @@
+{
+  "cache_dir": "training/audio_spectrogram_vit/feature_cache",
+  "display_name": "SSLAM ViT-Base audio spectrogram",
+  "feature_config": {
+    "feature": "SSLAM extract_features embedding",
+    "feature_shape": [
+      768
+    ],
+    "head": "MLP logit over cached SSLAM embedding",
+    "mel_bins": 128,
+    "model_id": "ta012/SSLAM_pretrain",
+    "norm_mean": -4.268,
+    "norm_std": 4.569,
+    "sample_rate": 16000,
+    "target_frames": 1024
+  },
+  "frozen_backbone": "ta012/SSLAM_pretrain",
+  "method": "audio_spectrogram_vit",
+  "train_config": {
+    "batch_size": 8,
+    "cache_root": "training",
+    "dataset_root": "dataset",
+    "device": "auto",
+    "epochs": 20,
+    "learning_rate": 0.0003,
+    "num_workers": 0,
+    "output_root": "final_models",
+    "patience": 5,
+    "print_progress": true,
+    "seed": 153,
+    "use_amp": true,
+    "weight_decay": 0.0001
+  }
+}

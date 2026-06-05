@@ -1,0 +1,9 @@
+{
+  "method": "audio_spectrogram_vit",
+  "metrics": {
+    "accuracy_at_0_5": 0.9034216403961182,
+    "eer": 0.0871964693069458,
+    "loss": 0.23241084814071655
+  },
+  "split": "test"
+}
