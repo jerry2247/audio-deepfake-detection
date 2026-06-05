@@ -1,4 +1,4 @@
-# AI Cochella is Real. But is your track a deepfake? (Jerry CS153 Project)
+# AI Coachella is Real. But is your track a deepfake? (Jerry CS153 Project)
 
 With audio generation models like ElevenLabs and Grok Voice becoming better each day, it is becoming really difficult to tell deepfakes apart from real speech. This creates a serious trust issue, even for something as simple as picking up the phone or scrolling on Instagram reels.
 
@@ -6,8 +6,7 @@ As someone interested in AI research as well as software, I decided to train 4 d
 
 1. WavLM-Base+: A waveform-based encoder that analyzes raw audio signals directly.  
 2. Whisper-Base: A speech-recognition encoder that extracts phonetic and linguistic representations.
-3. SSLAM: An audio-specific transformer that evaluates spectrogram-frequency        
-  features.
+3. SSLAM: An audio-specific transformer that evaluates spectrogram-frequency features.
 4. DINOv3: A vision transformer that treats the spectrogram as a visual image to detect pattern anomalies.
 
 Each detector is a frozen pretrained backbone with a small trained classification head, so the comparison isolates what each representation actually knows about synthetic speech.
