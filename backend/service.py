@@ -87,6 +87,8 @@ class AudioLabService:
                 sample_rate=audio.sample_rate,
                 channels=1,
                 num_samples=audio.num_samples,
+                truncated=audio.truncated,
+                original_duration_s=audio.original_duration_s,
             ),
             visualizations=build_visualizations(audio),
             methods=results,

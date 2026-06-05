@@ -28,6 +28,8 @@ class AudioSummary(BaseModel):
     sample_rate: int = 16000
     channels: int = 1
     num_samples: int
+    truncated: bool = False
+    original_duration_s: float | None = None
 
 
 class WaveformVisualization(BaseModel):

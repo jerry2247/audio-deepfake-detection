@@ -3,7 +3,7 @@ FROM python:3.12-slim
 WORKDIR /app
 
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends libsndfile1 \
+    && apt-get install -y --no-install-recommends libsndfile1 ffmpeg \
     && rm -rf /var/lib/apt/lists/*
 
 ENV AUDIO_LAB_MODEL_ROOT=/app/final_models \

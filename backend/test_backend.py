@@ -30,6 +30,51 @@ def test_decode_audio_upload_resamples_to_project_rate() -> None:
     assert decoded.num_samples == 4000
 
 
+def _encode(payload_wav: bytes, suffix: str) -> bytes | None:
+    """Encode WAV bytes into another container with ffmpeg; None if unavailable."""
+    import shutil
+    import subprocess
+    import tempfile
+    from pathlib import Path
+
+    if shutil.which("ffmpeg") is None:
+        return None
+    with tempfile.TemporaryDirectory() as tmp:
+        src = Path(tmp) / "in.wav"
+        dst = Path(tmp) / f"out{suffix}"
+        src.write_bytes(payload_wav)
+        proc = subprocess.run(
+            ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y",
+             "-i", str(src), str(dst)],
+            capture_output=True, timeout=60,
+        )
+        if proc.returncode != 0 or not dst.exists():
+            return None
+        return dst.read_bytes()
+
+
+def test_decode_audio_upload_truncates_long_clips_with_flag() -> None:
+    payload = _wav_bytes(duration_s=42.0)
+    decoded = decode_audio_upload(payload)
+    assert decoded.truncated is True
+    assert decoded.num_samples == 30 * 16000
+    assert decoded.original_duration_s is not None
+    assert 41.5 <= decoded.original_duration_s <= 42.5
+    short = decode_audio_upload(_wav_bytes(duration_s=1.0))
+    assert short.truncated is False and short.original_duration_s is None
+
+
+def test_decode_audio_upload_supports_common_compressed_formats() -> None:
+    wav = _wav_bytes(duration_s=1.0)
+    for suffix in (".mp3", ".m4a", ".flac", ".ogg"):
+        payload = _encode(wav, suffix)
+        if payload is None:
+            continue  # encoder not available on this machine
+        decoded = decode_audio_upload(payload)
+        assert decoded.sample_rate == 16000, suffix
+        assert 0.8 <= decoded.duration_s <= 1.3, (suffix, decoded.duration_s)
+
+
 def test_api_health_methods_and_analyze_without_model_loading() -> None:
     service = AudioLabService(model_root="final_models", load_models=False)
     client = TestClient(create_app(service))

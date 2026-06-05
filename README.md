@@ -11,6 +11,12 @@ by the dataset and are leakage safe: whole groups sharing a speaker, a source
 recording, or a transcript appearing in both classes are assigned to a single
 split (seed 301), and every split is balanced exactly 1:1 real to fake.
 
+## AI Usage Disclosure
+
+I used Claude Code and OpenAI Codex in setting up the experimental and data pipelines. Gemini Deep Research was used for researching AI architectures and literature in the area of audio deepfake detection, and Antigravity CLI (a new Google tool I wanted to explore and learn) was used for frontend UI design.
+
+I also used Claude Code in helping with polishing documentation to be professional.
+
 ## Results
 
 Dataset v1.0: 9,084 clips (4,542 real, 4,542 fake; train 3,184, validation
