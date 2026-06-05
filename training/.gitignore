@@ -1,9 +1,12 @@
 __pycache__/
 */__pycache__/
-# Derived feature caches are not tracked, with one exception: the
-# asr_logmel_encoder cache is committed by project decision, so detector-head
-# experiments are reproducible without re-running the frozen backbone.
-waveform_ssl/feature_cache/
-audio_spectrogram_vit/feature_cache/
-vision_spectrogram_vit/feature_cache/
+# Derived feature caches: compact caches are committed by project decision so
+# detector-head experiments are reproducible from the repository alone
+# (asr_logmel_encoder 130 MB, vision_spectrogram_vit 21 MB,
+# audio_spectrogram_vit 14 MB). The waveform_ssl features file is 254 MB for
+# the train split, above sensible repository and GitHub file limits, so only
+# its metadata is tracked; the cache regenerates deterministically on CPU.
+waveform_ssl/feature_cache/**/features.pt
 !asr_logmel_encoder/feature_cache/**
+!vision_spectrogram_vit/feature_cache/**
+!audio_spectrogram_vit/feature_cache/**

@@ -23,7 +23,8 @@ METHODS: dict[str, MethodSpec] = {
         builder="build_detector",
         final_subdir="waveform_ssl",
         backbone_id="microsoft/wavlm-base-plus",
-        expected_backbone_parameters=94_700_000,
+        # exact count verified against the loaded checkpoint
+        expected_backbone_parameters=94_381_936,
     ),
     "asr_logmel_encoder": MethodSpec(
         key="asr_logmel_encoder",
