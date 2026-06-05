@@ -58,7 +58,7 @@ The most direct use is screening suspicious voice clips. A bank or a call center
 
 ## Future Work
 
-The first thing I would add is confidence calibration, so the probabilities can be trusted at face value. I also found that heavy MP3 compression weakens detection, so training on compressed copies of the clips is an obvious next step. Finally, the four models make mistakes on different clips, which means an ensemble of all four should beat any single one.
+For future work, I want to make the system multimodal, so it can analyze video and audio together instead of just the sound. I also want to build a version that runs in the background and checks audio automatically, so deepfakes get flagged in real time instead of someone having to upload a clip by hand.
 
 ## Repository Layout
 
